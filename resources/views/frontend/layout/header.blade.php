@@ -43,7 +43,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-3">
                         <div class="logo-part">
-                            <a href="index.html"><img src="{{asset('assets/frontend/images/Digi-Merlin.gif')}}" alt=""></a>
+                            <a href="#"><img src="{{asset('assets/frontend/images/Digi-Merlin.gif')}}" alt=""></a>
                         </div>
                         <div class="mobile-menu">
                             <a href="#" class="rs-menu-toggle rs-menu-toggle-close secondary">
@@ -55,9 +55,20 @@
                         <div class="rs-menu-area">
                             <div class="main-menu">
                                 <nav class="rs-menu pr-100 md-pr-0">
-                                    <ul id="onepage-menu" class="nav-menu">
-                                        <li> <a href="#rs-header">Home</a></li>
-                                        <li><a href="#rs-services">Services</a></li>
+                                    <ul class="nav-menu">
+                                        <li> <a href="/">Home</a></li>
+                                        <!-- <li><a href="#rs-services">Services</a></li> -->
+                                        <li class="menu-item-has-children">
+                                                <a href="#rs-services">Services</a>
+                                                <ul class="sub-menu">
+                                                    <li><a href="/web-development">Web Development</a> </li>
+                                                    <li><a href="web-development.html">App Development</a> </li>
+                                                    <li><a href="analytic-solutions.html">Digital Marketing</a> </li>
+                                                    <li><a href="cloud-and-devops.html">Search Engine Optimization</a></li>
+                                                    <li><a href="project-design.html">Brand Development</a> </li>
+                                                    <li><a href="data-center.html">Graphic Design</a> </li>
+                                                </ul>
+                                            </li>
                                         <li><a href="#rs-about">About</a></li>
                                         <li><a href="#rs-portfolio">Portfolio</a></li>
                                         <li><a href="#client">Clients</a></li>

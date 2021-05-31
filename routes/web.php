@@ -19,5 +19,23 @@ use Illuminate\Support\Facades\Route;
 
 
 Route::get('/', function () {
-    return view('layout.master');
+    return view('frontend.pages.home');
+});
+Route::get('/web-development', function () {
+    return view('frontend.pages.web-development');
+});
+Route::get('/app-development', function () {
+    return view('frontend.pages.app-development');
+});
+Route::get('/digital-marketing', function () {
+    return view('frontend.pages.digital-marketing');
+});
+Route::get('/seo', function () {
+    return view('frontend.pages.seo')->name('seo');
+});
+Route::get('/brand-development', function () {
+    return view('frontend.pages.brand-development');
+});
+Route::get('/graphic-design', function () {
+    return view('frontend.pages.graphic-design');
 });

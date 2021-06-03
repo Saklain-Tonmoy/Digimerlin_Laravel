@@ -43,7 +43,7 @@
 <!-- Slider Section End -->
 
 <!-- Services Section Start -->
-<div id="services" class="rs-services main-home style1 pt-100 md-pt-70">
+<!-- <div id="services" class="rs-services main-home style1 pt-100 md-pt-70">
     <div class="container">
         <div class="row">
             <div class="col-lg-4 col-md-6 mb-30">
@@ -162,8 +162,241 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <!-- Services Section End -->
+
+
+
+
+<!-- Services Section Start -->
+<div class="rs-services style2 pt-120 pb-120 md-pt-80 md-pb-80">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-6 mb-25">
+                           <div class="flip-box-inner">
+                                <div class="flip-box-wrap">
+                                    <div class="front-part">
+                                       <div class="front-content-part">
+                                            <div class="front-icon-part">
+                                                <div class="icon-part">
+                                                    <img src="{{asset('assets/frontend/images/services/main-home/icons/1.png')}}" alt=""> 
+                                                </div>
+                                            </div>
+                                            <div class="front-title-part">
+                                                <h3 class="title"><a href="#">Software Development</a></h3>
+                                            </div>
+                                            <div class="front-desc-part">
+                                                <p>
+                                                    At vero eos et accusamus etiusto odio praesentium accusamus etiusto odio data center for managing database.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="back-front">
+                                        <div class="back-front-content">
+                                            <div class="back-title-part">
+                                                <h3 class="back-title"><a href="#">Software Development</a></h3>
+                                            </div>
+                                            <div class="back-desc-part">
+                                                <p class="back-desc">We denounce with righteous indignation and dislike men who are so beguiled and demo ralized your data.</p>
+                                            </div>
+                                            <div class="back-btn-part">
+                                                <a class="readon view-more" href="/contact">Get In Touch</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                           </div> 
+                        </div>
+                        <div class="col-lg-4 col-md-6 mb-25">
+                           <div class="flip-box-inner">
+                                <div class="flip-box-wrap">
+                                    <div class="front-part">
+                                       <div class="front-content-part">
+                                            <div class="front-icon-part">
+                                                <div class="icon-part">
+                                                    <img src="{{asset('assets/frontend/images/services/main-home/icons/2.png')}}" alt=""> 
+                                                </div>
+                                            </div>
+                                            <div class="front-title-part">
+                                                <h3 class="title"><a href="#"> Web Development</a></h3>
+                                            </div>
+                                            <div class="front-desc-part">
+                                                <p>
+                                                    At vero eos et accusamus etiusto odio praesentium accusamus etiusto odio data center for managing database.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="back-front">
+                                        <div class="back-front-content">
+                                            <div class="back-title-part">
+                                                <h3 class="back-title"><a href="#"> Web Development</a></h3>
+                                            </div>
+                                            <div class="back-desc-part">
+                                                <p class="back-desc">We denounce with righteous indignation and dislike men who are so beguiled and demo ralized your data.</p>
+                                            </div>
+                                            <div class="back-btn-part">
+                                                <a class="readon view-more" href="/contact">Get In Touch</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                           </div> 
+                        </div>
+                        <div class="col-lg-4 col-md-6 mb-25">
+                           <div class="flip-box-inner">
+                                <div class="flip-box-wrap">
+                                    <div class="front-part">
+                                       <div class="front-content-part">
+                                            <div class="front-icon-part">
+                                                <div class="icon-part">
+                                                    <img src="{{asset('assets/frontend/images/services/main-home/icons/3.png')}}" alt=""> 
+                                                </div>
+                                            </div>
+                                            <div class="front-title-part">
+                                                <h3 class="title"><a href="#">Analytic Solutions</a></h3>
+                                            </div>
+                                            <div class="front-desc-part">
+                                                <p>
+                                                    At vero eos et accusamus etiusto odio praesentium accusamus etiusto odio data center for managing database.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="back-front">
+                                        <div class="back-front-content">
+                                            <div class="back-title-part">
+                                                <h3 class="back-title"><a href="#">Analytic Solutions</a></h3>
+                                            </div>
+                                            <div class="back-desc-part">
+                                                <p class="back-desc">We denounce with righteous indignation and dislike men who are so beguiled and demo ralized your data.</p>
+                                            </div>
+                                            <div class="back-btn-part">
+                                                <a class="readon view-more" href="/contact">Get In Touch</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                           </div> 
+                        </div>
+                        <div class="col-lg-4 col-md-6 md-mb-25">
+                           <div class="flip-box-inner">
+                                <div class="flip-box-wrap">
+                                    <div class="front-part">
+                                       <div class="front-content-part">
+                                            <div class="front-icon-part">
+                                                <div class="icon-part">
+                                                    <img src="{{asset('assets/frontend/images/services/main-home/icons/4.png')}}" alt=""> 
+                                                </div>
+                                            </div>
+                                            <div class="front-title-part">
+                                                <h3 class="title"><a href="cloud-and-devops.html">Cloud and DevOps</a></h3>
+                                            </div>
+                                            <div class="front-desc-part">
+                                                <p>
+                                                    At vero eos et accusamus etiusto odio praesentium accusamus etiusto odio data center for managing database.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="back-front">
+                                        <div class="back-front-content">
+                                            <div class="back-title-part">
+                                                <h3 class="back-title"><a href="#">Cloud and DevOps</a></h3>
+                                            </div>
+                                            <div class="back-desc-part">
+                                                <p class="back-desc">We denounce with righteous indignation and dislike men who are so beguiled and demo ralized your data.</p>
+                                            </div>
+                                            <div class="back-btn-part">
+                                                <a class="readon view-more" href="/contact">Get In Touch</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                           </div> 
+                        </div>
+                        <div class="col-lg-4 col-md-6 sm-mb-25">
+                           <div class="flip-box-inner">
+                                <div class="flip-box-wrap">
+                                    <div class="front-part">
+                                       <div class="front-content-part">
+                                            <div class="front-icon-part">
+                                                <div class="icon-part">
+                                                    <img src="{{asset('assets/frontend/images/services/main-home/icons/5.png')}}" alt=""> 
+                                                </div>
+                                            </div>
+                                            <div class="front-title-part">
+                                                <h3 class="title"><a href="#">Product Design</a></h3>
+                                            </div>
+                                            <div class="front-desc-part">
+                                                <p>
+                                                    At vero eos et accusamus etiusto odio praesentium accusamus etiusto odio data center for managing database.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="back-front">
+                                        <div class="back-front-content">
+                                            <div class="back-title-part">
+                                                <h3 class="back-title"><a href="product-design.html">Product Design</a></h3>
+                                            </div>
+                                            <div class="back-desc-part">
+                                                <p class="back-desc">We denounce with righteous indignation and dislike men who are so beguiled and demo ralized your data.</p>
+                                            </div>
+                                            <div class="back-btn-part">
+                                                <a class="readon view-more" href="/contact">Get In Touch</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                           </div> 
+                        </div>
+                        <div class="col-lg-4 col-md-6">
+                           <div class="flip-box-inner">
+                                <div class="flip-box-wrap">
+                                    <div class="front-part">
+                                       <div class="front-content-part">
+                                            <div class="front-icon-part">
+                                                <div class="icon-part">
+                                                    <img src="{{asset('assets/frontend/images/services/main-home/icons/6.png')}}" alt=""> 
+                                                </div>
+                                            </div>
+                                            <div class="front-title-part">
+                                                <h3 class="title"><a href="#">Data Center</a></h3>
+                                            </div>
+                                            <div class="front-desc-part">
+                                                <p>
+                                                    At vero eos et accusamus etiusto odio praesentium accusamus etiusto odio data center for managing database.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="back-front">
+                                        <div class="back-front-content">
+                                            <div class="back-title-part">
+                                                <h3 class="back-title"><a href="data-center.html">Data Center</a></h3>
+                                            </div>
+                                            <div class="back-desc-part">
+                                                <p class="back-desc">We denounce with righteous indignation and dislike men who are so beguiled and demo ralized your data.</p>
+                                            </div>
+                                            <div class="back-btn-part">
+                                                <a class="readon view-more" href="/contact">Get In Touch</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                           </div> 
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Services Section End -->
+
+
+
+
+
 
 <!-- About Section Start -->
 <div id="about" class="rs-about bg4 pt-120 pb-120 md-pt-80 md-pb-80">
@@ -770,72 +1003,56 @@
             <div class="partner-item">
                 <div class="logo-img">
                     <a href="#">
-                        <img class="hover-logo" src="{{asset('assets/frontend/images/partner/1.png')}}" alt="">
-                        <img class="main-logo" src="{{asset('assets/frontend/images/partner/1.png')}}" alt="">
+                        <img src="{{asset('assets/frontend/images/partner/style2/1.png')}}" alt="">
                     </a>
                 </div>
             </div>
             <div class="partner-item">
                 <div class="logo-img">
                     <a href="#">
-                        <img class="hover-logo" src="{{asset('assets/frontend/images/partner/2.png')}}" alt="">
-                        <img class="main-logo" src="{{asset('assets/frontend/images/partner/2.png')}}" alt="">
+                        <img src="{{asset('assets/frontend/images/partner/style2/2.png')}}" alt="">
                     </a>
                 </div>
             </div>
             <div class="partner-item">
                 <div class="logo-img">
                     <a href="#">
-                        <img class="hover-logo" src="{{asset('assets/frontend/images/partner/3.png')}}" alt="">
-                        <img class="main-logo" src="{{asset('assets/frontend/images/partner/3.png')}}" alt="">
+                        <img src="{{asset('assets/frontend/images/partner/style2/3.png')}}" alt="">
                     </a>
                 </div>
             </div>
             <div class="partner-item">
                 <div class="logo-img">
                     <a href="#">
-                        <img class="hover-logo" src="{{asset('assets/frontend/images/partner/4.png')}}" alt="">
-                        <img class="main-logo" src="{{asset('assets/frontend/images/partner/4.png')}}" alt="">
+                        <img src="{{asset('assets/frontend/images/partner/style2/4.png')}}" alt="">
                     </a>
                 </div>
             </div>
             <div class="partner-item">
                 <div class="logo-img">
                     <a href="#">
-                        <img class="hover-logo" src="{{asset('assets/frontend/images/partner/5.png')}}" alt="">
-                        <img class="main-logo" src="{{asset('assets/frontend/images/partner/5.png')}}" alt="">
+                        <img src="{{asset('assets/frontend/images/partner/style2/5.png')}}" alt="">
                     </a>
                 </div>
             </div>
             <div class="partner-item">
                 <div class="logo-img">
                     <a href="#">
-                        <img class="hover-logo" src="{{asset('assets/frontend/images/partner/6.png')}}" alt="">
-                        <img class="main-logo" src="{{asset('assets/frontend/images/partner/6.png')}}" alt="">
+                        <img src="{{asset('assets/frontend/images/partner/style2/6.png')}}" alt="">
                     </a>
                 </div>
             </div>
             <div class="partner-item">
                 <div class="logo-img">
                     <a href="#">
-                        <img class="hover-logo" src="{{asset('assets/frontend/images/partner/7.png')}}" alt="">
-                        <img class="main-logo" src="{{asset('assets/frontend/images/partner/7.png')}}" alt="">
+                        <img src="{{asset('assets/frontend/images/partner/style2/7.png')}}" alt="">
                     </a>
                 </div>
             </div>
             <div class="partner-item">
                 <div class="logo-img">
                     <a href="#">
-                        <img class="hover-logo" src="{{asset('assets/frontend/images/partner/8.png')}}" alt="">
-                        <img class="main-logo" src="{{asset('assets/frontend/images/partner/8.png')}}" alt="">
-                    </a>
-                </div>
-            </div>
-            <div class="partner-item">
-                <div class="logo-img">
-                    <a href="#">
-                        <img class="hover-logo" src="{{asset('assets/frontend/images/partner/9.png')}}" alt="">
-                        <img class="main-logo" src="{{asset('assets/frontend/images/partner/9.png')}}" alt="">
+                        <img src="{{asset('assets/frontend/images/partner/style2/8.png')}}" alt="">
                     </a>
                 </div>
             </div>
@@ -845,7 +1062,7 @@
 <!-- Partner End -->
 
 <!-- Testimonial Section Start -->
-<div class="testimonial main-home style2 bg5 pt-120 pb-120 md-pt-80 md-pb-80">
+<div class="rs-testimonial main-home style2 bg5 pt-120 pb-120 md-pt-80 md-pb-80">
     <div class="container">
         <div class="sec-title2 text-center mb-45">
             <span class="sub-text white-color">Testimonial</span>

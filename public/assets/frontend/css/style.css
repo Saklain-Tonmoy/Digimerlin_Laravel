@@ -4858,6 +4858,11 @@ body .search-modal .close:hover {
   bottom: 0px;
   right: 0;
 }
+.rs-services.style2 {
+  position: relative;
+  z-index: 111;
+  margin-top: -200px;  
+}
 .rs-services.style2 .flip-box-inner {
   position: relative;
   z-index: 1;
@@ -4874,7 +4879,7 @@ body .search-modal .close:hover {
   border-style: solid;
   border-width: 0px 0px 0px 0px;
   border-radius: 10px 10px 10px 10px;
-  box-shadow: 3px 7px 25px 0px rgba(0, 0, 0, 0.05);
+  box-shadow: 0px 0px 48px 0px rgba(162, 162, 162, 0.5);
 }
 .rs-services.style2 .flip-box-inner .flip-box-wrap .front-part .front-content-part .front-icon-part {
   margin-bottom: 15px;
@@ -8782,7 +8787,7 @@ body .search-modal .close:hover {
   padding: 92px 0 65px;
 }
 .rs-footer .footer-top .footer-logo img {
-  height: 40px;
+  height: 60px;
 }
 .rs-footer .footer-top .widget-title {
   font-size: 22px;

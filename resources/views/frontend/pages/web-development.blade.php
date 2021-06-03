@@ -2,7 +2,7 @@
 
 @section('content')
 <!-- Services Single Start -->
-<div class="rs-services-single pt-50 pb-120 md-pt-80 md-pb-80">
+<div class="rs-services-single pt-60 pb-120 md-pt-80 md-pb-80">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 md-mb-50">

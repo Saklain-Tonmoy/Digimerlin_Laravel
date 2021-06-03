@@ -63,8 +63,8 @@
                                 <li class="menu-item">
                                     <a href="/">Home</a>
                                 </li>
-                                <li class="menu-item-has-children current-menu-item">
-                                    <a href="#rs-services">Services</a>
+                                <li class="menu-item-has-children">
+                                    <a href="#services">Services</a>
                                     <ul class="sub-menu">
                                         <li><a href="/web-development">Web Development</a> </li>
                                         <li><a href="/app-development">App Development</a> </li>

@@ -8,15 +8,11 @@
     @include('frontend.layout.style')
 </head>
 <body class="defult-home">
-
-    @include('frontend.layout.header')
-
+    @include('frontend.layout.multipage-header')
     <div class="main-content">
-        @yield('content')                    
+        @yield('content')
     </div>
-
     @include('frontend.layout.footer')
     @include('frontend.layout.script')
-    
 </body>
 </html>

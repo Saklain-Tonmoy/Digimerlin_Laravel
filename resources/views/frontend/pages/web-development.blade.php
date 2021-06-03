@@ -1,15 +1,11 @@
-@extends('frontend.layout.master')
+@extends('frontend.layout.multipage-master')
 
 @section('content')
 <!-- Services Single Start -->
-<div class="rs-services-single pt-20 pb-120 md-pt-80 md-pb-80">
+<div class="rs-services-single pt-50 pb-120 md-pt-80 md-pb-80">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 md-mb-50">
-                <!-- <div class="services-img">
-                    <img src="assets/images/services/single/1.jpg" alt="">
-                </div> -->
-               
                 <h2>Responsive Pixel Perfect Design</h2>
                 <p>
                     Cras enim urna, interdum nec porttitor vitae, sollicitudin eu eros. Praesent eget mollis nulla, non lacinia urna. Donec sit amet neque auctor, ornare dui rutrum, condimentum justo. Duis dictum, ex accumsan eleifend eleifend, ex justo aliquam nunc, in ultrices ante quam eget massa. Sed scelerisque, odio eu tempor pulvinar, magna tortor finibus lorem, ut mattis tellus nunc ut quam. Curabitur quis ornare leo. Suspendisse bibendum nibh non turpis vestibulum pellentesque.
@@ -101,22 +97,22 @@
                 </p>
                 <div class="row mb-80">
                     <div class="col-lg-6 col-md-12 md-mb-30">
-                        <img class="bdru-4" src="assets/images/services/single/2.jpg" alt="">
+                        <img class="bdru-4" src="{{asset('assets/frontend/images/services/single/2.jpg')}}" alt="">
                     </div>
                     <div class="col-lg-6 col-md-12">
-                        <img class="bdru-4" src="assets/images/services/single/3.jpg" alt="">
+                        <img class="bdru-4" src="{{asset('assets/frontend/images/services/single/3.jpg')}}" alt="">
                     </div>
                 </div>
                 <!-- Testimonial Section Start -->
                 <div class="rs-testimonial style5">
                     <div class="testi-item">
                         <div class="testi-img">
-                            <img src="assets/images/testimonial/main-home/quote-white2.png" alt="">
+                            <img src="{{asset('assets/frontend/images/testimonial/main-home/quote-white2.png')}}" alt="">
                         </div>
                         <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias data.</p>
                         <div class="testi-content">
                             <div class="testi-img">
-                                <img src="assets/images/testimonial/main-home/5.jpg" alt="">
+                                <img src="{{asset('assets/frontend/images/testimonial/main-home/5.jpg')}}" alt="">
                             </div>
                             <div class="author-part">
                                 <div class="name">Brick John</div>
@@ -129,8 +125,8 @@
             </div>
             <div class="col-lg-4 pl-32 md-pl-15">
                 <ul class="services-list">
-                    <li><a href="/web-development">Web Development</a></li>
-                    <li><a class="active" href="/app-development">App Development</a></li>
+                    <li><a class="active" href="/web-development">Web Development</a></li>
+                    <li><a href="/app-development">App Development</a></li>
                     <li><a href="/digital-marketing">Digital Marketing</a></li>
                     <li><a href="/seo">Search Engine Optimization (SEO)</a></li>
                     <li><a href="/brand-development">Brand Development</a></li>

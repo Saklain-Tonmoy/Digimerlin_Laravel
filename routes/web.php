@@ -21,6 +21,18 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('frontend.pages.home');
 });
+Route::get('/about', function () {
+    return view('frontend.pages.about');
+});
+Route::get('/contact', function () {
+    return view('frontend.pages.contact');
+});
+Route::get('/team', function () {
+    return view('frontend.pages.team');
+});
+Route::get('/client', function () {
+    return view('frontend.pages.client');
+});
 Route::get('/web-development', function () {
     return view('frontend.pages.web-development');
 });

@@ -1,4 +1,4 @@
-@extends('frontend.layout.master')
+@extends('frontend.layout.singlepage-master')
 @section('content')
 <!-- Slider Section Start -->
 <div class="rs-slider style1">
@@ -43,7 +43,7 @@
 <!-- Slider Section End -->
 
 <!-- Services Section Start -->
-<div id="rs-services" class="rs-services main-home style1 pt-100 md-pt-70">
+<div id="services" class="rs-services main-home style1 pt-100 md-pt-70">
     <div class="container">
         <div class="row">
             <div class="col-lg-4 col-md-6 mb-30">
@@ -166,7 +166,7 @@
 <!-- Services Section End -->
 
 <!-- About Section Start -->
-<div id="rs-about" class="rs-about bg4 pt-120 pb-120 md-pt-80 md-pb-80">
+<div id="about" class="rs-about bg4 pt-120 pb-120 md-pt-80 md-pb-80">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6 md-mb-50">
@@ -347,7 +347,7 @@
 <!-- Process Section End -->
 
 <!-- Project Section Start -->
-<div id="rs-portfolio" class="rs-project bg5 style1 pt-120 md-pt-80">
+<div id="portfolio" class="rs-project bg5 style1 pt-120 md-pt-80">
     <div class="container">
         <div class="sec-title2 text-center mb-45 md-mb-30">
             <span class="sub-text white-color">Project</span>
@@ -520,7 +520,7 @@
 <!-- Pricing section end -->
 
 <!-- Team Section Start -->
-<div id="rs-team" class="rs-team onepage-team change-bg pt-120 pb-120 md-pt-90 md-pb-90">
+<div id="team" class="rs-team onepage-team change-bg pt-120 pb-120 md-pt-90 md-pb-90">
     <div class="sec-title2 text-center mb-30">
         <span class="sub-text">Team</span>
         <h2 class="title">
@@ -845,7 +845,7 @@
 <!-- Partner End -->
 
 <!-- Testimonial Section Start -->
-<div class="rs-testimonial main-home style2 bg5 pt-120 pb-120 md-pt-80 md-pb-80">
+<div class="testimonial main-home style2 bg5 pt-120 pb-120 md-pt-80 md-pb-80">
     <div class="container">
         <div class="sec-title2 text-center mb-45">
             <span class="sub-text white-color">Testimonial</span>
@@ -956,7 +956,7 @@
 <!-- Testimonial Section End -->
 
 <!-- Contact Section Start -->
-<div id="rs-contact" class="rs-contact pt-120 gray-color">
+<div id="contact" class="rs-contact pt-120 gray-color">
     <div class="container">
         <div class="row">
             <div class="col-lg-4">

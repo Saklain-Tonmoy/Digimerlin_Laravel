@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-12 col-sm-12 footer-widget">
                     <div class="footer-logo mb-30">
-                        <a href="index.html"><img src="{{('assets/frontend/images/Digi-Merlin.gif')}}" alt=""></a>
+                        <a href="#rs-header"><img src="{{('assets/frontend/images/Digi-Merlin.gif')}}" alt=""></a>
                     </div>
                     <div class="textwidget pb-30">
                         <p>Sedut perspiciatis unde omnis iste natus error sitlutem acc usantium doloremque denounce with illo inventore veritatis</p>

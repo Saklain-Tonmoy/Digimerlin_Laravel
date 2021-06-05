@@ -60,7 +60,7 @@
                         </div>
                         <div class="services-desc">
                             <p>
-                                Quisque placerat vitae lacus ut scelerisque fusce luctus odio ac nibh luctu.
+                            We are providing highly customized website development for your ideas happen. Our web development team are exceptionally focused and offer the best services.
                             </p>
                         </div>
                     </div>
@@ -79,7 +79,7 @@
                         </div>
                         <div class="services-desc">
                             <p>
-                                Quisque placerat vitae lacus ut scelerisque fusce luctus odio ac nibh luctu.
+                            We are providing you the best mobile app designs which will convert your next app idea into a productive app suitable for Android or iOS platforms.
                             </p>
                         </div>
                     </div>
@@ -98,7 +98,7 @@
                         </div>
                         <div class="services-desc">
                             <p>
-                                Quisque placerat vitae lacus ut scelerisque fusce luctus odio ac nibh luctu.
+                            We are providing you the best Digital Marketing Services which will help to take your business to the next level and establish your presence in Digital platforms.
                             </p>
                         </div>
                     </div>
@@ -117,7 +117,7 @@
                         </div>
                         <div class="services-desc">
                             <p>
-                                Quisque placerat vitae lacus ut scelerisque fusce luctus odio ac nibh luctu.
+                            We are providing you the best SEO Services which will help to increase the growth of your business by establishing your website worldwide.
                             </p>
                         </div>
                     </div>
@@ -136,7 +136,7 @@
                         </div>
                         <div class="services-desc">
                             <p>
-                                Quisque placerat vitae lacus ut scelerisque fusce luctus odio ac nibh luctu.
+                            We design practical and intuitive brand guidelines for SMEs and larger organizations to ensure consistency and impact right across your business.
                             </p>
                         </div>
                     </div>
@@ -155,7 +155,7 @@
                         </div>
                         <div class="services-desc">
                             <p>
-                                Quisque placerat vitae lacus ut scelerisque fusce luctus odio ac nibh luctu.
+                            We are providing best Graphic Design Services that makes your brand recognizable and allows customers quickly get familiar with your company.
                             </p>
                         </div>
                     </div>
@@ -991,34 +991,50 @@
                         <h2 class="title testi-title">Fill The Form Below</h2>
 
                     </div>
-                    <div id="form-messages"></div>
-                    <form id="contact-form" method="post" action="">
-                        <fieldset>
-                            <div class="row">
-                                <div class="col-lg-6 mb-30 col-md-6 col-sm-6">
-                                    <input class="from-control" type="text" id="name" name="name" placeholder="Name" required="">
-                                </div>
-                                <div class="col-lg-6 mb-30 col-md-6 col-sm-6">
-                                    <input class="from-control" type="text" id="email" name="email" placeholder="E-Mail" required="">
-                                </div>
-                                <div class="col-lg-6 mb-30 col-md-6 col-sm-6">
-                                    <input class="from-control" type="text" id="phone" name="phone" placeholder="Phone Number" required="">
-                                </div>
-                                <div class="col-lg-6 mb-30 col-md-6 col-sm-6">
-                                    <input class="from-control" type="text" id="Website" name="subject" placeholder="Your Website" required="">
-                                </div>
+                    <!-- <div id="form-messages"></div> -->
+                    <form method="POST" action="{{route('contact')}}">
+                        @csrf
+                        <div class="row">
+                            <div class="form-group col-lg-6 mb-30 col-md-6 col-sm-6">
+                                <input class="from-control" type="text" id="name" name="name" placeholder="Name" required="">
+                            </div>
+                            <div class="form-group col-lg-6 mb-30 col-md-6 col-sm-6">
+                                <input class="from-control" type="text" id="email" name="email" placeholder="E-Mail" required="">
+                            </div>
+                            <div class="form-group col-lg-6 mb-30 col-md-6 col-sm-6">
+                                <input class="from-control" type="text" id="phone" name="phone" placeholder="Phone Number" required="">
+                            </div>
+                            <div class="form-group col-lg-6 mb-30 col-md-6 col-sm-6">
+                                <select class="from-control" type="text" id="subject" name="subject" placeholder="Your Website" required="">
+                                    <option value="" disabled selected>Choose a Service</option>
+                                    <option value="Web Development">Web Development</option>
+                                    <option value="App Development">App Development</option>
+                                    <option value="Digital Marketing">Digital Marketing</option>
+                                    <option value="Search Engine Optimization">Search Engine Optimization</option>
+                                    <option value="Brand Development">Brand Development</option>
+                                    <option value="Graphic Design">Graphic Design</option>
+                                </select>
+                            </div>
 
-                                <div class="col-lg-12 mb-30">
-                                    <textarea class="from-control" id="message" name="message" placeholder="Your message Here" required=""></textarea>
-                                </div>
+                            <div class="form-group col-lg-12 mb-30">
+                                <textarea class="from-control" id="content" name="content" placeholder="Your message Here" required=""></textarea>
                             </div>
-                            <div class="btn-part">
-                                <div class="form-group mb-0">
-                                    <input class="readon learn-more submit" type="submit" value="Submit Now">
-                                </div>
+                        </div>
+                        <div class="btn-part">
+                            <div class="form-group mb-0">
+                                <button class="readon learn-more submit" type="submit">Submit Now</button>
                             </div>
-                        </fieldset>
+                        </div>
                     </form>
+
+                    @if(Session::has('success'))
+                        <div class="alert alert-success">
+                            {{ Session::get('success') }}
+                            @php
+                                Session::forget('success');
+                            @endphp
+                        </div>
+                        @endif
                 </div>
             </div>
         </div>

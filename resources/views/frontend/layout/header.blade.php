@@ -43,7 +43,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-3">
                         <div class="logo-part">
-                            <a href="#"><img src="{{asset('assets/frontend/images/logo-dark.png')}}" alt=""></a>
+                            <a href="#"><img src="{{asset('assets/frontend/images/Digi-Merlin.gif')}}" alt=""></a>
                         </div>
                         <div class="mobile-menu">
                             <a href="#" class="rs-menu-toggle rs-menu-toggle-close secondary">
@@ -67,15 +67,6 @@
                                     </ul> <!-- //.nav-menu -->
                                 </nav>
                             </div> <!-- //.main-menu -->
-                            <div class="expand-btn-inner search-icon hidden-md">
-                                <ul>
-                                    <li class="sidebarmenu-search">
-                                        <a class="hidden-xs rs-search pr-0" data-target=".search-modal" data-toggle="modal" href="#">
-                                            <i class="flaticon-search"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
                         </div>
                     </div>
                 </div>

@@ -2309,7 +2309,7 @@ blockquote cite:before {
 }
 .full-width-header .rs-header.style2 .menu-area .logo-part img {
   transition: 0.4s;
-  max-height: 40px;
+  max-height: 50px;
 }
 .full-width-header .rs-header.style2 .menu-area .logo-part .dark {
   display: none;
@@ -4743,6 +4743,7 @@ body .search-modal .close:hover {
 .rs-services.main-home .services-item .services-content .services-desc p {
   color: #444;
   margin: 0;
+  text-align: justify;
 }
 .rs-services.main-home.style1 {
   position: relative;

@@ -60,7 +60,7 @@
                         <li>
                             <i class="flaticon-clock-1"></i>
                             <div class="desc">
-                                Opening Hours: 10:00 - 18:00
+                                Opening Hours: 09:30 am - 05:30 pm
                             </div>
                         </li>
                     </ul>

@@ -67,11 +67,14 @@
                 <div class="col-lg-3 col-md-12 col-sm-12">
                     <h3 class="widget-title">Newsletter</h3>
                     <p class="widget-desc">We denounce with righteous and in and dislike men who are so beguiled and demo realized.</p>
-                    <p>
-                        <input type="email" name="EMAIL" placeholder="Your email address" required="">
-                        <em class="paper-plane"><input type="submit" value="Sign up"></em>
-                        <i class="flaticon-send"></i>
-                    </p>
+                    <form method="POST" action="{{route('subscribe')}}">
+                        @csrf
+                        <p>
+                            <input type="email" name="email" placeholder="Your email address" required="">
+                            <em class="paper-plane"><input type="submit" value="Sign up"></em>
+                            <i class="flaticon-send"></i>
+                        </p>
+                    </form>
                 </div>
             </div>
         </div>

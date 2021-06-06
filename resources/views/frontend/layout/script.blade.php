@@ -13,7 +13,7 @@
 <!-- wow js -->
 <script src="{{asset('assets/frontend/js/wow.min.js')}}"></script>
 <!-- Skill bar js -->
-<!-- <script src="{{asset('assets/frontend/js/skill.bars.jquery.js')}}"></script> -->
+<script src="{{asset('assets/frontend/js/skill.bars.jquery.js')}}"></script>
 <script src="{{asset('assets/frontend/js/jquery.counterup.min.js')}}"></script> 
 <!-- counter top js -->
 <script src="{{asset('assets/frontend/js/waypoints.min.js')}}"></script>

@@ -1666,6 +1666,7 @@ blockquote cite:before {
   font-size: 18px;
   font-weight: 400;
   margin: 0;
+  text-align: justify;
 }
 .sec-title .desc.white-color {
   color: #fff;

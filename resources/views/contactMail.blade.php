@@ -1,8 +1,8 @@
-<h2>Hello Digimerlin !</h2> <br><br>
+<h2>Hello Digimerlin !</h2>
 
-You received an email from : {{ $name }} <br><br>
+You received an email from : {{ $name }} <br>
 
-User details: <br>
+<h4>User details:</h4>
 
 Name:  {{ $name }}<br>
 Email:  {{ $email }}<br>

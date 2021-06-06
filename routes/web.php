@@ -18,4 +18,5 @@ Route::get('/', function () {
 });
 
 Route::post('/contact', [App\Http\Controllers\HomepageController::class, 'contact_us'])->name('contact');
+Route::post('/subscribe', [App\Http\Controllers\HomepageController::class, 'subscribe'])->name('subscribe');
 

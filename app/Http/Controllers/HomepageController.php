@@ -2,6 +2,8 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Subscriber;
+
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
 
@@ -33,7 +35,7 @@ class HomepageController extends Controller
 
         $input = $request->all();
 
-        Mail::send('contactMail', array(
+        $status = Mail::send('contactMail', array(
             'name' => $input['name'],
             'email' => $input['email'],
             'phone' => $input['phone'],
@@ -44,7 +46,32 @@ class HomepageController extends Controller
             $message->to('digimerlin2021@gmail.com')->subject($request->get('subject'));
         });
 
-        return redirect()->back()->with(['success' => 'Contact Form Submit Successfully']);
+        if($status) {
+            return redirect()->back()->with(['success' => 'Contact Form Submit Successfully']);
+        } else {
+            return redirect()->back()->with(['failure' => 'Something went wrong. Please try again.']);
+        }
+
+        
+
+    }
+
+    public function subscribe(Request $request) {
+        $request->validate([
+            'email' => 'required|email'
+        ]);
+
+        $subscriber = new Subscriber();
+
+        $subscriber->email = $request->email;
+
+        $status = $subscriber->save();
+
+        if($status) {
+            return redirect()->back()->with(['success' => 'Subscribed successfully']);
+        } else {
+            return back();
+        }
 
     }
 }

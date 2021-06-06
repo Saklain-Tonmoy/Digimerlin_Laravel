@@ -28,13 +28,14 @@
                     </ul>
                 </div>
                 <div class="col-lg-3 col-md-12 col-sm-12 pl-45 md-pl-15 md-mb-30">
-                    <h3 class="widget-title">IT Services</h3>
+                    <h3 class="widget-title">Services</h3>
                     <ul class="site-map">
-                        <li><a href="software-development.html">Software Development</a></li>
-                        <li><a href="web-development.html">Web Development</a></li>
-                        <li><a href="case-studies-single.html">Analytic Solutions</a></li>
-                        <li><a href="cloud-and-devops.html">Cloud and DevOps</a></li>
-                        <li><a href="product-design.html">Project Design</a></li>
+                        <li>Web Development</li>
+                        <li>App Development</li>
+                        <li>Digital Marketing</li>
+                        <li>SEO</li>
+                        <li>Brand Development</li>
+                        <li>Graphic Design</li>
                     </ul>
                 </div>
                 <div class="col-lg-3 col-md-12 col-sm-12 md-mb-30">
@@ -42,18 +43,18 @@
                     <ul class="address-widget">
                         <li>
                             <i class="flaticon-location"></i>
-                            <div class="desc">374 FA Tower, William S Blvd 2721, IL, USA</div>
+                            <div class="desc">331/2 Tajuddin Ahmed Sarani, Moghbazar, Dhaka</div>
                         </li>
                         <li>
                             <i class="flaticon-call"></i>
                             <div class="desc">
-                                <a href="tel:(+880)155-69569">(+880)155-69569</a>
+                                <a href="tel:(+880)1708-159827">(+880)1708-159827</a>
                             </div>
                         </li>
                         <li>
                             <i class="flaticon-email"></i>
                             <div class="desc">
-                                <a href="mailto:support@rstheme.com">support@rstheme.com</a>
+                                <a href="mailto:digimerlin2021@gmail.com">digimerlin2021@gmail.com</a>
                             </div>
                         </li>
                         <li>
@@ -82,7 +83,7 @@
     <div class="footer-bottom">
         <div class="container">
             <div class="row y-middle">
-                <div class="col-lg-6 text-right md-mb-10 order-last">
+                <!-- <div class="col-lg-6 text-right md-mb-10 order-last">
                     <ul class="copy-right-menu">
                         <li><a href="index.html">Home</a></li>
                         <li><a href="about.html">About</a></li>
@@ -90,7 +91,7 @@
                         <li><a href="shop.html">Shop</a></li>
                         <li><a href="faq.html">FAQs</a></li>
                     </ul>
-                </div>
+                </div> -->
                 <div class="col-lg-6">
                     <div class="copyright">
                         <p>&copy; 2021 All Rights Reserved. Developed By <a href="">Saklain</a></p>

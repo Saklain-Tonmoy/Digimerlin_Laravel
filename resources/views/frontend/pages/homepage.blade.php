@@ -352,6 +352,92 @@
             </div>
             <!-- About Section End -->
 
+
+<!-- Process Section Start -->
+<div class="gray-color">
+              <div class="rs-process modify1 pt-160 pb-120 md-pt-75 md-pb-80">
+                  <div class="shape-animation">
+                      <div class="shape-process">
+                          <img class="dance2" src="{{asset('assets/frontend/images/process/circle.png')}}" alt="images">
+                      </div>
+                  </div>
+                  <div class="container">
+                      <div class="row align-items-center">
+                          <div class="col-lg-4 pr-40 md-pr-15 md-pb-80">
+                              <div class="process-wrap md-center">
+                                  <div class="sec-title mb-30">
+                                      <div class="sub-text new">Working Process</div>
+                                      <h2 class="title white-color">
+                                          Our Working Process -  How We Work For Our Customers
+                                      </h2>
+                                  </div>
+                                  <div class="btn-part mt-40">
+                                      <a class="readon started" href="#">Contact Us</a>
+                                  </div>
+                              </div>
+                          </div>
+                          <div class="col-lg-8 sm-pl-40 sm-pr-20">
+                              <div class="row">
+                                  <div class="col-md-6 mb-70">
+                                      <div class="rs-addon-number">
+                                          <div class="number-text">
+                                              <div class="number-area">
+                                                  1
+                                              </div>
+                                              <div class="number-title">
+                                                  <h3 class="title"> Discovery</h3>
+                                              </div>
+                                              <p class="number-txt">  Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor theo lacus egestas.</p>
+                                          </div>
+                                      </div>
+                                  </div>
+                                  <div class="col-md-6 mb-70">
+                                      <div class="rs-addon-number">
+                                          <div class="number-text">
+                                              <div class="number-area green-bg">
+                                                  2
+                                              </div>
+                                              <div class="number-title">
+                                                  <h3 class="title">Planning</h3>
+                                              </div>
+                                              <p class="number-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor theo lacus egestas.</p>
+                                          </div>
+                                      </div>
+                                  </div>
+                                  <div class="col-md-6 sm-mb-70">
+                                      <div class="rs-addon-number">
+                                          <div class="number-text">
+                                              <div class="number-area plum-bg">
+                                                  3
+                                              </div>
+                                              <div class="number-title">
+                                                  <h3 class="title">Execute</h3>
+                                              </div>
+                                              <p class="number-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor theo lacus egestas.</p>
+                                          </div>
+                                      </div>
+                                  </div>
+                                  <div class="col-md-6">
+                                      <div class="rs-addon-number">
+                                          <div class="number-text">
+                                              <div class="number-area pink-bg">
+                                                  4
+                                              </div>
+                                              <div class="number-title">
+                                                  <h3 class="title">Deliver</h3>
+                                              </div>
+                                              <p class="number-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor theo lacus egestas.</p>
+                                          </div>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+            </div>
+            <!-- Process Section End -->
+
 <!-- Process Section Start -->
 <div class="rs-process bg15 pt-180 pb-120 md-pt-80 md-pb-80">
     <div class="container">
@@ -1277,15 +1363,15 @@ What Saying Our Customers
                 <div class="contact-box">
                     <div class="sec-title mb-45">
                         <span class="sub-text new-text white-color">Let's Talk</span>
-                        <h2 class="title white-color">Speak With Expert Engineers.</h2>
+                        <h2 class="title white-color">Speak With Our Experts.</h2>
                     </div>
                     <div class="address-box mb-25">
                         <div class="address-icon">
-                            <i class="fa fa-home"></i>
+                            <i class="fa fa-envelope"></i>
                         </div>
                         <div class="address-text">
                             <span class="label">Email:</span>
-                            <a href="tel:123222-8888">(123) 222-8888</a>
+                            <a href="mailto:digimerlin2021@gmail.com">digimerlin2021@gmail.com</a>
                         </div>
                     </div>
                     <div class="address-box mb-25">
@@ -1294,7 +1380,7 @@ What Saying Our Customers
                         </div>
                         <div class="address-text">
                             <span class="label">Phone:</span>
-                            <a href="#">support@rstheme.com</a>
+                            <a href="tel:+(880)1708-159827">+(880) 1708-159827</a>
                         </div>
                     </div>
                     <div class="address-box">
@@ -1303,7 +1389,7 @@ What Saying Our Customers
                         </div>
                         <div class="address-text">
                             <span class="label">Address:</span>
-                            <div class="desc">New Jesrsy, 1201, USA</div>
+                            <div class="desc">331/2 Tajuddin Ahmed Sarani, Moghbazar, Dhaka-1217</div>
                         </div>
                     </div>
                 </div>
@@ -1351,14 +1437,14 @@ What Saying Our Customers
                         </div>
                     </form>
 
-                    @if(Session::has('success'))
+                    <!-- @if(Session::has('success'))
                     <div class="alert alert-success">
                         {{ Session::get('success') }}
                         @php
                         Session::forget('success');
                         @endphp
                     </div>
-                    @endif
+                    @endif -->
                 </div>
             </div>
         </div>

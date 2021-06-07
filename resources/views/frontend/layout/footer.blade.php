@@ -1,5 +1,5 @@
 <!-- Footer Start -->
-<footer id="rs-footer" class="rs-footer">
+<footer id="rs-footer" class="rs-footer style2">
     <div class="footer-top mt-60">
         <div class="container">
             <div class="row">
@@ -15,14 +15,13 @@
                             <a href="#" target="_blank"><span><i class="fa fa-facebook"></i></span></a>
                         </li>
                         <li>
-                            <a href="# " target="_blank"><span><i class="fa fa-twitter"></i></span></a>
-                        </li>
-
-                        <li>
-                            <a href="# " target="_blank"><span><i class="fa fa-pinterest-p"></i></span></a>
-                        </li>
-                        <li>
                             <a href="# " target="_blank"><span><i class="fa fa-instagram"></i></span></a>
+                        </li>
+                        <li>
+                            <a href="#" target="_blank"><span><i class="fa fa-google"></i></span></a>
+                        </li>
+                        <li>
+                            <a href="# " target="_blank"><span><i class="fa fa-linkedin"></i></span></a>
                         </li>
 
                     </ul>

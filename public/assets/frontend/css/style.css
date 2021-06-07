@@ -271,7 +271,7 @@ ul {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-color: #000060;
+  background-image: linear-gradient(140deg, #000c1c 62%, #032a44 100%);
 }
 .bg2 {
   background: url(../images/bg/counter-bg.png);
@@ -2023,7 +2023,7 @@ blockquote cite:before {
   color: #106eea;
 }
 .full-width-header .rs-header .topbar-area.style2 {
-  background-image: linear-gradient(90deg, #03228f 10%, #0e73e4 100%);
+  background-image: linear-gradient(90deg, #021044 10%, #054a99 100%);
   padding-top: 0px;
   padding-bottom: 0px;
 }
@@ -5538,7 +5538,7 @@ body .search-modal .close:hover {
   padding-right: 34px;
 }
 .rs-process.modify1 {
-  background-image: linear-gradient(140deg, #03228f 62%, #0e73e4 100%);
+  background-image: linear-gradient(140deg, #000c1c 62%, #032a44 100%);
   border-radius: 270px 0px 0px 0px;
 }
 .rs-process.modify1 .rs-addon-number .number-text {
@@ -8996,22 +8996,10 @@ body .search-modal .close:hover {
   padding: 92px 0 65px;
 }
 .rs-footer.style2 .footer-top .footer-logo img {
-  height: 40px;
+  height: 50px;
 }
 .rs-footer.style2 .footer-top .widget-title {
   color: #ffffff;
-}
-.rs-footer.style2 .footer-top .textwidget p{
-  color: #ffffff;
-}
-.rs-footer.style2 .footer-top .widget-desc{
-  color: #ffffff;
-}
-.rs-footer.style2 .footer-top .site-map li{
-  color: #ffffff;
-}
-.rs-footer.style2 .footer-top .site-map li:hover {
-  color: #03228f;
 }
 .rs-footer.style2 .footer-top .site-map li a {
   color: #ffffff;
@@ -9226,11 +9214,11 @@ body .search-modal .close:hover {
   }
 }
 .dance3 {
-  -webkit-animation: dance3 8s alternate infinite;
+  -webkit-animation: dance3 2s alternate infinite;
 }
 @keyframes dance3 {
   0% {
-    -webkit-transform: scale(0.8);
+    -webkit-transform: scale(0.6);
   }
   100% {
     -webkit-transform: scale(1);

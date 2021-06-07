@@ -324,8 +324,8 @@
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-5">
-                            <div class="sec-title2 mb-30">
-                                <div class="sub-text">Our Company</div>
+                            <div class="sec-title mb-30">
+                                <div class="sub-text style2">Our Company</div>
                                 <h2 class=" title title3 pb-20">
                                     We’ve been triumphing all these 40 years.
                                 </h2>
@@ -387,7 +387,7 @@
                                               <div class="number-title">
                                                   <h3 class="title"> Discovery</h3>
                                               </div>
-                                              <p class="number-txt">  Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor theo lacus egestas.</p>
+                                              <!-- <p class="number-txt">  Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor theo lacus egestas.</p> -->
                                           </div>
                                       </div>
                                   </div>
@@ -400,7 +400,7 @@
                                               <div class="number-title">
                                                   <h3 class="title">Planning</h3>
                                               </div>
-                                              <p class="number-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor theo lacus egestas.</p>
+                                              <!-- <p class="number-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor theo lacus egestas.</p> -->
                                           </div>
                                       </div>
                                   </div>
@@ -413,7 +413,7 @@
                                               <div class="number-title">
                                                   <h3 class="title">Execute</h3>
                                               </div>
-                                              <p class="number-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor theo lacus egestas.</p>
+                                              <!-- <p class="number-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor theo lacus egestas.</p> -->
                                           </div>
                                       </div>
                                   </div>
@@ -426,7 +426,7 @@
                                               <div class="number-title">
                                                   <h3 class="title">Deliver</h3>
                                               </div>
-                                              <p class="number-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor theo lacus egestas.</p>
+                                              <!-- <p class="number-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor theo lacus egestas.</p> -->
                                           </div>
                                       </div>
                                   </div>
@@ -439,7 +439,7 @@
             <!-- Process Section End -->
 
 <!-- Process Section Start -->
-<div class="rs-process bg15 pt-180 pb-120 md-pt-80 md-pb-80">
+<!-- <div class="rs-process pt-180 pb-120 md-pt-80 md-pb-80">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-4 md-mb-40">
@@ -513,7 +513,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <!-- Process Section End -->
 
 <!-- Project Section Start -->
@@ -1396,8 +1396,8 @@ What Saying Our Customers
             </div>
             <div class="col-lg-8 pl-70 md-pl-15 md-mt-40">
                 <div class="contact-widget onepage-style">
-                    <div class="sec-title2 mb-40">
-                        <span class="sub-text contact mb-15">Get In Touch</span>
+                    <div class="sec-title mb-40">
+                        <span class="sub-text style2 contact mb-15">Get In Touch</span>
                         <h2 class="title testi-title">Fill The Form Below</h2>
 
                     </div>
@@ -1449,9 +1449,9 @@ What Saying Our Customers
             </div>
         </div>
     </div>
-    <div class="map-canvas pt-120 md-pt-70">
+    <!-- <div class="map-canvas pt-120 md-pt-70">
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.899334881296!2d90.39955231404872!3d23.75096888458908!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b8907505ae47%3A0x5301058b90982426!2sGQ%20GROUP!5e0!3m2!1sen!2sbd!4v1622869212362!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-    </div>
+    </div> -->
 </div>
 <!-- Contact Section Start -->
 @endsection

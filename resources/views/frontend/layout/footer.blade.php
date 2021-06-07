@@ -7,7 +7,7 @@
                     <div class="footer-logo mb-30">
                         <a href="#rs-header"><img src="{{('assets/frontend/images/Digi-Merlin.gif')}}" alt=""></a>
                     </div>
-                    <div class="textwidget pb-30">
+                    <div class="textwidget white-color pb-30">
                         <p>We the Digimerlin feeling pleased to present ourselves as one of the expert IT Solution Company in the online commercial center. We generally attempt to furnish our customers with the best IT administrations they have ever experienced. We generally consider our consumer loyalty.</p>
                     </div>
                     <ul class="footer-social md-mb-30">
@@ -28,7 +28,7 @@
                 </div>
                 <div class="col-lg-3 col-md-12 col-sm-12 pl-45 md-pl-15 md-mb-30">
                     <h3 class="widget-title">Services</h3>
-                    <ul class="site-map">
+                    <ul class="site-map white-color">
                         <li>Web Development</li>
                         <li>App Development</li>
                         <li>Digital Marketing</li>
@@ -66,7 +66,7 @@
                 </div>
                 <div class="col-lg-3 col-md-12 col-sm-12">
                     <h3 class="widget-title">Newsletter</h3>
-                    <p class="widget-desc">We denounce with righteous and in and dislike men who are so beguiled and demo realized.</p>
+                    <p class="widget-desc white-color">We denounce with righteous and in and dislike men who are so beguiled and demo realized.</p>
                     <form method="POST" action="{{route('subscribe')}}">
                         @csrf
                         <p>

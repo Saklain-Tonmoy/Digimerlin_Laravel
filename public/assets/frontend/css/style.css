@@ -8858,6 +8858,7 @@ body .search-modal .close:hover {
 .rs-footer .footer-top p {
   margin: 30px 0 0;
   position: relative;
+  text-align: justify;
 }
 .rs-footer .footer-top p input[type=email] {
   border: none;
@@ -8922,6 +8923,7 @@ body .search-modal .close:hover {
 }
 .rs-footer .footer-bottom .copyright p {
   margin: 0;
+  text-align: center;
 }
 .rs-footer .footer-bottom .copyright p a {
   color: #454545;

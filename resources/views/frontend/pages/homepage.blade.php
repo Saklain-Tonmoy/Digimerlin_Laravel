@@ -319,8 +319,41 @@
 </div>
 <!-- Counter Section End -->
 
+<!-- About Section Start -->
+<div class="rs-about style3 pt-120 pb-120 md-pt-75 md-pb-80">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-lg-5">
+                            <div class="sec-title2 mb-30">
+                                <div class="sub-text">Our Company</div>
+                                <h2 class=" title title3 pb-20">
+                                    We’ve been triumphing all these 40 years.
+                                </h2>
+                                <div class="desc desc2">
+                                    Bring to the table win-win survival strategies done to ensure dotted proactive domination. Customers we can for done working a new normal that has evolved from generation on the runway heading towards a streamlined. Now you will be able to insert any section template to your live site instantly.
+                                </div>
+                                <div class="btn-part mt-40">
+                                    <a class="readon discover more" href="#rs-contact">Learn More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-7 md-pt-40">
+                            <div class="rs-animation-image">
+                                <div class="pattern-img">
+                                   <img src="{{asset('assets/frontend/images/about/style2/round.png')}}" alt=""> 
+                                </div>
+                                <div class="middle-img">
+                                   <img class="dance3" src="{{asset('assets/frontend/images/about/style2/about1.png')}}" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- About Section End -->
+
 <!-- Process Section Start -->
-<div class="rs-process pt-180 pb-120 md-pt-80 md-pb-80">
+<div class="rs-process bg15 pt-180 pb-120 md-pt-80 md-pb-80">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-4 md-mb-40">
@@ -573,7 +606,7 @@ Platinum
 <div class="rs-why-choose pt-120 pb-120 md-pt-70 md-pb-75">
     <div class="container">
         <div class="row">
-            <div class="col-lg-6 hidden-md">
+            <div class="col-lg-5 hidden-md">
                 <div class="image-part">
                     <img src="{{asset('assets/frontend/images/choose/2.png')}}" alt="">
                 </div>
@@ -590,34 +623,67 @@ Platinum
                 <div class="sec-title mb-40">
                     <div class="sub-text style2 ">Why Choose Us</div>
                     <h2 class="title pb-20">
-                        We Create Result-Oriented Dynamic Applications
+                        We Provide Result-Oriented Dynamic Solutions
                     </h2>
                     <div class="desc">
                         Over 25 years working in IT services developing software applications and mobile apps for clients all over the world.
                     </div>
                 </div>
                 <div class="services-wrap mb-25">
-                    <div class="services-icon">
+                    <!-- <div class="services-icon">
                         <img src="{{asset('assets/frontend/images/choose/icons/1.png')}}" alt="">
+                    </div> -->
+                    <img src="{{asset('assets/frontend/images/choose/icons/2.png')}}" style="max-width: 55; max-height: 55px" alt="">
+                    <div class="services-text">
+                        <h3 class="title"><a href="#">Affordable Price</a></h3>
+                        <p class="services-txt"> We offer amazing services for an affordable price!</p>
                     </div>
+                </div>
+                <div class="services-wrap mb-25">
+                    <!-- <div class="services-icon">
+                        <img src="{{asset('assets/frontend/images/choose/icons/1.png')}}" alt="">
+                    </div> -->
+                    <img src="{{asset('assets/frontend/images/choose/icons/2.png')}}" style="max-width: 55; max-height: 55px" alt="">
+                    <div class="services-text">
+                        <h3 class="title"><a href="#">Quality Assurance</a></h3>
+                        <p class="services-txt"> We do not compromise with quality. We ensure our customer to provide effective and quality services all over the world.</p>
+                    </div>
+                </div>
+                <div class="services-wrap mb-25">
+                    <!-- <div class="services-icon">
+                        <img src="{{asset('assets/frontend/images/choose/icons/1.png')}}" alt="">
+                    </div> -->
+                    <img src="{{asset('assets/frontend/images/choose/icons/2.png')}}" style="max-width: 55; max-height: 55px" alt="">
+                    <div class="services-text">
+                        <h3 class="title"><a href="#">Quick Support</a></h3>
+                        <p class="services-txt"> Our efficient team are always on online to support you.</p>
+                    </div>
+                </div>
+                <div class="services-wrap mb-25">
+                    <!-- <div class="services-icon">
+                        <img src="{{asset('assets/frontend/images/choose/icons/1.png')}}" alt="">
+                    </div> -->
+                    <img src="{{asset('assets/frontend/images/choose/icons/2.png')}}" style="max-width: 55; max-height: 55px" alt="">
                     <div class="services-text">
                         <h3 class="title"><a href="#">First Growing Process</a></h3>
                         <p class="services-txt"> At vero eos et accusamus etiusto odio praesentium.</p>
                     </div>
                 </div>
                 <div class="services-wrap mb-25">
-                    <div class="services-icon">
+                    <!-- <div class="services-icon">
                         <img src="{{asset('assets/frontend/images/choose/icons/2.png')}}" alt="">
-                    </div>
+                    </div> -->
+                    <img src="{{asset('assets/frontend/images/choose/icons/2.png')}}" style="max-width: 55; max-height: 55px" alt="">
                     <div class="services-text">
                         <h3 class="title"><a href="#">Clean code</a></h3>
                         <p class="services-txt"> At vero eos et accusamus etiusto odio praesentium.</p>
                     </div>
                 </div>
                 <div class="services-wrap">
-                    <div class="services-icon">
+                    <!-- <div class="services-icon">
                         <img src="{{asset('assets/frontend/images/choose/icons/3.png')}}" alt="">
-                    </div>
+                    </div> -->
+                    <img src="{{asset('assets/frontend/images/choose/icons/2.png')}}" style="max-width: 55; max-height: 55px" alt="">
                     <div class="services-text">
                         <h3 class="title"><a href="#">Well Documentation</a></h3>
                         <p class="services-txt"> At vero eos et accusamus etiusto odio praesentium.</p>

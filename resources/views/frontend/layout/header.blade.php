@@ -10,25 +10,23 @@
                         <ul class="topbar-contact">
                             <li>
                                 <i class="flaticon-email"></i>
-                                <a href="mailto:support@rstheme.com">support@rstheme.com</a>
+                                <a href="mailto:digimerlin2021@gmail.com">Email us</a>
                             </li>
                             <li>
                                 <i class="flaticon-call"></i>
-                                <a href="tel:++1(990)999–5554"> +1 (990) 999–5554</a>
+                                <a href="tel:+(880)1708–159827"> +(880) 1708–159827</a>
                             </li>
                             <li>
                                 <i class="flaticon-location"></i>
-                                05 kandi BR. New York
+                                331/2 Tajuddin Ahmed Sarani, Dhaka
                             </li>
                         </ul>
                     </div>
                     <div class="col-lg-4 text-right">
                         <div class="toolbar-sl-share">
                             <ul>
-                                <li class="opening"> <em><i class="flaticon-clock"></i> 08:00am-6:00pm</em> </li>
+                                <li class="opening"> <em><i class="flaticon-clock"></i> 09:30 am-05:30 pm</em> </li>
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
                                 <li><a href="#"><i class="fa fa-instagram"></i></a></li>
                             </ul>
                         </div>

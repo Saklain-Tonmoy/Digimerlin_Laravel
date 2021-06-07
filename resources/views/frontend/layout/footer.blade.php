@@ -8,7 +8,7 @@
                         <a href="#rs-header"><img src="{{('assets/frontend/images/Digi-Merlin.gif')}}" alt=""></a>
                     </div>
                     <div class="textwidget pb-30">
-                        <p>Sedut perspiciatis unde omnis iste natus error sitlutem acc usantium doloremque denounce with illo inventore veritatis</p>
+                        <p>We the Digimerlin feeling pleased to present ourselves as one of the expert IT Solution Company in the online commercial center. We generally attempt to furnish our customers with the best IT administrations they have ever experienced. We generally consider our consumer loyalty.</p>
                     </div>
                     <ul class="footer-social md-mb-30">
                         <li>
@@ -92,7 +92,7 @@
                         <li><a href="faq.html">FAQs</a></li>
                     </ul>
                 </div> -->
-                <div class="col-lg-6">
+                <div class="col-lg-12">
                     <div class="copyright">
                         <p>&copy; 2021 All Rights Reserved. Developed By <a href="">Saklain</a></p>
                     </div>

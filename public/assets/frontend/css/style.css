@@ -212,6 +212,9 @@ body.nav-expanded .offwrap {
 .black-dark {
   background: #131313 !important;
 }
+.dark-blue {
+  background-image: linear-gradient(140deg, #000c1c 62%, #032a44 100%);
+}
 .gray-color-important {
   background-color: #F6F7F9 !important;
 }
@@ -9236,7 +9239,7 @@ body .search-modal .close:hover {
   }
 }
 .dance2 {
-  -webkit-animation: dance2 4s alternate infinite;
+  -webkit-animation: dance2 2s alternate infinite;
 }
 @keyframes dance2 {
   0% {

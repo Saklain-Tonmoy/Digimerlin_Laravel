@@ -325,15 +325,12 @@
                     <div class="row align-items-center">
                         <div class="col-lg-5">
                             <div class="sec-title mb-30">
-                                <div class="sub-text style2">Our Company</div>
+                                <div class="sub-text style2">Why Choose Digimerlin?</div>
                                 <h2 class=" title title3 pb-20">
-                                    We’ve been triumphing all these 40 years.
+                                We Provide Result-Oriented Dynamic Solutions
                                 </h2>
                                 <div class="desc desc2">
-                                    Bring to the table win-win survival strategies done to ensure dotted proactive domination. Customers we can for done working a new normal that has evolved from generation on the runway heading towards a streamlined. Now you will be able to insert any section template to your live site instantly.
-                                </div>
-                                <div class="btn-part mt-40">
-                                    <a class="readon discover more" href="#rs-contact">Learn More</a>
+                                We the Digimerlin feeling pleased to present ourselves as one of the expert IT Solution Company in the online commercial world. We provide our customers the best IT Services they have ever experienced. We strongly consider our consumer loyalty.
                                 </div>
                             </div>
                         </div>
@@ -354,7 +351,7 @@
 
 
 <!-- Process Section Start -->
-<div class="gray-color">
+<div class="white-color">
               <div class="rs-process modify1 pt-160 pb-120 md-pt-75 md-pb-80">
                   <div class="shape-animation">
                       <div class="shape-process">
@@ -689,7 +686,7 @@ Platinum
 
 
 <!-- Choose Section Start -->
-<div class="rs-why-choose pt-120 pb-120 md-pt-70 md-pb-75">
+<!-- <div class="rs-why-choose pt-120 pb-120 md-pt-70 md-pb-75">
     <div class="container">
         <div class="row">
             <div class="col-lg-5 hidden-md">
@@ -716,9 +713,7 @@ Platinum
                     </div>
                 </div>
                 <div class="services-wrap mb-25">
-                    <!-- <div class="services-icon">
-                        <img src="{{asset('assets/frontend/images/choose/icons/1.png')}}" alt="">
-                    </div> -->
+                    
                     <img src="{{asset('assets/frontend/images/choose/icons/2.png')}}" style="max-width: 55; max-height: 55px" alt="">
                     <div class="services-text">
                         <h3 class="title"><a href="#">Affordable Price</a></h3>
@@ -726,9 +721,7 @@ Platinum
                     </div>
                 </div>
                 <div class="services-wrap mb-25">
-                    <!-- <div class="services-icon">
-                        <img src="{{asset('assets/frontend/images/choose/icons/1.png')}}" alt="">
-                    </div> -->
+                    
                     <img src="{{asset('assets/frontend/images/choose/icons/2.png')}}" style="max-width: 55; max-height: 55px" alt="">
                     <div class="services-text">
                         <h3 class="title"><a href="#">Quality Assurance</a></h3>
@@ -736,9 +729,7 @@ Platinum
                     </div>
                 </div>
                 <div class="services-wrap mb-25">
-                    <!-- <div class="services-icon">
-                        <img src="{{asset('assets/frontend/images/choose/icons/1.png')}}" alt="">
-                    </div> -->
+                    
                     <img src="{{asset('assets/frontend/images/choose/icons/2.png')}}" style="max-width: 55; max-height: 55px" alt="">
                     <div class="services-text">
                         <h3 class="title"><a href="#">Quick Support</a></h3>
@@ -746,9 +737,7 @@ Platinum
                     </div>
                 </div>
                 <div class="services-wrap mb-25">
-                    <!-- <div class="services-icon">
-                        <img src="{{asset('assets/frontend/images/choose/icons/1.png')}}" alt="">
-                    </div> -->
+                   
                     <img src="{{asset('assets/frontend/images/choose/icons/2.png')}}" style="max-width: 55; max-height: 55px" alt="">
                     <div class="services-text">
                         <h3 class="title"><a href="#">First Growing Process</a></h3>
@@ -756,9 +745,7 @@ Platinum
                     </div>
                 </div>
                 <div class="services-wrap mb-25">
-                    <!-- <div class="services-icon">
-                        <img src="{{asset('assets/frontend/images/choose/icons/2.png')}}" alt="">
-                    </div> -->
+                   
                     <img src="{{asset('assets/frontend/images/choose/icons/2.png')}}" style="max-width: 55; max-height: 55px" alt="">
                     <div class="services-text">
                         <h3 class="title"><a href="#">Clean code</a></h3>
@@ -766,9 +753,7 @@ Platinum
                     </div>
                 </div>
                 <div class="services-wrap">
-                    <!-- <div class="services-icon">
-                        <img src="{{asset('assets/frontend/images/choose/icons/3.png')}}" alt="">
-                    </div> -->
+                    
                     <img src="{{asset('assets/frontend/images/choose/icons/2.png')}}" style="max-width: 55; max-height: 55px" alt="">
                     <div class="services-text">
                         <h3 class="title"><a href="#">Well Documentation</a></h3>
@@ -778,7 +763,7 @@ Platinum
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <!-- Choose Section End -->
 
 
@@ -1021,7 +1006,7 @@ Expert IT Consultants
 <!-- Team Section End -->
 
 <!-- Partner Start -->
-<div id="client" class="rs-partner pt-80 pb-70">
+<div id="client" class="rs-partner bg23 pt-80 pb-70">
     <div class="container">
         <div class="sec-title2 text-center mb-60">
             <!-- <span class="sub-text">Team</span> -->
@@ -1097,6 +1082,169 @@ Expert IT Consultants
     </div>
 </div>
 <!-- Partner End -->
+
+<!-- Testimonial Section Start -->
+<div class="rs-testimonial main-home gray-color pt-120 pb-120 md-pt-80 md-pb-80">
+                <div class="container">
+                  <div class="sec-title2 text-center mb-45">
+                      <span class="sub-text">Testimonial</span>
+                      <h2 class="title testi-title">
+                         What Saying Our Customers
+                      </h2>
+                      <div class="heading-line">
+
+                      </div>
+                  </div>
+                    <div class="rs-carousel owl-carousel" 
+                        data-loop="true" 
+                        data-items="3" 
+                        data-margin="30" 
+                        data-autoplay="true" 
+                        data-hoverpause="true" 
+                        data-autoplay-timeout="5000" 
+                        data-smart-speed="800" 
+                        data-dots="true" 
+                        data-nav="false" 
+                        data-nav-speed="false" 
+
+                        data-md-device="3" 
+                        data-md-device-nav="false" 
+                        data-md-device-dots="true" 
+                        data-center-mode="false"
+
+                        data-ipad-device2="1" 
+                        data-ipad-device-nav2="false" 
+                        data-ipad-device-dots2="true"
+
+                        data-ipad-device="2" 
+                        data-ipad-device-nav="false" 
+                        data-ipad-device-dots="true" 
+
+                        data-mobile-device="1" 
+                        data-mobile-device-nav="false" 
+                        data-mobile-device-dots="false">
+                        <div class="testi-item">
+                            <div class="author-desc">                                
+                                <div class="desc"><img class="quote" src="{{asset('assets/frontend/images/testimonial/main-home/quote2.png')}}" alt="">Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</div>
+                                <div class="author-img">
+                                    <img src="{{asset('assets/frontend/images/testimonial/main-home/1.jpg')}}" alt="">
+                                </div>
+                            </div>
+                            <div class="author-part">
+                                <a class="name" href="#">Mariya Khan</a>
+                                <span class="designation">CEO, Brick Consulting</span>
+                            </div>
+                        </div>
+                        <div class="testi-item">
+                            <div class="author-desc">                                
+                                <div class="desc"><img class="quote" src="{{asset('assets/frontend/images/testimonial/main-home/quote2.png')}}" alt="">Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</div>
+                                <div class="author-img">
+                                    <img src="{{asset('assets/frontend/images/testimonial/main-home/2.jpg')}}" alt="">
+                                </div>
+                            </div>
+                            <div class="author-part">
+                                <a class="name" href="#">Sonia Akhter</a>
+                                <span class="designation">Graphic Designer</span>
+                            </div>
+                        </div>
+                        <div class="testi-item">
+                            <div class="author-desc">                                
+                                <div class="desc"><img class="quote" src="{{asset('assets/frontend/images/testimonial/main-home/quote2.png')}}" alt="">Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</div>
+                                <div class="author-img">
+                                    <img src="{{asset('assets/frontend/images/testimonial/main-home/3.jpg')}}" alt="">
+                                </div>
+                            </div>
+                            <div class="author-part">
+                                <a class="name" href="#">Deluar Hossen</a>
+                                <span class="designation">Web Developer</span>
+                            </div>
+                        </div>
+                        <div class="testi-item">
+                            <div class="author-desc">                                
+                                <div class="desc"><img class="quote" src="{{asset('assets/frontend/images/testimonial/main-home/quote2.png')}}" alt="">Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</div>
+                                <div class="author-img">
+                                    <img src="{{asset('assets/frontend/images/testimonial/main-home/4.jpg')}}" alt="">
+                                </div>
+                            </div>
+                            <div class="author-part">
+                                <a class="name" href="#">Asif Ahmed</a>
+                                <span class="designation">App Developer</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Testimonial Section End -->
+
+
+            <!-- Project Section Start -->
+            <div class="rs-project bg5 style1 pt-110 md-pt-80">
+                <div class="container">
+                   <div class="sec-title2 text-center mb-45 md-mb-30">
+                       <span class="sub-text white-color">Project</span>
+                       <h2 class="title white-color">
+                          We Are Offering All Kinds of IT Solutions Services
+                       </h2>                       
+                   </div>
+                    <div class="rs-carousel owl-carousel" data-loop="true" data-items="3" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="2" data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="3" data-md-device-nav="true" data-md-device-dots="false">
+                        <div class="project-item">
+                            <div class="project-img">
+                                <a href="#"><img src="{{asset('assets/frontend/images/project/main-home/1.jpg')}}" alt="images"></a>
+                            </div>
+                            <div class="project-content">
+                                <h3 class="title"><a href="#">Project Design</a></h3>
+                                <span class="category"><a href="#">IT Technology</a></span>
+                            </div>
+                        </div>
+                        <div class="project-item">
+                            <div class="project-img">
+                                <a href="#"><img src="{{asset('assets/frontend/images/project/main-home/2.jpg')}}" alt="images"></a>
+                            </div>
+                            <div class="project-content">
+                                <h3 class="title"><a href="#">Product Engineering</a></h3>
+                                <span class="category"><a href="#">IT Technology</a></span>
+                            </div>
+                        </div>
+                        <div class="project-item">
+                            <div class="project-img">
+                                <a href="#"><img src="{{asset('assets/frontend/images/project/main-home/3.jpg')}}" alt="images"></a>
+                            </div>
+                            <div class="project-content">
+                                <h3 class="title"><a href="#">Analytic Solutions</a></h3>
+                                <span class="category"><a href="#">IT Technology</a></span>
+                            </div>
+                        </div>
+                        <div class="project-item">
+                            <div class="project-img">
+                                <a href=""><img src="{{asset('assets/frontend/images/project/main-home/4.jpg')}}" alt="images"></a>
+                            </div>
+                            <div class="project-content">
+                                <h3 class="title"><a href="#">Growth Strategies</a></h3>
+                                <span class="category"><a href="#">IT Technology</a></span>
+                            </div>
+                        </div>
+                        <div class="project-item">
+                            <div class="project-img">
+                                <a href="#"><img src="{{asset('assets/frontend/images/project/main-home/5.jpg')}}" alt="images"></a>
+                            </div>
+                            <div class="project-content">
+                                <h3 class="title"><a href="#">Platform Integration</a></h3>
+                                <span class="category"><a href="#">IT Technology</a></span>
+                            </div>
+                        </div>
+                        <div class="project-item">
+                            <div class="project-img">
+                                <a href="#"><img src="{{asset('assets/frontend/images/project/main-home/6.jpg')}}" alt="images"></a>
+                            </div>
+                            <div class="project-content">
+                                <h3 class="title"><a href="#">Innovative Interfaces</a></h3>
+                                <span class="category"><a href="#">IT Technology</a></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Project Section End -->
 
 <!-- Testimonial Section Start -->
 <div class="rs-testimonial">
@@ -1356,7 +1504,7 @@ What Saying Our Customers
 <!-- Testimonial Section End -->
 
 <!-- Contact Section Start -->
-<div id="rs-contact" class="rs-contact pt-120 gray-color">
+<div id="rs-contact" class="rs-contact pt-120">
     <div class="container">
         <div class="row">
             <div class="col-lg-4">

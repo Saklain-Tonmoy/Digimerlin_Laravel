@@ -28,3 +28,5 @@
 <link rel="stylesheet" type="text/css" href="{{asset('assets/frontend/css/style.css')}}"> <!-- This stylesheet dynamically changed from style.less -->
 <!-- responsive css -->
 <link rel="stylesheet" type="text/css" href="{{asset('assets/frontend/css/responsive.css')}}">
+<!-- Toastr css -->
+<link rel="stylesheet" type="text/css" href="{{asset('assets/frontend/css/toastr.min.css')}}">

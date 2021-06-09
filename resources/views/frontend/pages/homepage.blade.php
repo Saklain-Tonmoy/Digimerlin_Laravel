@@ -321,119 +321,119 @@
 
 <!-- About Section Start -->
 <div class="rs-about style3 pt-120 pb-120 md-pt-75 md-pb-80">
-                <div class="container">
-                    <div class="row align-items-center">
-                        <div class="col-lg-5">
-                            <div class="sec-title mb-30">
-                                <div class="sub-text style2">Why Choose Digimerlin?</div>
-                                <h2 class=" title title3 pb-20">
-                                We Provide Result-Oriented Dynamic Solutions
-                                </h2>
-                                <div class="desc desc2">
-                                We the Digimerlin feeling pleased to present ourselves as one of the expert IT Solution Company in the online commercial world. We provide our customers the best IT Services they have ever experienced. We strongly consider our consumer loyalty.
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-5">
+                <div class="sec-title mb-30">
+                    <div class="sub-text style2">Why Choose Digimerlin?</div>
+                    <h2 class=" title title3 pb-20">
+                        We Provide Result-Oriented Dynamic Solutions
+                    </h2>
+                    <div class="desc desc2">
+                        We the Digimerlin feeling pleased to present ourselves as one of the expert IT Solution Company in the online commercial world. We provide our customers the best IT Services they have ever experienced. We strongly consider our consumer loyalty.
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-7 md-pt-40">
+                <div class="rs-animation-image">
+                    <div class="pattern-img">
+                        <img src="{{asset('assets/frontend/images/about/style2/round.png')}}" alt="">
+                    </div>
+                    <div class="middle-img">
+                        <img class="dance3" src="{{asset('assets/frontend/images/about/style2/about1.png')}}" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- About Section End -->
+
+
+<!-- Process Section Start -->
+<div class="white-color">
+    <div class="rs-process modify1 pt-160 pb-120 md-pt-75 md-pb-80">
+        <div class="shape-animation">
+            <div class="shape-process">
+                <img class="dance2" src="{{asset('assets/frontend/images/process/circle.png')}}" alt="images">
+            </div>
+        </div>
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-4 pr-40 md-pr-15 md-pb-80">
+                    <div class="process-wrap md-center">
+                        <div class="sec-title mb-30">
+                            <div class="sub-text new">Working Process</div>
+                            <h2 class="title white-color">
+                                Our Working Process - How We Work For Our Customers
+                            </h2>
+                        </div>
+                        <div class="btn-part mt-40">
+                            <a class="readon started" href="#">Contact Us</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-8 sm-pl-40 sm-pr-20">
+                    <div class="row">
+                        <div class="col-md-6 mb-70">
+                            <div class="rs-addon-number">
+                                <div class="number-text">
+                                    <div class="number-area">
+                                        1
+                                    </div>
+                                    <div class="number-title">
+                                        <h3 class="title"> Discovery</h3>
+                                    </div>
+                                    <!-- <p class="number-txt">  Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor theo lacus egestas.</p> -->
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-7 md-pt-40">
-                            <div class="rs-animation-image">
-                                <div class="pattern-img">
-                                   <img src="{{asset('assets/frontend/images/about/style2/round.png')}}" alt=""> 
+                        <div class="col-md-6 mb-70">
+                            <div class="rs-addon-number">
+                                <div class="number-text">
+                                    <div class="number-area green-bg">
+                                        2
+                                    </div>
+                                    <div class="number-title">
+                                        <h3 class="title">Planning</h3>
+                                    </div>
+                                    <!-- <p class="number-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor theo lacus egestas.</p> -->
                                 </div>
-                                <div class="middle-img">
-                                   <img class="dance3" src="{{asset('assets/frontend/images/about/style2/about1.png')}}" alt="">
+                            </div>
+                        </div>
+                        <div class="col-md-6 sm-mb-70">
+                            <div class="rs-addon-number">
+                                <div class="number-text">
+                                    <div class="number-area plum-bg">
+                                        3
+                                    </div>
+                                    <div class="number-title">
+                                        <h3 class="title">Execute</h3>
+                                    </div>
+                                    <!-- <p class="number-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor theo lacus egestas.</p> -->
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="rs-addon-number">
+                                <div class="number-text">
+                                    <div class="number-area pink-bg">
+                                        4
+                                    </div>
+                                    <div class="number-title">
+                                        <h3 class="title">Deliver</h3>
+                                    </div>
+                                    <!-- <p class="number-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor theo lacus egestas.</p> -->
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- About Section End -->
-
-
-<!-- Process Section Start -->
-<div class="white-color">
-              <div class="rs-process modify1 pt-160 pb-120 md-pt-75 md-pb-80">
-                  <div class="shape-animation">
-                      <div class="shape-process">
-                          <img class="dance2" src="{{asset('assets/frontend/images/process/circle.png')}}" alt="images">
-                      </div>
-                  </div>
-                  <div class="container">
-                      <div class="row align-items-center">
-                          <div class="col-lg-4 pr-40 md-pr-15 md-pb-80">
-                              <div class="process-wrap md-center">
-                                  <div class="sec-title mb-30">
-                                      <div class="sub-text new">Working Process</div>
-                                      <h2 class="title white-color">
-                                          Our Working Process -  How We Work For Our Customers
-                                      </h2>
-                                  </div>
-                                  <div class="btn-part mt-40">
-                                      <a class="readon started" href="#">Contact Us</a>
-                                  </div>
-                              </div>
-                          </div>
-                          <div class="col-lg-8 sm-pl-40 sm-pr-20">
-                              <div class="row">
-                                  <div class="col-md-6 mb-70">
-                                      <div class="rs-addon-number">
-                                          <div class="number-text">
-                                              <div class="number-area">
-                                                  1
-                                              </div>
-                                              <div class="number-title">
-                                                  <h3 class="title"> Discovery</h3>
-                                              </div>
-                                              <!-- <p class="number-txt">  Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor theo lacus egestas.</p> -->
-                                          </div>
-                                      </div>
-                                  </div>
-                                  <div class="col-md-6 mb-70">
-                                      <div class="rs-addon-number">
-                                          <div class="number-text">
-                                              <div class="number-area green-bg">
-                                                  2
-                                              </div>
-                                              <div class="number-title">
-                                                  <h3 class="title">Planning</h3>
-                                              </div>
-                                              <!-- <p class="number-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor theo lacus egestas.</p> -->
-                                          </div>
-                                      </div>
-                                  </div>
-                                  <div class="col-md-6 sm-mb-70">
-                                      <div class="rs-addon-number">
-                                          <div class="number-text">
-                                              <div class="number-area plum-bg">
-                                                  3
-                                              </div>
-                                              <div class="number-title">
-                                                  <h3 class="title">Execute</h3>
-                                              </div>
-                                              <!-- <p class="number-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor theo lacus egestas.</p> -->
-                                          </div>
-                                      </div>
-                                  </div>
-                                  <div class="col-md-6">
-                                      <div class="rs-addon-number">
-                                          <div class="number-text">
-                                              <div class="number-area pink-bg">
-                                                  4
-                                              </div>
-                                              <div class="number-title">
-                                                  <h3 class="title">Deliver</h3>
-                                              </div>
-                                              <!-- <p class="number-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor theo lacus egestas.</p> -->
-                                          </div>
-                                      </div>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-              </div>
-            </div>
-            <!-- Process Section End -->
+        </div>
+    </div>
+</div>
+<!-- Process Section End -->
 
 <!-- Process Section Start -->
 <!-- <div class="rs-process pt-180 pb-120 md-pt-80 md-pb-80">
@@ -1085,166 +1085,139 @@ Expert IT Consultants
 
 <!-- Testimonial Section Start -->
 <div class="rs-testimonial main-home gray-color pt-120 pb-120 md-pt-80 md-pb-80">
-                <div class="container">
-                  <div class="sec-title2 text-center mb-45">
-                      <span class="sub-text">Testimonial</span>
-                      <h2 class="title testi-title">
-                         What Saying Our Customers
-                      </h2>
-                      <div class="heading-line">
+    <div class="container">
+        <div class="sec-title2 text-center mb-45">
+            <span class="sub-text">Testimonial</span>
+            <h2 class="title testi-title">
+                What Saying Our Customers
+            </h2>
+            <div class="heading-line">
 
-                      </div>
-                  </div>
-                    <div class="rs-carousel owl-carousel" 
-                        data-loop="true" 
-                        data-items="3" 
-                        data-margin="30" 
-                        data-autoplay="true" 
-                        data-hoverpause="true" 
-                        data-autoplay-timeout="5000" 
-                        data-smart-speed="800" 
-                        data-dots="true" 
-                        data-nav="false" 
-                        data-nav-speed="false" 
-
-                        data-md-device="3" 
-                        data-md-device-nav="false" 
-                        data-md-device-dots="true" 
-                        data-center-mode="false"
-
-                        data-ipad-device2="1" 
-                        data-ipad-device-nav2="false" 
-                        data-ipad-device-dots2="true"
-
-                        data-ipad-device="2" 
-                        data-ipad-device-nav="false" 
-                        data-ipad-device-dots="true" 
-
-                        data-mobile-device="1" 
-                        data-mobile-device-nav="false" 
-                        data-mobile-device-dots="false">
-                        <div class="testi-item">
-                            <div class="author-desc">                                
-                                <div class="desc"><img class="quote" src="{{asset('assets/frontend/images/testimonial/main-home/quote2.png')}}" alt="">Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</div>
-                                <div class="author-img">
-                                    <img src="{{asset('assets/frontend/images/testimonial/main-home/1.jpg')}}" alt="">
-                                </div>
-                            </div>
-                            <div class="author-part">
-                                <a class="name" href="#">Mariya Khan</a>
-                                <span class="designation">CEO, Brick Consulting</span>
-                            </div>
-                        </div>
-                        <div class="testi-item">
-                            <div class="author-desc">                                
-                                <div class="desc"><img class="quote" src="{{asset('assets/frontend/images/testimonial/main-home/quote2.png')}}" alt="">Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</div>
-                                <div class="author-img">
-                                    <img src="{{asset('assets/frontend/images/testimonial/main-home/2.jpg')}}" alt="">
-                                </div>
-                            </div>
-                            <div class="author-part">
-                                <a class="name" href="#">Sonia Akhter</a>
-                                <span class="designation">Graphic Designer</span>
-                            </div>
-                        </div>
-                        <div class="testi-item">
-                            <div class="author-desc">                                
-                                <div class="desc"><img class="quote" src="{{asset('assets/frontend/images/testimonial/main-home/quote2.png')}}" alt="">Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</div>
-                                <div class="author-img">
-                                    <img src="{{asset('assets/frontend/images/testimonial/main-home/3.jpg')}}" alt="">
-                                </div>
-                            </div>
-                            <div class="author-part">
-                                <a class="name" href="#">Deluar Hossen</a>
-                                <span class="designation">Web Developer</span>
-                            </div>
-                        </div>
-                        <div class="testi-item">
-                            <div class="author-desc">                                
-                                <div class="desc"><img class="quote" src="{{asset('assets/frontend/images/testimonial/main-home/quote2.png')}}" alt="">Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</div>
-                                <div class="author-img">
-                                    <img src="{{asset('assets/frontend/images/testimonial/main-home/4.jpg')}}" alt="">
-                                </div>
-                            </div>
-                            <div class="author-part">
-                                <a class="name" href="#">Asif Ahmed</a>
-                                <span class="designation">App Developer</span>
-                            </div>
-                        </div>
+            </div>
+        </div>
+        <div class="rs-carousel owl-carousel" data-loop="true" data-items="3" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="true" data-nav="false" data-nav-speed="false" data-md-device="3" data-md-device-nav="false" data-md-device-dots="true" data-center-mode="false" data-ipad-device2="1" data-ipad-device-nav2="false" data-ipad-device-dots2="true" data-ipad-device="2" data-ipad-device-nav="false" data-ipad-device-dots="true" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false">
+            <div class="testi-item">
+                <div class="author-desc">
+                    <div class="desc"><img class="quote" src="{{asset('assets/frontend/images/testimonial/main-home/quote2.png')}}" alt="">Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</div>
+                    <div class="author-img">
+                        <img src="{{asset('assets/frontend/images/testimonial/main-home/1.jpg')}}" alt="">
                     </div>
                 </div>
-            </div>
-            <!-- Testimonial Section End -->
-
-
-            <!-- Project Section Start -->
-            <div class="rs-project bg5 style1 pt-110 md-pt-80">
-                <div class="container">
-                   <div class="sec-title2 text-center mb-45 md-mb-30">
-                       <span class="sub-text white-color">Project</span>
-                       <h2 class="title white-color">
-                          We Are Offering All Kinds of IT Solutions Services
-                       </h2>                       
-                   </div>
-                    <div class="rs-carousel owl-carousel" data-loop="true" data-items="3" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="2" data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="3" data-md-device-nav="true" data-md-device-dots="false">
-                        <div class="project-item">
-                            <div class="project-img">
-                                <a href="#"><img src="{{asset('assets/frontend/images/project/main-home/1.jpg')}}" alt="images"></a>
-                            </div>
-                            <div class="project-content">
-                                <h3 class="title"><a href="#">Project Design</a></h3>
-                                <span class="category"><a href="#">IT Technology</a></span>
-                            </div>
-                        </div>
-                        <div class="project-item">
-                            <div class="project-img">
-                                <a href="#"><img src="{{asset('assets/frontend/images/project/main-home/2.jpg')}}" alt="images"></a>
-                            </div>
-                            <div class="project-content">
-                                <h3 class="title"><a href="#">Product Engineering</a></h3>
-                                <span class="category"><a href="#">IT Technology</a></span>
-                            </div>
-                        </div>
-                        <div class="project-item">
-                            <div class="project-img">
-                                <a href="#"><img src="{{asset('assets/frontend/images/project/main-home/3.jpg')}}" alt="images"></a>
-                            </div>
-                            <div class="project-content">
-                                <h3 class="title"><a href="#">Analytic Solutions</a></h3>
-                                <span class="category"><a href="#">IT Technology</a></span>
-                            </div>
-                        </div>
-                        <div class="project-item">
-                            <div class="project-img">
-                                <a href=""><img src="{{asset('assets/frontend/images/project/main-home/4.jpg')}}" alt="images"></a>
-                            </div>
-                            <div class="project-content">
-                                <h3 class="title"><a href="#">Growth Strategies</a></h3>
-                                <span class="category"><a href="#">IT Technology</a></span>
-                            </div>
-                        </div>
-                        <div class="project-item">
-                            <div class="project-img">
-                                <a href="#"><img src="{{asset('assets/frontend/images/project/main-home/5.jpg')}}" alt="images"></a>
-                            </div>
-                            <div class="project-content">
-                                <h3 class="title"><a href="#">Platform Integration</a></h3>
-                                <span class="category"><a href="#">IT Technology</a></span>
-                            </div>
-                        </div>
-                        <div class="project-item">
-                            <div class="project-img">
-                                <a href="#"><img src="{{asset('assets/frontend/images/project/main-home/6.jpg')}}" alt="images"></a>
-                            </div>
-                            <div class="project-content">
-                                <h3 class="title"><a href="#">Innovative Interfaces</a></h3>
-                                <span class="category"><a href="#">IT Technology</a></span>
-                            </div>
-                        </div>
-                    </div>
+                <div class="author-part">
+                    <a class="name" href="#">Mariya Khan</a>
+                    <span class="designation">CEO, Brick Consulting</span>
                 </div>
             </div>
-            <!-- Project Section End -->
+            <div class="testi-item">
+                <div class="author-desc">
+                    <div class="desc"><img class="quote" src="{{asset('assets/frontend/images/testimonial/main-home/quote2.png')}}" alt="">Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</div>
+                    <div class="author-img">
+                        <img src="{{asset('assets/frontend/images/testimonial/main-home/2.jpg')}}" alt="">
+                    </div>
+                </div>
+                <div class="author-part">
+                    <a class="name" href="#">Sonia Akhter</a>
+                    <span class="designation">Graphic Designer</span>
+                </div>
+            </div>
+            <div class="testi-item">
+                <div class="author-desc">
+                    <div class="desc"><img class="quote" src="{{asset('assets/frontend/images/testimonial/main-home/quote2.png')}}" alt="">Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</div>
+                    <div class="author-img">
+                        <img src="{{asset('assets/frontend/images/testimonial/main-home/3.jpg')}}" alt="">
+                    </div>
+                </div>
+                <div class="author-part">
+                    <a class="name" href="#">Deluar Hossen</a>
+                    <span class="designation">Web Developer</span>
+                </div>
+            </div>
+            <div class="testi-item">
+                <div class="author-desc">
+                    <div class="desc"><img class="quote" src="{{asset('assets/frontend/images/testimonial/main-home/quote2.png')}}" alt="">Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</div>
+                    <div class="author-img">
+                        <img src="{{asset('assets/frontend/images/testimonial/main-home/4.jpg')}}" alt="">
+                    </div>
+                </div>
+                <div class="author-part">
+                    <a class="name" href="#">Asif Ahmed</a>
+                    <span class="designation">App Developer</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Testimonial Section End -->
+
+
+<!-- Project Section Start -->
+<div class="rs-project bg5 style1 pt-110 md-pt-80">
+    <div class="container">
+        <div class="sec-title2 text-center mb-45 md-mb-30">
+            <span class="sub-text white-color">Project</span>
+            <h2 class="title white-color">
+                We Are Offering All Kinds of IT Solutions Services
+            </h2>
+        </div>
+        <div class="rs-carousel owl-carousel" data-loop="true" data-items="3" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="2" data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="3" data-md-device-nav="true" data-md-device-dots="false">
+            <div class="project-item">
+                <div class="project-img">
+                    <a href="#"><img src="{{asset('assets/frontend/images/project/main-home/1.jpg')}}" alt="images"></a>
+                </div>
+                <div class="project-content">
+                    <h3 class="title"><a href="#">Project Design</a></h3>
+                    <span class="category"><a href="#">IT Technology</a></span>
+                </div>
+            </div>
+            <div class="project-item">
+                <div class="project-img">
+                    <a href="#"><img src="{{asset('assets/frontend/images/project/main-home/2.jpg')}}" alt="images"></a>
+                </div>
+                <div class="project-content">
+                    <h3 class="title"><a href="#">Product Engineering</a></h3>
+                    <span class="category"><a href="#">IT Technology</a></span>
+                </div>
+            </div>
+            <div class="project-item">
+                <div class="project-img">
+                    <a href="#"><img src="{{asset('assets/frontend/images/project/main-home/3.jpg')}}" alt="images"></a>
+                </div>
+                <div class="project-content">
+                    <h3 class="title"><a href="#">Analytic Solutions</a></h3>
+                    <span class="category"><a href="#">IT Technology</a></span>
+                </div>
+            </div>
+            <div class="project-item">
+                <div class="project-img">
+                    <a href=""><img src="{{asset('assets/frontend/images/project/main-home/4.jpg')}}" alt="images"></a>
+                </div>
+                <div class="project-content">
+                    <h3 class="title"><a href="#">Growth Strategies</a></h3>
+                    <span class="category"><a href="#">IT Technology</a></span>
+                </div>
+            </div>
+            <div class="project-item">
+                <div class="project-img">
+                    <a href="#"><img src="{{asset('assets/frontend/images/project/main-home/5.jpg')}}" alt="images"></a>
+                </div>
+                <div class="project-content">
+                    <h3 class="title"><a href="#">Platform Integration</a></h3>
+                    <span class="category"><a href="#">IT Technology</a></span>
+                </div>
+            </div>
+            <div class="project-item">
+                <div class="project-img">
+                    <a href="#"><img src="{{asset('assets/frontend/images/project/main-home/6.jpg')}}" alt="images"></a>
+                </div>
+                <div class="project-content">
+                    <h3 class="title"><a href="#">Innovative Interfaces</a></h3>
+                    <span class="category"><a href="#">IT Technology</a></span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Project Section End -->
 
 <!-- Testimonial Section Start -->
 <div class="rs-testimonial">
@@ -1550,17 +1523,35 @@ What Saying Our Customers
 
                     </div>
                     <!-- <div id="form-messages"></div> -->
-                    <form method="POST" action="{{route('contact')}}">
+                    <form>
                         @csrf
                         <div class="row">
                             <div class="form-group col-lg-6 mb-30 col-md-6 col-sm-6">
                                 <input class="from-control" type="text" id="name" name="name" placeholder="Name" required="">
+                                <!-- Show error -->
+                                @if ($errors->has('name'))
+                                    <div class="alert alert-danger">
+                                        {{ $errors->first('name') }}
+                                    </div>
+                                @endif
                             </div>
                             <div class="form-group col-lg-6 mb-30 col-md-6 col-sm-6">
-                                <input class="from-control" type="text" id="email" name="email" placeholder="E-Mail" required="">
+                                <input class="from-control" type="email" id="email" name="email" placeholder="E-Mail" required="">
+                                <!-- Show error -->
+                                @if ($errors->has('email'))
+                                    <div class="alert alert-danger">
+                                        {{ $errors->first('email') }}
+                                    </div>
+                                @endif
                             </div>
                             <div class="form-group col-lg-6 mb-30 col-md-6 col-sm-6">
-                                <input class="from-control" type="text" id="phone" name="phone" placeholder="Phone Number" required="">
+                                <input class="from-control" type="tel" id="phone" name="phone" placeholder="Phone Number" required="">
+                                <!-- Show error -->
+                                @if ($errors->has('phone'))
+                                    <div class="alert alert-danger">
+                                        {{ $errors->first('phone') }}
+                                    </div>
+                                @endif
                             </div>
                             <div class="form-group col-lg-6 mb-30 col-md-6 col-sm-6">
                                 <select class="from-control" type="text" id="subject" name="subject" placeholder="Your Website" required="">
@@ -1572,15 +1563,27 @@ What Saying Our Customers
                                     <option value="Brand Development">Brand Development</option>
                                     <option value="Graphic Design">Graphic Design</option>
                                 </select>
+                                <!-- Show error -->
+                                @if ($errors->has('subject'))
+                                    <div class="alert alert-danger">
+                                        {{ $errors->first('subject') }}
+                                    </div>
+                                @endif
                             </div>
 
                             <div class="form-group col-lg-12 mb-30">
                                 <textarea class="from-control" id="content" name="content" placeholder="Your message Here" required=""></textarea>
+                                <!-- Show error -->
+                                @if ($errors->has('content'))
+                                    <div class="alert alert-danger">
+                                        {{ $errors->first('content') }}
+                                    </div>
+                                @endif
                             </div>
                         </div>
                         <div class="btn-part">
                             <div class="form-group mb-0">
-                                <button class="readon learn-more submit" type="submit">Submit Now</button>
+                                <button class="readon learn-more submit" type="submit" id="submitbtn" name="submitbtn">Submit Now</button>
                             </div>
                         </div>
                     </form>
@@ -1603,3 +1606,4 @@ What Saying Our Customers
 </div>
 <!-- Contact Section Start -->
 @endsection
+

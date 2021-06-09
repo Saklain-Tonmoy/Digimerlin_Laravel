@@ -1,7 +1,7 @@
 <!-- modernizr js -->
 <script src="{{asset('assets/frontend/js/modernizr-2.8.3.min.js')}}"></script>
 <!-- jquery latest version -->
-<script src="{{asset('assets/frontend/js/jquery.min.js')}}"></script>
+<script src="{{asset('assets/frontend/js/jquery.min.js')}}" type="text/javascript"></script>
 <!-- Bootstrap v4.4.1 js -->
 <script src="{{asset('assets/frontend/js/bootstrap.min.js')}}"></script>
 <!-- Menu js -->
@@ -31,3 +31,5 @@
 <script src="{{asset('assets/frontend/js/contact.form.js')}}"></script>
 <!-- main js -->
 <script src="{{asset('assets/frontend/js/main.js')}}"></script>
+<!-- Toastr js -->
+<script src="{{asset('assets/frontend/js/toastr.min.js')}}"></script>

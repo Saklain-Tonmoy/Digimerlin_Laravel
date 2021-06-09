@@ -66,8 +66,8 @@
                 </div>
                 <div class="col-lg-3 col-md-12 col-sm-12">
                     <h3 class="widget-title">Newsletter</h3>
-                    <p class="widget-desc white-color">We denounce with righteous and in and dislike men who are so beguiled and demo realized.</p>
-                    <form id="subscriberForm">
+                    <p class="widget-desc white-color">Subscribe Us to get latest news.</p>
+                    <form id="subscriberForm" method="POST">
                         @csrf
                         <p>
                             <input type="email" id="subscriberEmail" name="subscriberEmail" placeholder="Your email address" required="">
@@ -82,18 +82,9 @@
     <div class="footer-bottom">
         <div class="container">
             <div class="row y-middle">
-                <!-- <div class="col-lg-6 text-right md-mb-10 order-last">
-                    <ul class="copy-right-menu">
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="about.html">About</a></li>
-                        <li><a href="blog.html">Blog</a></li>
-                        <li><a href="shop.html">Shop</a></li>
-                        <li><a href="faq.html">FAQs</a></li>
-                    </ul>
-                </div> -->
                 <div class="col-lg-12">
                     <div class="copyright">
-                        <p>&copy; 2021 All Rights Reserved. Developed By <a href="">Saklain</a></p>
+                        <p>&copy; 2021 All Rights Reserved. Developed By <a href="#">Saklain</a></p>
                     </div>
                 </div>
 

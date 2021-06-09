@@ -28,7 +28,6 @@
         $("#content").val('');
     };
 
-    window.onload = function() {
         $('#submitbtn').click(function(e) {
             e.preventDefault();
 
@@ -73,14 +72,13 @@
                 }
             });
         });
-    };
 </script>
 
 <script>
     function clearSubscriberForm(){
         $('#subscriberEmail').val('');
     };
-    window.onload = function(){
+    
         $('#subscriberForm').submit(function(e) {
             e.preventDefault();
             $.ajaxSetup({
@@ -99,6 +97,7 @@
             },
             success: function(response){
                 console.log('success');
+                clearSubscriberForm();
                 toastr.options = {
                         "closeButton": true,
                         "progressBar": true,                      
@@ -114,8 +113,5 @@
             }
         });
         });
-
-        
-    }
 </script>
 </html>

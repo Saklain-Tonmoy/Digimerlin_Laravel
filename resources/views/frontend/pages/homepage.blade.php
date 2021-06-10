@@ -196,37 +196,37 @@
                                 <div class="cl-skill-bar">
                                     <!-- Start Skill Bar -->
                                     <span class="skillbar-title">Web Development</span>
-                                    <div class="skillbar" data-percent="92">
+                                    <div class="skillbar" data-percent="98">
                                         <p class="skillbar-bar"></p>
                                         <span class="skill-bar-percent"></span>
                                     </div>
                                     <!-- Start Skill Bar -->
                                     <span class="skillbar-title">App Development</span>
-                                    <div class="skillbar" data-percent="80">
-                                        <p class="skillbar-bar"></p>
-                                        <span class="skill-bar-percent"></span>
-                                    </div>
-                                    <!-- Start Skill Bar -->
-                                    <span class="skillbar-title">Digital Marketing</span>
                                     <div class="skillbar" data-percent="95">
                                         <p class="skillbar-bar"></p>
                                         <span class="skill-bar-percent"></span>
                                     </div>
                                     <!-- Start Skill Bar -->
+                                    <span class="skillbar-title">Digital Marketing</span>
+                                    <div class="skillbar" data-percent="98">
+                                        <p class="skillbar-bar"></p>
+                                        <span class="skill-bar-percent"></span>
+                                    </div>
+                                    <!-- Start Skill Bar -->
                                     <span class="skillbar-title">SEO</span>
-                                    <div class="skillbar" data-percent="78">
+                                    <div class="skillbar" data-percent="99">
                                         <p class="skillbar-bar"></p>
                                         <span class="skill-bar-percent"></span>
                                     </div>
                                     <!-- Start Skill Bar -->
                                     <span class="skillbar-title">Brand Development</span>
-                                    <div class="skillbar" data-percent="78">
+                                    <div class="skillbar" data-percent="95">
                                         <p class="skillbar-bar"></p>
                                         <span class="skill-bar-percent"></span>
                                     </div>
                                     <!-- Start Skill Bar -->
                                     <span class="skillbar-title">Graphic Design</span>
-                                    <div class="skillbar" data-percent="78">
+                                    <div class="skillbar" data-percent="98">
                                         <p class="skillbar-bar"></p>
                                         <span class="skill-bar-percent"></span>
                                     </div>
@@ -250,7 +250,7 @@
         <div class="row rs-vertical-middle">
             <div class="col-lg-6">
                 <div class="image-part">
-                    <img src="{{asset('assets/frontend/images/call-us/contact-here.png')}}" alt="">
+                    <img src="{{asset('assets/frontend/images/digimerlin-idea.png')}}" alt="">
                 </div>
             </div>
             <div class="col-lg-6">
@@ -262,11 +262,11 @@
                     </div>
                     <div class="sec-title3">
                         <span class="sub-text">CALL US 24/7</span>
-                        <h2 class="title">(+123) 456-9989</h2>
+                        <h2 class="title">(+880) 1708-159827</h2>
                         <p class="desc">Have any idea or project for in your mind call us or schedule a appointment. Our representative will reply you shortly.</p>
                     </div>
                     <div class="btn-part mt-40 md-mb-60">
-                        <a class="readon lets-talk" href="#rs-contact">Let's Talk</a>
+                        <a class="readon lets-talk" href="tel:+(880)1708–159827">Let's Talk</a>
                     </div>
                 </div>
             </div>
@@ -332,10 +332,10 @@
             <div class="col-lg-7 md-pt-40">
                 <div class="rs-animation-image">
                     <div class="pattern-img">
-                        <img src="{{asset('assets/frontend/images/about/style2/round.png')}}" alt="">
+                        <img src="{{asset('assets/frontend/images/digimerlin-why-choose-us.png')}}" alt="">
                     </div>
                     <div class="middle-img">
-                        <img class="dance3" src="{{asset('assets/frontend/images/about/style2/about1.png')}}" alt="">
+                        <img class="dance3" src="{{asset('assets/frontend/images/digimerlin-why-choose-us-1.png')}}" alt="">
                     </div>
                 </div>
             </div>
@@ -347,7 +347,7 @@
 
 <!-- Process Section Start -->
 <div class="white-color">
-    <div class="rs-process modify1 pt-160 pb-120 md-pt-75 md-pb-80">
+    <div class="rs-process modify1 pt-160 pb-120 md-pt-80 md-pb-80">
         <div class="shape-animation">
             <div class="shape-process">
                 <img class="dance2" src="{{asset('assets/frontend/images/process/circle.png')}}" alt="images">
@@ -364,7 +364,7 @@
                             </h2>
                         </div>
                         <div class="btn-part mt-40">
-                            <a class="readon started" href="#">Contact Us</a>
+                            <a class="readon lets-talk" href="#rs-contact">Contact Us</a>
                         </div>
                     </div>
                 </div>
@@ -532,12 +532,78 @@ Platinum
 </div> -->
 <!-- Pricing section end -->
 
+<!-- Testimonial Section Start -->
+<div class="rs-testimonial main-home gray-color pt-120 pb-120 md-pt-80 md-pb-80">
+    <div class="container">
+        <div class="sec-title2 text-center mb-45">
+            <span class="sub-text">Testimonial</span>
+            <h2 class="title testi-title">
+                What Saying Our Customers
+            </h2>
+            <div class="heading-line">
+
+            </div>
+        </div>
+        <div class="rs-carousel owl-carousel" data-loop="true" data-items="3" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="true" data-nav="false" data-nav-speed="false" data-md-device="3" data-md-device-nav="false" data-md-device-dots="true" data-center-mode="false" data-ipad-device2="1" data-ipad-device-nav2="false" data-ipad-device-dots2="true" data-ipad-device="2" data-ipad-device-nav="false" data-ipad-device-dots="true" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false">
+            <div class="testi-item">
+                <div class="author-desc">
+                    <div class="desc"><img class="quote" src="{{asset('assets/frontend/images/testimonial/main-home/quote2.png')}}" alt="">Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</div>
+                    <div class="author-img">
+                        <img src="{{asset('assets/frontend/images/testimonial/main-home/1.jpg')}}" alt="">
+                    </div>
+                </div>
+                <div class="author-part">
+                    <a class="name" href="#">Mariya Khan</a>
+                    <span class="designation">CEO, Brick Consulting</span>
+                </div>
+            </div>
+            <div class="testi-item">
+                <div class="author-desc">
+                    <div class="desc"><img class="quote" src="{{asset('assets/frontend/images/testimonial/main-home/quote2.png')}}" alt="">Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</div>
+                    <div class="author-img">
+                        <img src="{{asset('assets/frontend/images/testimonial/main-home/2.jpg')}}" alt="">
+                    </div>
+                </div>
+                <div class="author-part">
+                    <a class="name" href="#">Sonia Akhter</a>
+                    <span class="designation">Graphic Designer</span>
+                </div>
+            </div>
+            <div class="testi-item">
+                <div class="author-desc">
+                    <div class="desc"><img class="quote" src="{{asset('assets/frontend/images/testimonial/main-home/quote2.png')}}" alt="">Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</div>
+                    <div class="author-img">
+                        <img src="{{asset('assets/frontend/images/testimonial/main-home/3.jpg')}}" alt="">
+                    </div>
+                </div>
+                <div class="author-part">
+                    <a class="name" href="#">Deluar Hossen</a>
+                    <span class="designation">Web Developer</span>
+                </div>
+            </div>
+            <div class="testi-item">
+                <div class="author-desc">
+                    <div class="desc"><img class="quote" src="{{asset('assets/frontend/images/testimonial/main-home/quote2.png')}}" alt="">Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</div>
+                    <div class="author-img">
+                        <img src="{{asset('assets/frontend/images/testimonial/main-home/4.jpg')}}" alt="">
+                    </div>
+                </div>
+                <div class="author-part">
+                    <a class="name" href="#">Asif Ahmed</a>
+                    <span class="designation">App Developer</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Testimonial Section End -->
+
 <!-- Partner Start -->
-<div id="client" class="rs-partner bg23 pt-80 pb-70">
+<div id="client" class="rs-partner bg23 pt-80 pb-80">
     <div class="container">
         <div class="sec-title2 text-center mb-60">
             <!-- <span class="sub-text">Team</span> -->
-            <h2 class="title">
+            <h2 class="title white-color">
                 Our Happy Clients & Partners
             </h2>
         </div>
@@ -609,73 +675,6 @@ Platinum
     </div>
 </div>
 <!-- Partner End -->
-
-<!-- Testimonial Section Start -->
-<div class="rs-testimonial main-home gray-color pt-120 pb-120 md-pt-80 md-pb-80">
-    <div class="container">
-        <div class="sec-title2 text-center mb-45">
-            <span class="sub-text">Testimonial</span>
-            <h2 class="title testi-title">
-                What Saying Our Customers
-            </h2>
-            <div class="heading-line">
-
-            </div>
-        </div>
-        <div class="rs-carousel owl-carousel" data-loop="true" data-items="3" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="true" data-nav="false" data-nav-speed="false" data-md-device="3" data-md-device-nav="false" data-md-device-dots="true" data-center-mode="false" data-ipad-device2="1" data-ipad-device-nav2="false" data-ipad-device-dots2="true" data-ipad-device="2" data-ipad-device-nav="false" data-ipad-device-dots="true" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false">
-            <div class="testi-item">
-                <div class="author-desc">
-                    <div class="desc"><img class="quote" src="{{asset('assets/frontend/images/testimonial/main-home/quote2.png')}}" alt="">Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</div>
-                    <div class="author-img">
-                        <img src="{{asset('assets/frontend/images/testimonial/main-home/1.jpg')}}" alt="">
-                    </div>
-                </div>
-                <div class="author-part">
-                    <a class="name" href="#">Mariya Khan</a>
-                    <span class="designation">CEO, Brick Consulting</span>
-                </div>
-            </div>
-            <div class="testi-item">
-                <div class="author-desc">
-                    <div class="desc"><img class="quote" src="{{asset('assets/frontend/images/testimonial/main-home/quote2.png')}}" alt="">Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</div>
-                    <div class="author-img">
-                        <img src="{{asset('assets/frontend/images/testimonial/main-home/2.jpg')}}" alt="">
-                    </div>
-                </div>
-                <div class="author-part">
-                    <a class="name" href="#">Sonia Akhter</a>
-                    <span class="designation">Graphic Designer</span>
-                </div>
-            </div>
-            <div class="testi-item">
-                <div class="author-desc">
-                    <div class="desc"><img class="quote" src="{{asset('assets/frontend/images/testimonial/main-home/quote2.png')}}" alt="">Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</div>
-                    <div class="author-img">
-                        <img src="{{asset('assets/frontend/images/testimonial/main-home/3.jpg')}}" alt="">
-                    </div>
-                </div>
-                <div class="author-part">
-                    <a class="name" href="#">Deluar Hossen</a>
-                    <span class="designation">Web Developer</span>
-                </div>
-            </div>
-            <div class="testi-item">
-                <div class="author-desc">
-                    <div class="desc"><img class="quote" src="{{asset('assets/frontend/images/testimonial/main-home/quote2.png')}}" alt="">Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</div>
-                    <div class="author-img">
-                        <img src="{{asset('assets/frontend/images/testimonial/main-home/4.jpg')}}" alt="">
-                    </div>
-                </div>
-                <div class="author-part">
-                    <a class="name" href="#">Asif Ahmed</a>
-                    <span class="designation">App Developer</span>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Testimonial Section End -->
-
 
 <!-- Contact Section Start -->
 <div id="rs-contact" class="rs-contact pt-120">

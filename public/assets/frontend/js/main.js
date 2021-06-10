@@ -330,7 +330,7 @@
     totop.on('click', function() {
         $("html,body").animate({
             scrollTop: 0
-        }, 500)
+        }, 0)
     });
 
     //canvas menu
@@ -352,56 +352,4 @@
         $('.rs-popular-courses').addClass('list-view');
     });
     
-	
-	/*----------------------------
-    single-productjs active
-    ------------------------------ */
-    var singleproductimage = $('.single-product-image');
-    if(singleproductimage.length){
-        $('.single-product-image').slick({
-            slidesToShow: 1,
-            slidesToScroll: 1,
-            arrows: false,
-            fade: true,
-            asNavFor: '.single-product-nav'
-        });
-    }
-
-    var singleproductnav = $('.single-product-nav');
-    if(singleproductnav.length){
-        $('.single-product-nav').slick({
-            slidesToShow: 3,
-            asNavFor: '.single-product-image',
-            dots: false,
-            focusOnSelect: true,
-            centerMode:false,
-            responsive: [
-                {
-                  breakpoint: 768,
-                  settings: {
-                    slidesToShow: 2
-                  }
-                },
-                {
-                  breakpoint: 591,
-                  settings: {
-                    slidesToShow: 2
-                  }
-                }
-              ] 
-        });
-    }
-
-    // categories btn
-    $('.cat-menu-inner').hide();
-    $('.cat-btn').on('click',function(){
-        $('.cat-menu-inner').slideToggle();
-    })
-
-    var tilt = $('.js-tilt');
-    if(tilt.length) {
-        const tilt = $('.js-tilt').tilt();
-    }
-    
-
 })(jQuery);

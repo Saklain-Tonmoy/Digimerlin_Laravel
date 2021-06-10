@@ -426,7 +426,7 @@ ul {
   background-size: cover;
 }
 .bg23 {
-  background: url(../images/bg/call-action3.jpg);
+  background: url(../images/bg/partners-bg.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3023,8 +3023,8 @@ body .search-modal .close:hover {
 }
 .rs-about.style3 .rs-animation-image .middle-img {
   position: absolute;
-  left: 10px;
-  top: -30px;
+  left: 0px;
+  top: 12px;
 }
 .rs-about.style4 .about-content .logo-img {
   margin-bottom: 15px;
@@ -5542,7 +5542,7 @@ body .search-modal .close:hover {
 }
 .rs-process.modify1 {
   background-image: linear-gradient(140deg, #000c1c 62%, #032a44 100%);
-  border-radius: 270px 0px 0px 0px;
+  /* border-radius: 270px 0px 0px 0px; */
 }
 .rs-process.modify1 .rs-addon-number .number-text {
   margin: 0px 25px 0px 30px;
@@ -6704,7 +6704,7 @@ body .search-modal .close:hover {
 }
 .rs-partner.style3 {
   background-image: unset;
-  background: url(assets/images/bg/partners-bg.jpg);
+  background: url(../images/bg/partners-bg.jpg);
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;

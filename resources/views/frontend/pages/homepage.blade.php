@@ -568,7 +568,7 @@
 <!-- Partner End -->
 
 <!-- Contact Section Start -->
-<div id="contact" class="rs-contact pt-120">
+<div id="contact-us" class="rs-contact pt-120">
     <div class="container">
         <div class="row">
             <div class="col-lg-4">

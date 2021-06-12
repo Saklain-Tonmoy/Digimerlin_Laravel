@@ -9,7 +9,7 @@
     @include('frontend.layout.style')
 </head>
 <body class="defult-home">
-    <div class="main-content" id="app">
+    <div class="main-content">
         @include('frontend.layout.header')
         @yield('content')
     </div>

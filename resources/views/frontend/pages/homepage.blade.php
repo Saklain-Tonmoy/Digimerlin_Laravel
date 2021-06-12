@@ -363,9 +363,6 @@
                                 Our Working Process - How We Work For Our Customers
                             </h2>
                         </div>
-                        <div class="btn-part mt-40">
-                            <a class="readon lets-talk" href="#contact">Contact Us</a>
-                        </div>
                     </div>
                 </div>
                 <div class="col-lg-8 sm-pl-40 sm-pr-20">

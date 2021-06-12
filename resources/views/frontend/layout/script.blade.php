@@ -5,9 +5,9 @@
 <!-- Bootstrap v4.4.1 js -->
 <script src="{{asset('assets/frontend/js/bootstrap.min.js')}}"></script>
 <!-- Menu js -->
-<script src="{{asset('assets/frontend/js/rsmenu-main.js')}}"></script> 
+<!-- <script src="{{asset('assets/frontend/js/rsmenu-main.js')}}"></script>  -->
 <!-- op nav js -->
-<script src="{{asset('assets/frontend/js/jquery.nav.js')}}"></script>
+<!-- <script src="{{asset('assets/frontend/js/jquery.nav.js')}}"></script> -->
 <!-- owl.carousel js -->
 <script src="{{asset('assets/frontend/js/owl.carousel.min.js')}}"></script>
 <!-- wow js -->

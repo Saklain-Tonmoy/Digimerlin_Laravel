@@ -20,7 +20,7 @@
         </div>
         <div class="slider-content slide2">
             <div class="container">
-                <div class="content-part text-center">
+                <div class="content-part">
                     <div class="sl-sub-title wow bounceInLeft" data-wow-delay="300ms" data-wow-duration="2000ms">We Increase Your</div>
                     <h1 class="sl-title mb-mb-10 wow fadeInRight" data-wow-delay="600ms" data-wow-duration="2000ms">Business Success</h1>
                     <div class="sl-desc fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
@@ -44,23 +44,23 @@
 <!-- Slider Section End -->
 
 <!-- Services Section Start -->
-<div id="rs-services" class="rs-services main-home style1 pt-100 md-pt-70">
+<div id="services" class="rs-services main-home style1 pt-100 md-pt-70">
     <div class="container">
         <div class="row">
             <div class="col-lg-4 col-md-6 mb-30">
                 <div class="services-item">
                     <div class="services-icon">
                         <div class="image-part">
-                            <img src="{{asset('assets/frontend/images/services/style1/1.png')}}" alt="">
+                            <img src="{{asset('assets/frontend/images/digimerlin-web-development.png')}}" alt="">
                         </div>
                     </div>
                     <div class="services-content">
                         <div class="services-text">
-                            <h3 class="services-title"><a href="#">Web Development</a></h3>
+                            <h3 class="services-title">Web Development</h3>
                         </div>
                         <div class="services-desc">
                             <p>
-                                We are providing highly customized website development for your ideas happen. Our web development team are exceptionally focused and offer the best services.
+                            We are providing highly customized Website Development for your business. Our web development team are exceptionally focused and offer the best services.
                             </p>
                         </div>
                     </div>
@@ -70,16 +70,16 @@
                 <div class="services-item">
                     <div class="services-icon">
                         <div class="image-part">
-                            <img src="{{asset('assets/frontend/images/services/style1/2.png')}}" alt="">
+                            <img src="{{asset('assets/frontend/images/digimerlin-app-development.png')}}" alt="">
                         </div>
                     </div>
                     <div class="services-content">
                         <div class="services-text">
-                            <h3 class="services-title"><a href="#">App Development</a></h3>
+                            <h3 class="services-title">App Development</h3>
                         </div>
                         <div class="services-desc">
                             <p>
-                                We are providing you the best mobile app designs which will convert your next app idea into a productive app suitable for Android or iOS platforms.
+                                We are providing you the best Mobile App Designs which will convert your next app idea into a productive app suitable for Android or iOS platforms.
                             </p>
                         </div>
                     </div>
@@ -89,16 +89,16 @@
                 <div class="services-item">
                     <div class="services-icon">
                         <div class="image-part">
-                            <img src="{{asset('assets/frontend/images/services/style1/3.png')}}" alt="">
+                            <img src="{{asset('assets/frontend/images/digimerlin-digital-marketing.png')}}" alt="">
                         </div>
                     </div>
                     <div class="services-content">
                         <div class="services-text">
-                            <h3 class="services-title"><a href="#">Digital Marketing</a></h3>
+                            <h3 class="services-title">Digital Marketing</h3>
                         </div>
                         <div class="services-desc">
                             <p>
-                                We are providing you the best Digital Marketing Services which will help to take your business to the next level and establish your presence in Digital platforms.
+                            We are providing you the finest Digital Marketing Services which will take your business to the next level and establish your presence in Digital platforms.
                             </p>
                         </div>
                     </div>
@@ -108,16 +108,16 @@
                 <div class="services-item">
                     <div class="services-icon">
                         <div class="image-part">
-                            <img src="{{asset('assets/frontend/images/services/style1/4.png')}}" alt="">
+                            <img src="{{asset('assets/frontend/images/digimerlin-seo.png')}}" alt="">
                         </div>
                     </div>
                     <div class="services-content">
                         <div class="services-text">
-                            <h3 class="services-title"><a href="#">Search Engine Optimization</a></h3>
+                            <h3 class="services-title">Search Engine Optimization</h3>
                         </div>
                         <div class="services-desc">
                             <p>
-                                We are providing you the best SEO Services which will help to increase the growth of your business by establishing your website worldwide.
+                            We are providing the best SEO Services which will help your business by improving both visibility and ranking of you website worldwide.
                             </p>
                         </div>
                     </div>
@@ -127,16 +127,16 @@
                 <div class="services-item">
                     <div class="services-icon">
                         <div class="image-part">
-                            <img src="{{asset('assets/frontend/images/services/style1/4.png')}}" alt="">
+                            <img src="{{asset('assets/frontend/images/digimerlin-brand-development.png')}}" alt="">
                         </div>
                     </div>
                     <div class="services-content">
                         <div class="services-text">
-                            <h3 class="services-title"><a href="#">Brand Development</a></h3>
+                            <h3 class="services-title">Brand Development</h3>
                         </div>
                         <div class="services-desc">
                             <p>
-                                We design practical and intuitive brand guidelines for SMEs and larger organizations to ensure consistency and impact right across your business.
+                            We draw the path to practical and intuitive Brand Development Guidelines for SMEs and larger organizations to ensure consistent growth of your business.
                             </p>
                         </div>
                     </div>
@@ -146,16 +146,16 @@
                 <div class="services-item">
                     <div class="services-icon">
                         <div class="image-part">
-                            <img src="{{asset('assets/frontend/images/services/style1/4.png')}}" alt="">
+                            <img src="{{asset('assets/frontend/images/digimerlin-graphic-design.png')}}" alt="">
                         </div>
                     </div>
                     <div class="services-content">
                         <div class="services-text">
-                            <h3 class="services-title"><a href="#">Graphic Design</a></h3>
+                            <h3 class="services-title">Graphic Design</h3>
                         </div>
                         <div class="services-desc">
                             <p>
-                                We are providing best Graphic Design Services that makes your brand recognizable and allows customers quickly get familiar with your company.
+                            Ensure the best Graphic Design Services that brings forth your brand to an eccentric position and allows your customers to get familiar with your company in a jiffy.
                             </p>
                         </div>
                     </div>
@@ -167,7 +167,7 @@
 <!-- Services Section End -->
 
 <!-- About Section Start -->
-<div id="rs-about" class="rs-about bg4 pt-120 pb-120 md-pt-80 md-pb-80">
+<div id="about" class="rs-about bg4 pt-120 pb-120 md-pt-80 md-pb-80">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6">
@@ -178,10 +178,10 @@
                             We Are Increasing Business Success With Technology
                         </h2>
                         <div class="desc pb-35">
-                            Digimerlin has a reputation of service trade involvement with Canada based International Company This Is She, King Security Limited, Hi-End Security, La-maison Furniture etc. Its involvement with independent businesses and private organizations have led Digimerlin to serve a variety of clients. The company’s core objective is to help business owners and organizations to set up their presence on the online marketplace.
+                        Digimerlin has a reputation of service trade involvement with Canadian International Company This Is She, King Security Limited, Hi-End Security, La-Maison Furniture, etc. Its involvement with independent businesses and private organizations has led Digimerlin to serve a variety of clients. The company’s core objective is to help business owners and organizations to grow up their business.
                         </div>
                         <div class="desc pb-35">
-                            Since its beginning, Digimerlin has participated in different types of ICT work such as Website development & maintenance, Mobile Apps Design & Development, Software development, Network design and installation, Graphics design, SEO, Digital Marketing, Social Media Management, and Brand Launching.
+                        Since its beginning, Digimerlin has participated in different types of ICT work such as Website development & maintenance, Mobile Apps Design & Development, Software development, Network design and installation, Graphics design, SEO, Digital Marketing, Social Media Management, and Brand Launching.
                         </div>
                     </div>
 
@@ -263,7 +263,7 @@
                     <div class="sec-title3">
                         <span class="sub-text">CALL US 24/7</span>
                         <h2 class="title">(+880) 1708-159827</h2>
-                        <p class="desc">Have any idea or project for in your mind call us or schedule a appointment. Our representative will reply you shortly.</p>
+                        <p class="desc">Have an idea or project in your mind? Call us or schedule an appointment. Our representative will reply to you shortly.</p>
                     </div>
                     <div class="btn-part mt-40 md-mb-60">
                         <a class="readon lets-talk" href="tel:+(880)1708–159827">Let's Talk</a>
@@ -314,8 +314,8 @@
 </div>
 <!-- Counter Section End -->
 
-<!-- About Section Start -->
-<div class="rs-about style3 pt-120 pb-120 md-pt-75 md-pb-80">
+<!-- Why Choose Us Section Start -->
+<div id="why-choose-us" class="rs-about style3 pt-120 pb-120 md-pt-75 md-pb-80">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-5">
@@ -325,7 +325,7 @@
                         We Provide Result-Oriented Dynamic Solutions
                     </h2>
                     <div class="desc desc2">
-                        We the Digimerlin feeling pleased to present ourselves as one of the expert IT Solution Company in the online commercial world. We provide our customers the best IT Services they have ever experienced. We strongly consider our consumer loyalty.
+                    Digimerlin feeling pleased to present itself as one of the expert IT Solution companies in the online commercial world. We provide our customers the best IT Services they have ever experienced. We strongly consider our consumer loyalty.
                     </div>
                 </div>
             </div>
@@ -342,7 +342,7 @@
         </div>
     </div>
 </div>
-<!-- About Section End -->
+<!-- Why Choose Us Section End -->
 
 
 <!-- Process Section Start -->
@@ -364,7 +364,7 @@
                             </h2>
                         </div>
                         <div class="btn-part mt-40">
-                            <a class="readon lets-talk" href="#rs-contact">Contact Us</a>
+                            <a class="readon lets-talk" href="#contact">Contact Us</a>
                         </div>
                     </div>
                 </div>
@@ -379,7 +379,6 @@
                                     <div class="number-title">
                                         <h3 class="title"> Discovery</h3>
                                     </div>
-                                    <!-- <p class="number-txt">  Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor theo lacus egestas.</p> -->
                                 </div>
                             </div>
                         </div>
@@ -392,7 +391,6 @@
                                     <div class="number-title">
                                         <h3 class="title">Planning</h3>
                                     </div>
-                                    <!-- <p class="number-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor theo lacus egestas.</p> -->
                                 </div>
                             </div>
                         </div>
@@ -405,7 +403,6 @@
                                     <div class="number-title">
                                         <h3 class="title">Execute</h3>
                                     </div>
-                                    <!-- <p class="number-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor theo lacus egestas.</p> -->
                                 </div>
                             </div>
                         </div>
@@ -418,7 +415,6 @@
                                     <div class="number-title">
                                         <h3 class="title">Deliver</h3>
                                     </div>
-                                    <!-- <p class="number-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor theo lacus egestas.</p> -->
                                 </div>
                             </div>
                         </div>
@@ -429,108 +425,6 @@
     </div>
 </div>
 <!-- Process Section End -->
-
-<!-- Pricing section start -->
-<!-- <div class="rs-pricing white-bg pt-255 pb-150 md-pb-80">
-<div class="container">
-<div class="sec-title2 text-center mb-45">
-<span class="sub-text">Pricing</span>
-<h2 class="title">
-Our Pricing Plan
-</h2>
-<div class="heading-line">
-
-</div>
-</div>
-<div class="row">
-<div class="col-lg-4 md-mb-50">
-<div class="pricing-table new-style">
-<div class="pricing-badge">
-Silver
-</div>
-<div class="pricing-icon">
-<img src="{{asset('assets/frontend/images/pricing/main-home/icons/1.png')}}" alt="">
-</div>
-<div class="pricing-table-price">
-<div class="pricing-table-bags">
-<span class="pricing-currency">$</span>
-<span class="table-price-text">29.99</span>
-<span class="table-period">Monthly Package</span>
-</div>
-</div>
-<div class="pricing-table-body">
-<ul>
-<li><i class="fa fa-check"></i><span>Powerful Admin Panel</span></li>
-<li><i class="fa fa-check"></i><span>1 Native Android App</span></li>
-<li><i class="fa fa-close"></i><span>Multi-Language Support</span></li>
-<li><i class="fa fa-check"></i><span>Support via E-mail and Phone</span></li>
-</ul>
-</div>
-<div class="btn-part">
-<a class="readon buy-now" href="contact.html">Buy Now</a>
-</div>
-</div>
-</div>
-<div class="col-lg-4 md-mb-50">
-<div class="pricing-table primary-bg">
-<div class="pricing-badge white-color-bg">
-Gold
-</div>
-<div class="pricing-icon">
-<img src="{{asset('assets/frontend/images/pricing/main-home/icons/2.png')}}" alt="">
-</div>
-<div class="pricing-table-price">
-<div class="pricing-table-bags">
-<span class="pricing-currency">$</span>
-<span class="table-price-text">39.99</span>
-<span class="table-period">Monthly Package</span>
-</div>
-</div>
-<div class="pricing-table-body">
-<ul>
-<li><i class="fa fa-check"></i><span>Powerful Admin Panel</span></li>
-<li><i class="fa fa-check"></i><span>2 Native Android App</span></li>
-<li><i class="fa fa-check"></i><span>Multi-Language Support</span></li>
-<li><i class="fa fa-check"></i><span>Support via E-mail and Phone</span></li>
-</ul>
-</div>
-<div class="btn-part">
-<a class="readon buy-now" href="contact.html">Buy Now</a>
-</div>
-</div>
-</div>
-<div class="col-lg-4">
-<div class="pricing-table new-style">
-<div class="pricing-badge">
-Platinum
-</div>
-<div class="pricing-icon">
-<img src="{{asset('assets/frontend/images/pricing/main-home/icons/3.png')}}" alt="">
-</div>
-<div class="pricing-table-price">
-<div class="pricing-table-bags">
-<span class="pricing-currency">$</span>
-<span class="table-price-text">79.99</span>
-<span class="table-period">Monthly Package</span>
-</div>
-</div>
-<div class="pricing-table-body">
-<ul>
-<li><i class="fa fa-check"></i><span>Powerful Admin Panel</span></li>
-<li><i class="fa fa-check"></i><span>3 Native Android App</span></li>
-<li><i class="fa fa-check"></i><span>Multi-Language Support</span></li>
-<li><i class="fa fa-check"></i><span>Support via E-mail and Phone</span></li>
-</ul>
-</div>
-<div class="btn-part">
-<a class="readon buy-now" href="contact.html">Buy Now</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div> -->
-<!-- Pricing section end -->
 
 <!-- Testimonial Section Start -->
 <div class="rs-testimonial main-home gray-color pt-120 pb-120 md-pt-80 md-pb-80">
@@ -677,7 +571,7 @@ Platinum
 <!-- Partner End -->
 
 <!-- Contact Section Start -->
-<div id="rs-contact" class="rs-contact pt-120">
+<div id="contact" class="rs-contact pt-120">
     <div class="container">
         <div class="row">
             <div class="col-lg-4">

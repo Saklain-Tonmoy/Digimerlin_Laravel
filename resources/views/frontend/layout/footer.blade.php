@@ -8,7 +8,7 @@
                         <a href="#rs-header"><img src="{{('assets/frontend/images/Digi-Merlin.gif')}}" alt=""></a>
                     </div>
                     <div class="textwidget white-color pb-30">
-                        <p>We the Digimerlin feeling pleased to present ourselves as one of the expert IT Solution Company in the online commercial center. We generally attempt to furnish our customers with the best IT administrations they have ever experienced. We generally consider our consumer loyalty.</p>
+                        <p>Digimerlin feeling pleased to present itself as one of the expert IT Solution companies in the online commercial world. We provide our customers the best IT Services they have ever experienced. We strongly consider our consumer loyalty.</p>
                     </div>
                     <ul class="footer-social md-mb-30">
                         <li>
@@ -41,23 +41,23 @@
                     <h3 class="widget-title">Contact Info</h3>
                     <ul class="address-widget">
                         <li>
-                            <i class="flaticon-location"></i>
+                            <i class="fa fa-map-marker"></i>
                             <div class="desc">331/2 Tajuddin Ahmed Sarani, Moghbazar, Dhaka</div>
                         </li>
                         <li>
-                            <i class="flaticon-call"></i>
+                            <i class="fa fa-phone"></i>
                             <div class="desc">
                                 <a href="tel:(+880)1708-159827">(+880)1708-159827</a>
                             </div>
                         </li>
                         <li>
-                            <i class="flaticon-email"></i>
+                            <i class="fa fa-envelope"></i>
                             <div class="desc">
                                 <a href="mailto:digimerlin2021@gmail.com">digimerlin2021@gmail.com</a>
                             </div>
                         </li>
                         <li>
-                            <i class="flaticon-clock-1"></i>
+                            <i class="fa fa-clock-o"></i>
                             <div class="desc">
                                 Opening Hours: 09:30 am - 05:30 pm
                             </div>

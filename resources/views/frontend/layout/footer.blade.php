@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-12 col-sm-12 footer-widget">
                     <div class="footer-logo mb-30">
-                        <a href="#rs-header"><img src="{{('assets/frontend/images/Digi-Merlin.gif')}}" alt=""></a>
+                        <a href="#rs-header"><img src="{{('assets/frontend/images/digimerlin-logo.png')}}" alt=""></a>
                     </div>
                     <div class="textwidget white-color pb-30">
                         <p>Digimerlin feeling pleased to present itself as one of the expert IT Solution companies in the online commercial world. We provide our customers the best IT Services they have ever experienced. We strongly consider our consumer loyalty.</p>

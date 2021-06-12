@@ -27,14 +27,11 @@ class HomepageController extends Controller
     }
 
     public function subscribe(Request $request) {
-        // $request->validate([
-        //     'email' => 'required|email'
-        // ]);
 
         $subscriber = new Subscriber();
 
         $subscriber->email = $request->email;
 
-        $status = $subscriber->save();
+        $subscriber->save();
     }
 }

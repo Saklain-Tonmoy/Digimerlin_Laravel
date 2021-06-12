@@ -29,12 +29,12 @@
                 <div class="col-lg-3 col-md-12 col-sm-12 pl-45 md-pl-15 md-mb-30">
                     <h3 class="widget-title">Services</h3>
                     <ul class="site-map white-color">
-                        <li>Web Development</li>
-                        <li>App Development</li>
-                        <li>Digital Marketing</li>
-                        <li>SEO</li>
-                        <li>Brand Development</li>
-                        <li>Graphic Design</li>
+                        <li><a href="#web">Web Development</a></li>
+                        <li><a href="#app">App Development</a></li>
+                        <li><a href="#digital-marketing">Digital Marketing</a></li>
+                        <li><a href="#seo">SEO</a></li>
+                        <li><a href="#brand">Brand Development</a></li>
+                        <li><a href="#graphic">Graphic Design</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-3 col-md-12 col-sm-12 md-mb-30">

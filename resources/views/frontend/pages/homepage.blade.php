@@ -7,13 +7,13 @@
         <div class="slider-content slide1">
             <div class="container">
                 <div class="content-part">
-                    <div class="sl-sub-title wow " data-wow-delay="300ms" data-wow-duration="2000ms">Top-North Software</div>
-                    <h1 class="sl-title mb-mb-10 wow " data-wow-delay="600ms" data-wow-duration="2000ms">Development</h1>
-                    <div class="sl-desc wow " data-wow-delay="900ms" data-wow-duration="2000ms">
+                    <div class="sl-sub-title wow" data-wow-delay="300ms" data-wow-duration="2000ms">Top-North Software</div>
+                    <h1 class="sl-title mb-mb-10 wow" data-wow-delay="600ms" data-wow-duration="2000ms">Development</h1>
+                    <div class="sl-desc wow" data-wow-delay="900ms" data-wow-duration="2000ms">
                         Using modern technogoly & modern frameworks
                     </div>
-                    <div class="sl-btn wow " data-wow-delay="200ms" data-wow-duration="3000ms">
-                        <a class="readon learn-more slider-btn" href="about.html">Get in touch</a>
+                    <div class="sl-btn wow" data-wow-delay="200ms" data-wow-duration="3000ms">
+                        <a class="readon learn-more slider-btn" href="#contact">Get in touch</a>
                     </div>
                 </div>
             </div>
@@ -21,13 +21,13 @@
         <div class="slider-content slide2">
             <div class="container">
                 <div class="content-part">
-                    <div class="sl-sub-title wow " data-wow-delay="300ms" data-wow-duration="2000ms">We Increase Your</div>
-                    <h1 class="sl-title mb-mb-10 wow " data-wow-delay="600ms" data-wow-duration="2000ms">Business Success</h1>
+                    <div class="sl-sub-title wow" data-wow-delay="300ms" data-wow-duration="2000ms">We Increase Your</div>
+                    <h1 class="sl-title mb-mb-10 wow" data-wow-delay="600ms" data-wow-duration="2000ms">Business Success</h1>
                     <div class="sl-desc fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
                         Using modern technogoly and IT Services
                     </div>
                     <ul class="slider-btn wow " data-wow-delay="200ms" data-wow-duration="3000ms">
-                        <li><a class="readon learn-more slider-btn" href="about.html">Free Consultation</a></li>
+                        <li><a class="readon learn-more slider-btn" href="#contact">Free Consultation</a></li>
                         <li>
                             <div class="slider-video">
                                 <a class="popup-videos" href="https://www.youtube.com/watch?v=atMUy_bPoQI">
@@ -48,7 +48,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-4 col-md-6 mb-30">
-                <div class="services-item">
+                <div id="web" class="services-item">
                     <div class="services-icon">
                         <div class="image-part">
                             <img src="{{asset('assets/frontend/images/digimerlin-web-development.png')}}" alt="">
@@ -67,7 +67,7 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 mb-30">
-                <div class="services-item">
+                <div id="app" class="services-item">
                     <div class="services-icon">
                         <div class="image-part">
                             <img src="{{asset('assets/frontend/images/digimerlin-app-development.png')}}" alt="">
@@ -86,7 +86,7 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 mb-30">
-                <div class="services-item">
+                <div id="digital-marketing" class="services-item">
                     <div class="services-icon">
                         <div class="image-part">
                             <img src="{{asset('assets/frontend/images/digimerlin-digital-marketing.png')}}" alt="">
@@ -105,7 +105,7 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 mb-30">
-                <div class="services-item">
+                <div id="seo" class="services-item">
                     <div class="services-icon">
                         <div class="image-part">
                             <img src="{{asset('assets/frontend/images/digimerlin-seo.png')}}" alt="">
@@ -124,7 +124,7 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 mb-30">
-                <div class="services-item">
+                <div id="brand" class="services-item">
                     <div class="services-icon">
                         <div class="image-part">
                             <img src="{{asset('assets/frontend/images/digimerlin-brand-development.png')}}" alt="">
@@ -143,7 +143,7 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 mb-30">
-                <div class="services-item">
+                <div id="graphic" class="services-item">
                     <div class="services-icon">
                         <div class="image-part">
                             <img src="{{asset('assets/frontend/images/digimerlin-graphic-design.png')}}" alt="">

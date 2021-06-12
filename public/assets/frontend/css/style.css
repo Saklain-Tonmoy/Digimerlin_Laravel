@@ -2141,7 +2141,7 @@ header .header-nav .nav-container .menu-items ul li a {
 }
 
 header .header-nav .nav-container .menu-items ul li a:hover {
-  color: #ff4a17;
+  color: #106eea;
 }
 
 header .header-nav .nav-container .menu-items ul li .submenu {
@@ -2554,7 +2554,7 @@ header .header-topbar .social-links li a {
 
 header .header-topbar .contact-info li a:hover,
 header .header-topbar .social-links li a:hover {
-  color: #ff4a17;
+  color: #106eea;
 }
 
 header .header-topbar .contact-info li {
@@ -2605,6 +2605,9 @@ header.header-two .header-nav .nav-container .menu-items ul li a, header.header-
   color: #fff;
 }
 
+header.header-two .header-nav .nav-container .menu-items ul li a:hover {
+  color: #106eea;
+}
 header.header-two .header-nav .nav-container .menu-items ul li .submenu li a:hover {
   background-color: #14212b;
 }
@@ -2618,7 +2621,7 @@ header.header-two .header-topbar .social-links li a {
 
 header.header-two .header-topbar .contact-info li a:hover,
 header.header-two .header-topbar .social-links li a:hover {
-  color: #ff4a17;
+  color: #106eea;
 }
 
 header.header-two .header-topbar .social-links li a {
@@ -8881,7 +8884,7 @@ header.header-three .header-nav::before {
   color: #ffffff;
 }
 .rs-footer.style2 .footer-top .address-widget li .desc a:hover {
-  color: #ff4a17;
+  color: #106eea;
 }
 .rs-footer.style2 .footer-top .widget-desc {
   margin: 0;

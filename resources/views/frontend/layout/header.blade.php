@@ -54,7 +54,7 @@
                         <div class="cross-wrap"><span></span><span></span></div>
                     </div>
 
-                    <!-- Mneu Items -->
+                    <!-- Menu Items -->
                     <div class="menu-items">
                         <ul>
                             <li><a href="#header">Home</a></li>

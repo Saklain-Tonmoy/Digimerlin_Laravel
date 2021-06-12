@@ -71,8 +71,8 @@
                         @csrf
                         <p>
                             <input type="email" id="subscriberEmail" name="subscriberEmail" placeholder="Your email address" required="">
-                            <em class="paper-plane"><input type="submit" value="Sign up"></em>
-                            <i class="flaticon-send"></i>
+                            <input type="submit" value="Sign up">
+                            <i class="fa fa-paper-plane"></i>
                         </p>
                     </form>
                 </div>

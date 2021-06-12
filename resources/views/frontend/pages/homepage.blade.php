@@ -7,12 +7,12 @@
         <div class="slider-content slide1">
             <div class="container">
                 <div class="content-part">
-                    <div class="sl-sub-title wow bounceInLeft" data-wow-delay="300ms" data-wow-duration="2000ms">Top-North Software</div>
-                    <h1 class="sl-title mb-mb-10 wow fadeInRight" data-wow-delay="600ms" data-wow-duration="2000ms">Development</h1>
-                    <div class="sl-desc wow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
+                    <div class="sl-sub-title wow " data-wow-delay="300ms" data-wow-duration="2000ms">Top-North Software</div>
+                    <h1 class="sl-title mb-mb-10 wow " data-wow-delay="600ms" data-wow-duration="2000ms">Development</h1>
+                    <div class="sl-desc wow " data-wow-delay="900ms" data-wow-duration="2000ms">
                         Using modern technogoly & modern frameworks
                     </div>
-                    <div class="sl-btn wow fadeInUp" data-wow-delay="200ms" data-wow-duration="3000ms">
+                    <div class="sl-btn wow " data-wow-delay="200ms" data-wow-duration="3000ms">
                         <a class="readon learn-more slider-btn" href="about.html">Get in touch</a>
                     </div>
                 </div>
@@ -21,12 +21,12 @@
         <div class="slider-content slide2">
             <div class="container">
                 <div class="content-part">
-                    <div class="sl-sub-title wow bounceInLeft" data-wow-delay="300ms" data-wow-duration="2000ms">We Increase Your</div>
-                    <h1 class="sl-title mb-mb-10 wow fadeInRight" data-wow-delay="600ms" data-wow-duration="2000ms">Business Success</h1>
+                    <div class="sl-sub-title wow " data-wow-delay="300ms" data-wow-duration="2000ms">We Increase Your</div>
+                    <h1 class="sl-title mb-mb-10 wow " data-wow-delay="600ms" data-wow-duration="2000ms">Business Success</h1>
                     <div class="sl-desc fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
                         Using modern technogoly and IT Services
                     </div>
-                    <ul class="slider-btn wow fadeInRight" data-wow-delay="200ms" data-wow-duration="3000ms">
+                    <ul class="slider-btn wow " data-wow-delay="200ms" data-wow-duration="3000ms">
                         <li><a class="readon learn-more slider-btn" href="about.html">Free Consultation</a></li>
                         <li>
                             <div class="slider-video">

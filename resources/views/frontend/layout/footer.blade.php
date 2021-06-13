@@ -47,7 +47,7 @@
                         <li>
                             <i class="fa fa-phone"></i>
                             <div class="desc">
-                                <a href="tel:(+880)1708-159827">(+880)1708-159827</a>
+                                <a href="tel:(+880)1708-159827">(+880) 1708-159827</a>
                             </div>
                         </li>
                         <li>
@@ -99,4 +99,3 @@
     <i class="fa fa-angle-up"></i>
 </div>
 <!-- End scrollUp  -->
-

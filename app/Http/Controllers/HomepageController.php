@@ -10,8 +10,9 @@ use Illuminate\Support\Facades\Mail;
 
 class HomepageController extends Controller
 {
-    public function contact_us(Request $request) {
-    
+    public function contact_us(Request $request)
+    {
+
         $input = $request->all();
 
         Mail::send('contactMail', array(
@@ -20,13 +21,14 @@ class HomepageController extends Controller
             'phone' => $input['phone'],
             'subject' => $input['subject'],
             'content' => $input['content'],
-        ), function($message) use ($request){
+        ), function ($message) use ($request) {
             $message->from($request->email);
             $message->to('digimerlin2021@gmail.com')->subject($request->get('subject'));
         });
     }
 
-    public function subscribe(Request $request) {
+    public function subscribe(Request $request)
+    {
 
         $subscriber = new Subscriber();
 

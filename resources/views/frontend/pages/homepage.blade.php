@@ -60,7 +60,7 @@
                         </div>
                         <div class="services-desc">
                             <p>
-                            We are providing highly customized Website Development for your business. Our web development team are exceptionally focused and offer the best services.
+                                We are providing highly customized Website Development for your business. Our web development team are exceptionally focused and offer the best services.
                             </p>
                         </div>
                     </div>
@@ -98,7 +98,7 @@
                         </div>
                         <div class="services-desc">
                             <p>
-                            We are providing you the finest Digital Marketing Services which will take your business to the next level and establish your presence in Digital platforms.
+                                We are providing you the finest Digital Marketing Services which will take your business to the next level and establish your presence in Digital platforms.
                             </p>
                         </div>
                     </div>
@@ -117,7 +117,7 @@
                         </div>
                         <div class="services-desc">
                             <p>
-                            We are providing the best SEO Services which will help your business by improving both visibility and ranking of you website worldwide.
+                                We are providing the best SEO Services which will help your business by improving both visibility and ranking of you website worldwide.
                             </p>
                         </div>
                     </div>
@@ -136,7 +136,7 @@
                         </div>
                         <div class="services-desc">
                             <p>
-                            We draw the path to practical and intuitive Brand Development Guidelines for SMEs and larger organizations to ensure consistent growth of your business.
+                                We draw the path to practical and intuitive Brand Development Guidelines for SMEs and larger organizations to ensure consistent growth of your business.
                             </p>
                         </div>
                     </div>
@@ -155,7 +155,7 @@
                         </div>
                         <div class="services-desc">
                             <p>
-                            Ensure the best Graphic Design Services that brings forth your brand to an eccentric position and allows your customers to get familiar with your company in a jiffy.
+                                Ensure the best Graphic Design Services that brings forth your brand to an eccentric position and allows your customers to get familiar with your company in a jiffy.
                             </p>
                         </div>
                     </div>
@@ -178,10 +178,10 @@
                             We Are Increasing Business Success With Technology
                         </h2>
                         <div class="desc pb-35">
-                        Digimerlin has a reputation of service trade involvement with Canadian International Company This Is She, King Security Limited, Hi-End Security, La-Maison Furniture, etc. Its involvement with independent businesses and private organizations has led Digimerlin to serve a variety of clients. The company’s core objective is to help business owners and organizations to grow up their business.
+                            Digimerlin has a reputation of service trade involvement with Canadian International Company This Is She, King Security Limited, Hi-End Security, La-Maison Furniture, etc. Its involvement with independent businesses and private organizations has led Digimerlin to serve a variety of clients. The company’s core objective is to help business owners and organizations to grow up their business.
                         </div>
                         <div class="desc pb-35">
-                        Since its beginning, Digimerlin has participated in different types of ICT work such as Website development & maintenance, Mobile Apps Design & Development, Software development, Network design and installation, Graphics design, SEO, Digital Marketing, Social Media Management, and Brand Launching.
+                            Since its beginning, Digimerlin has participated in different types of ICT work such as Website development & maintenance, Mobile Apps Design & Development, Software development, Network design and installation, Graphics design, SEO, Digital Marketing, Social Media Management, and Brand Launching.
                         </div>
                     </div>
 
@@ -325,7 +325,7 @@
                         We Provide Result-Oriented Dynamic Solutions
                     </h2>
                     <div class="desc desc2">
-                    Digimerlin feeling pleased to present itself as one of the expert IT Solution companies in the online commercial world. We provide our customers the best IT Services they have ever experienced. We strongly consider our consumer loyalty.
+                        Digimerlin feeling pleased to present itself as one of the expert IT Solution companies in the online commercial world. We provide our customers the best IT Services they have ever experienced. We strongly consider our consumer loyalty.
                     </div>
                 </div>
             </div>
@@ -350,7 +350,7 @@
     <div class="rs-process modify1 pt-160 pb-120 md-pt-80 md-pb-80">
         <div class="shape-animation">
             <div class="shape-process">
-                <img class="dance2" src="{{asset('assets/frontend/images/process/circle.png')}}" alt="images">
+                <img class="pulse" src="{{asset('assets/frontend/images/process/circle.png')}}" alt="images">
             </div>
         </div>
         <div class="container">
@@ -358,7 +358,6 @@
                 <div class="col-lg-4 pr-40 md-pr-15 md-pb-80">
                     <div class="process-wrap md-center">
                         <div class="sec-title mb-30">
-                            <div class="sub-text new">Working Process</div>
                             <h2 class="title white-color">
                                 Our Working Process - How We Work For Our Customers
                             </h2>
@@ -493,7 +492,6 @@
 <div id="client" class="rs-partner bg23 pt-80 pb-80">
     <div class="container">
         <div class="sec-title2 text-center mb-60">
-            <!-- <span class="sub-text">Team</span> -->
             <h2 class="title white-color">
                 Our Happy Clients & Partners
             </h2>

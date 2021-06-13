@@ -2,9 +2,8 @@
 *
 * -----------------------------------------------------------------------------
 *
-* Template : Braintech - Technology & IT Solutions HTML Template
-* Author : rs-theme
-* Author URI : http://www.rstheme.com/
+* Author : Digimerlin
+* Author URI : http://digimerlin.com/
 *
 * -----------------------------------------------------------------------------
 *
@@ -129,28 +128,6 @@
 //         })
 //     })
 
-   // Parallax Stuff
-//    if ($("#stuff").length) {
-//        var stuff = $('#stuff').get(0);
-//        var parallaxInstance = new Parallax(stuff);
-//    }
-
-   // onepage nav
-//    var navclose = $('#onepage-menu');
-//    if(navclose.length){
-//        $(".nav-menu li a").on("click", function () {
-//            if ($(".showhide").is(":visible")) {
-//                $(".showhide").trigger("click");
-//            }
-//        });
-       
-//        if ($.fn.onePageNav) {
-//            $(".nav-menu").onePageNav({
-//                currentClass: "current-menu-item"
-//            });
-//        }
-//    }
-
    //Testimonials Slider
     var sliderfor = $('.slider-for');
     if(sliderfor.length){
@@ -174,12 +151,6 @@
             focusOnSelect: true,
         });
     }
- 
-    // collapse hidden  
-    //  var navMain = $(".navbar-collapse");
-    //  navMain.on("click", "a:not([data-toggle])", null, function () {
-    //      navMain.collapse('hide');
-    //  });  
 
     // video 
     if ($('.player').length) {
@@ -188,38 +159,6 @@
 
     // wow init
     new WOW().init();
-    
-    // image loaded portfolio init
-    // var gridfilter = $('.grid');
-    //     if(gridfilter.length){
-    //     $('.grid').imagesLoaded(function() {
-    //         $('.gridFilter').on('click', 'button', function() {
-    //             var filterValue = $(this).attr('data-filter');
-    //             $grid.isotope({
-    //                 filter: filterValue
-    //             });
-    //         });
-    //         var $grid = $('.grid').isotope({
-    //             itemSelector: '.grid-item',
-    //             percentPosition: true,
-    //             masonry: {
-    //                 columnWidth: '.grid-item',
-    //             }
-    //         });
-    //     });
-    // }   
-        
-    // project Filter
-    // if ($('.gridFilter button').length) {
-    //     var projectfiler = $('.gridFilter button');
-    //         if(projectfiler.length){
-    //         $('.gridFilter button').on('click', function(event) {
-    //             $(this).siblings('.active').removeClass('active');
-    //             $(this).addClass('active');
-    //             event.preventDefault();
-    //         });
-    //     }
-    // }
     
     // magnificPopup init
     var imagepopup = $('.image-popup');
@@ -275,45 +214,6 @@
             fixedContentPos: false
         }); 
     }
-
-    //CountDown Timer
-    // var CountTimer = $('.CountDownTimer');
-    // if(CountTimer.length){ 
-    //     $(".CountDownTimer").TimeCircles({
-    //         fg_width: 0.030,
-    //         bg_width: 0.8,
-    //         circle_bg_color: "#eeeeee",
-    //         circle_fg_color: "#eeeeee",
-    //         time: {
-    //             Days:{
-    //                 color: "#032390"
-    //             },
-    //             Hours:{
-    //                 color: "#032390"
-    //             },
-    //             Minutes:{
-    //                 color: "#032390"
-    //             },
-    //             Seconds:{
-    //                 color: "#032390"
-    //             }
-    //         }
-    //     }); 
-    // }
-
-    // var pieChart = $('.progress-pie-part');
-    // if(pieChart.length) {
-    //     $('.chart').easyPieChart({
-    //         size: 172,
-    //         barColor: "#032390",
-    //         scaleLength: 0,
-    //         lineWidth: 8,
-    //         trackColor: "#eeeeee",
-    //         lineCap: "circle",
-    //         animate: 2000,
-    //     });
-    // }
-    
     /*-------------------------------------
         OwlCarousel
     -------------------------------------*/
@@ -421,30 +321,6 @@
             scrollTop: 0
         }, 0)
     });
-
-    //canvas menu
-    // var navexpander = $('#nav-expander');
-    // if(navexpander.length){
-    //     $('#nav-expander, #nav-close, .offwrap').on('click',function(e){
-    //         e.preventDefault();
-    //         $('body').toggleClass('nav-expanded');
-    //     });
-    // }
-
-    // View Course
-    // $('.course-view-part .view-icons .view-grid').on('click',function(e){
-    //     e.preventDefault();
-    //     $('.rs-popular-courses').removeClass('list-view');
-    // });
-    // $('.course-view-part .view-icons .view-list').on('click',function(e){
-    //     e.preventDefault();
-    //     $('.rs-popular-courses').addClass('list-view');
-    // });
-
-
-
-
-
 
     /*---------------------
 	=== DOCUMENT READY  ===

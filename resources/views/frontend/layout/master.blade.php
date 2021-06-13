@@ -11,6 +11,7 @@
 </head>
 
 <body class="defult-home">
+    @include('frontend.layout.preloader')
     <div class="main-content">
         @include('frontend.layout.header')
         @yield('content')

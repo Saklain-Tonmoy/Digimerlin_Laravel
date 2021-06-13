@@ -426,13 +426,10 @@
 <div class="rs-testimonial main-home gray-color pt-120 pb-120 md-pt-80 md-pb-80">
     <div class="container">
         <div class="sec-title2 text-center mb-45">
-            <span class="sub-text">Testimonial</span>
             <h2 class="title testi-title">
-                What Saying Our Customers
+                What's Our Customers Saying
             </h2>
-            <div class="heading-line">
-
-            </div>
+            <div class="heading-line"></div>
         </div>
         <div class="rs-carousel owl-carousel" data-loop="true" data-items="3" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="true" data-nav="false" data-nav-speed="false" data-md-device="3" data-md-device-nav="false" data-md-device-dots="true" data-center-mode="false" data-ipad-device2="1" data-ipad-device-nav2="false" data-ipad-device-dots2="true" data-ipad-device="2" data-ipad-device-nav="false" data-ipad-device-dots="true" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false">
             <div class="testi-item">
@@ -488,85 +485,92 @@
 </div>
 <!-- Testimonial Section End -->
 
-<!-- Partner Start -->
-<div id="client" class="rs-partner bg23 pt-80 pb-80">
+<!-- Client Start -->
+<div id="client" class="rs-partner pt-80 pb-80">
     <div class="container">
         <div class="sec-title2 text-center mb-60">
             <h2 class="title white-color">
-                Our Happy Clients & Partners
+                Our Happy Clients
             </h2>
         </div>
         <div class="rs-carousel owl-carousel" data-loop="true" data-items="5" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="2000" data-smart-speed="800" data-dots="false" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="2" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="3" data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="5" data-md-device-nav="false" data-md-device-dots="false">
             <div class="partner-item">
                 <div class="logo-img">
                     <a href="#">
-                        <img src="{{asset('assets/frontend/images/partner/1.png')}}" alt="">
+                        <img src="{{asset('assets/frontend/images/partner/digimerlin-tis.png')}}" alt="">
                     </a>
                 </div>
             </div>
             <div class="partner-item">
                 <div class="logo-img">
                     <a href="#">
-                        <img src="{{asset('assets/frontend/images/partner/2.png')}}" alt="">
+                        <img src="{{asset('assets/frontend/images/partner/digimerlin-krispy.png')}}" alt="">
                     </a>
                 </div>
             </div>
             <div class="partner-item">
                 <div class="logo-img">
                     <a href="#">
-                        <img src="{{asset('assets/frontend/images/partner/3.png')}}" alt="">
+                        <img src="{{asset('assets/frontend/images/partner/digimerlin-gq.png')}}" alt="">
                     </a>
                 </div>
             </div>
             <div class="partner-item">
                 <div class="logo-img">
                     <a href="#">
-                        <img src="{{asset('assets/frontend/images/partner/4.png')}}" alt="">
+                        <img src="{{asset('assets/frontend/images/partner/digimerlin-econo.png')}}" alt="">
                     </a>
                 </div>
             </div>
             <div class="partner-item">
                 <div class="logo-img">
                     <a href="#">
-                        <img src="{{asset('assets/frontend/images/partner/5.png')}}" alt="">
+                        <img src="{{asset('assets/frontend/images/partner/digimerlin-king-security.png')}}" alt="">
                     </a>
                 </div>
             </div>
             <div class="partner-item">
                 <div class="logo-img">
                     <a href="#">
-                        <img src="{{asset('assets/frontend/images/partner/6.png')}}" alt="">
+                        <img src="{{asset('assets/frontend/images/partner/digimerlin-hiend.png')}}" alt="">
                     </a>
                 </div>
             </div>
             <div class="partner-item">
                 <div class="logo-img">
                     <a href="#">
-                        <img src="{{asset('assets/frontend/images/partner/7.png')}}" alt="">
+                        <img src="{{asset('assets/frontend/images/partner/digimerlin-lamaison.png')}}" alt="">
                     </a>
                 </div>
             </div>
             <div class="partner-item">
                 <div class="logo-img">
                     <a href="#">
-                        <img src="{{asset('assets/frontend/images/partner/8.png')}}" alt="">
+                        <img src="{{asset('assets/frontend/images/partner/digimerlin-rishta.png')}}" alt="">
                     </a>
                 </div>
             </div>
             <div class="partner-item">
                 <div class="logo-img">
                     <a href="#">
-                        <img src="{{asset('assets/frontend/images/partner/9.png')}}" alt="">
+                        <img src="{{asset('assets/frontend/images/partner/digimerlin-shop-capetown.png')}}" alt="">
+                    </a>
+                </div>
+            </div>
+            <div class="partner-item">
+                <div class="logo-img">
+                    <a href="#">
+                        <img src="{{asset('assets/frontend/images/partner/digimerlin-sweets-treats.png')}}" alt="">
                     </a>
                 </div>
             </div>
         </div>
     </div>
 </div>
-<!-- Partner End -->
+<!-- Client End -->
 
 <!-- Contact Section Start -->
-<div id="contact-us" class="rs-contact pt-120">
+<div id="contact" class="rs-contact pt-120">
     <div class="container">
         <div class="row">
             <div class="col-lg-4">

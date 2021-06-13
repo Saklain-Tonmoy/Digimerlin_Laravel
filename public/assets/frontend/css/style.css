@@ -4616,13 +4616,18 @@ header.header-three .header-nav::before {
 12. Partner Section CSS
 ------------------------------------*/
 .rs-partner {
-    background-image: linear-gradient(330deg, #00005b 0%, #020275 90%);
+    background: url(../images/bg/partners-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 .rs-partner .partner-item .logo-img a {
     overflow: hidden;
     display: inline-block;
     position: relative;
     transition: all 0.3s ease-in-out;
+    background: #e7ebef;
+    border-radius: 10px;
 }
 .rs-partner .partner-item .logo-img a .hover-logo {
     transition: all 0.3s ease-in-out;
@@ -5031,7 +5036,7 @@ header.header-three .header-nav::before {
 16. Preloader CSS
 ---------------------------------------*/
 .loader {
-    background-color: #ffffff;
+    background-color: #000000;
     height: 100%;
     width: 100%;
     position: fixed;
@@ -5040,6 +5045,13 @@ header.header-three .header-nav::before {
     z-index: 999999;
 }
 .loader .loader-container {
+    top: 45%;
+    left: 45%;
+    position: absolute;
+    width: auto;
+    height: auto;
+}
+/* .loader .loader-container {
     width: 50px;
     height: 50px;
     background-color: #106eea;
@@ -5050,7 +5062,7 @@ header.header-three .header-nav::before {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-}
+} */
 @-webkit-keyframes sk-scaleout {
     0% {
         -webkit-transform: scale(0);
@@ -5162,5 +5174,20 @@ header.header-three .header-nav::before {
     }
     to {
         transform: rotate(359deg);
+    }
+}
+.watermark-animate {
+    -webkit-animation: watermark-animate 8s infinite;
+    animation: watermark-animate 8s infinite;
+    animation-direction: alternate-reverse;
+    -webkit-animation-timing-function: linear;
+    animation-timing-function: linear;
+}
+@keyframes watermark-animate {
+    0% {
+        left: 0;
+    }
+    100% {
+        left: 100%;
     }
 }

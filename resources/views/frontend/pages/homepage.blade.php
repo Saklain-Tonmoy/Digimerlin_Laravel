@@ -532,13 +532,6 @@
             <div class="partner-item">
                 <div class="logo-img">
                     <a href="#">
-                        <img src="{{asset('assets/frontend/images/partner/digimerlin-hiend.png')}}" alt="">
-                    </a>
-                </div>
-            </div>
-            <div class="partner-item">
-                <div class="logo-img">
-                    <a href="#">
                         <img src="{{asset('assets/frontend/images/partner/digimerlin-lamaison.png')}}" alt="">
                     </a>
                 </div>
@@ -554,6 +547,13 @@
                 <div class="logo-img">
                     <a href="#">
                         <img src="{{asset('assets/frontend/images/partner/digimerlin-shop-capetown.png')}}" alt="">
+                    </a>
+                </div>
+            </div>
+            <div class="partner-item">
+                <div class="logo-img">
+                    <a href="#">
+                        <img src="{{asset('assets/frontend/images/partner/digimerlin-hiend.png')}}" alt="">
                     </a>
                 </div>
             </div>

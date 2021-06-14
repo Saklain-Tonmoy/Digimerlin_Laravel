@@ -227,7 +227,7 @@ body.nav-expanded .offwrap {
 }
 .rs-call-us .image-part img {
     max-height: 585px;
-    -webkit-animation: shake 1s ease-in-out 1s infinite alternate;
+    /* -webkit-animation: shake 1s ease-in-out 1s infinite alternate; */
 }
 a {
     color: #106eea;
@@ -260,7 +260,6 @@ ul {
     color: #ffffff;
 }
 .bg1 {
-    background: url(../images/bg/testimonial-bg.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -277,158 +276,12 @@ ul {
     padding: 40px 40px 40px 40px;
     z-index: 10;
 }
-.bg3 {
-    background: url(../images/bg/process-bg.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-color: #03228f;
-    margin: 0px 31px 0px 0px;
-    padding: 80px 40px 75px 40px;
-    transition: background 0.3s, border 0.3s, border-radius 0.3s,
-        box-shadow 0.3s;
-    border-radius: 10px 10px 10px 10px;
-}
+
 .bg4 {
     background: url(../images/bg/about-2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-}
-.bg5 {
-    background: url(../images/bg/project-bg.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    background-color: #000060;
-}
-.bg6 {
-    background: url(../images/bg/project-bg.png);
-    background-repeat: no-repeat;
-    background-position: center top;
-    background-size: cover;
-    background-color: #000060;
-}
-.bg7 {
-    background: url(../images/bg/cta-bg.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-}
-.bg8 {
-    background: url(../images/bg/call-action.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-}
-.bg9 {
-    background: url(../images/bg/work-bg.png);
-    background-repeat: no-repeat;
-    background-position: top center;
-    background-size: cover;
-    padding: 100px 60px 100px 50px;
-    border-radius: 10px 10px 10px 10px;
-}
-.bg10 {
-    background: url(../images/bg/testi-home7.jpg);
-    background-repeat: no-repeat;
-    background-position: top center;
-    background-size: cover;
-    padding: 100px 90px 100px 90px;
-    border-radius: 5px 5px 5px 5px;
-}
-.bg11 {
-    background: url(../images/bg/index-bg.jpg);
-    background-repeat: no-repeat;
-    background-position: top center;
-    background-size: cover;
-    background-color: #0c54b8;
-}
-.bg12 {
-    background: url(../images/bg/case-study.jpg);
-    background-repeat: no-repeat;
-    background-position: top center;
-    background-size: cover;
-    padding: 110px 160px 185px 90px;
-}
-.bg12.mod {
-    padding: 113px 160px 194px 90px;
-}
-.bg13 {
-    background: url(../images/bg/services-bg.jpg);
-    background-repeat: no-repeat;
-    background-position: top center;
-    background-size: cover;
-}
-.bg14 {
-    background: url(../images/bg/choose-bg.jpg);
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-}
-.bg15 {
-    background: url(../images/bg/steps-area.png);
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    background-color: #f3f7ff;
-}
-.bg16 {
-    background: url(../images/bg/tech-bg.png);
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    background-color: #020e38;
-}
-.bg17 {
-    background: url(../images/bg/call-to-action2.jpg);
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-}
-.bg18 {
-    background: url(../images/bg/shape-bg2.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-.bg19 {
-    background: url(../images/bg/3counter-.jpg);
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    padding: 80px 60px 70px 60px;
-}
-.bg20 {
-    background: url(../images/bg/services-bg-shape.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-}
-.bg21 {
-    background: url(../images/bg/home13/counter-bg.html);
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-}
-.bg22 {
-    background: url(../images/bg/testi12-bg.jpg);
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-}
-.bg23 {
-    background: url(../images/bg/partners-bg.jpg);
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-}
-.rs-step {
-    background: url(../images/bg/steps-bg.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    border-radius: 10px 10px 10px 10px;
-    padding: 258px 0;
 }
 .shape-part .right-side,
 .shape-part .left-side {
@@ -835,41 +688,41 @@ blockquote cite:before {
 }
 .readon.learn-more {
     padding: 14px 40px 14px 40px;
-    background-image: linear-gradient(250deg, #4e95ed 19%, #03228f 100%);
+    background-image: linear-gradient(180deg, #00adb0 19%, #03305c 100%);
     border-radius: 30px 30px 30px 30px;
 }
 .readon.learn-more:hover {
-    background-image: linear-gradient(180deg, #03228f 19%, #4e95ed 100%);
+    background-image: linear-gradient(250deg, #03305c 19%, #00adb0 100%);
     color: #ffffff;
 }
 .readon.learn-more.sub-con {
-    background-image: linear-gradient(250deg, #4e95ed 0%, #03228f 100%);
+    background-image: linear-gradient(180deg, #00adb0 19%, #03305c 100%);
     padding: 18px 36px 16px 36px;
     font-size: 14px;
     font-weight: 500;
 }
 .readon.learn-more.sub-con:hover {
-    background-image: linear-gradient(250deg, #03228f 0%, #4e95ed 100%);
+    background-image: linear-gradient(250deg, #03305c 19%, #00adb0 100%);
     color: #ffffff;
 }
 .readon.learn-more.submit {
-    background-image: linear-gradient(90deg, #03228f 0%, #4e95ed 100%);
+    background-image: linear-gradient(180deg, #00adb0 19%, #03305c 100%);
     padding: 16px 40px 16px 40px;
     font-weight: 500;
     font-size: 16px;
 }
 .readon.learn-more.submit:hover {
-    background-image: linear-gradient(200deg, #03228f 0%, #4e95ed 100%);
+    background-image: linear-gradient(250deg, #03305c 19%, #00adb0 100%);
     color: #ffffff;
 }
 .readon.learn-more.post {
-    background-image: linear-gradient(50deg, #03228f 10%, #0e73e4 100%);
+    background-image: linear-gradient(180deg, #00adb0 19%, #03305c 100%);
     padding: 12px 30px;
     font-size: 14px;
     font-weight: 500;
 }
 .readon.learn-more.post:hover {
-    background-image: linear-gradient(50deg, #0e73e4 10%, #03228f 100%);
+    background-image: linear-gradient(250deg, #03305c 19%, #00adb0 100%);
     color: #fff;
 }
 .readon.learn-more.pdf i {
@@ -926,11 +779,12 @@ blockquote cite:before {
 }
 .readon.lets-talk {
     padding: 14px 40px 14px 40px;
-    background-image: linear-gradient(250deg, #4e95ed 19%, #03228f 100%);
+    background-image: linear-gradient(180deg, #00adb0 19%, #03305c 100%);
     border-radius: 30px 30px 30px 30px;
 }
 .readon.lets-talk:hover {
-    background-image: linear-gradient(180deg, #03228f 19%, #4e95ed 100%);
+    
+    background-image: linear-gradient(250deg, #03305c 19%, #00adb0 100%);
     color: #ffffff;
 }
 .readon.buy-now {
@@ -2493,7 +2347,7 @@ header.sticky-header.sticky-on .header-nav .nav-container .menu-items ul li a {
 }
 
 header.sticky-header.header-two.sticky-on .header-nav {
-    background-color: #031624;
+    background: #000f21;
 }
 
 @media (max-width: 767px) {
@@ -3125,7 +2979,7 @@ header.header-three .header-nav::before {
     opacity: 1;
 }
 .rs-contact .contact-box {
-    background-image: linear-gradient(250deg, #4e95ed 0%, #03228f 100%);
+    background-image: linear-gradient(95deg, #03305c 5%, #00adb0 100%);
     padding: 80px 30px 80px 30px;
     border-radius: 5px 5px 5px 5px;
 }
@@ -3145,7 +2999,7 @@ header.header-three .header-nav::before {
 .rs-contact .contact-box .address-box .address-icon i {
     font-size: 20px;
     line-height: 20px;
-    color: #03228f;
+    color: #024067;
 }
 .rs-contact .contact-box .address-box .address-text .label {
     font-size: 16px;
@@ -3805,7 +3659,7 @@ header.header-three .header-nav::before {
 .rs-process.modify1 .rs-addon-number .number-text {
     margin: 0px 25px 0px 30px;
     padding: 0px 48px 11px 48px;
-    background-image: linear-gradient(250deg, #4e95ed 19%, #03228f 100%);
+    background-image: linear-gradient(0deg, #03305c 5%, #00adb0 100%);
     border-radius: 10px 10px 50px 10px;
     position: relative;
     width: 65%;
@@ -5016,7 +4870,7 @@ header.header-three .header-nav::before {
     border-radius: 50px 50px 4px 4px;
 }
 #scrollUp i {
-    background-image: linear-gradient(90deg, #03228f 0%, #0e73e4 100%);
+    background-image: linear-gradient(90deg, #03305c 0%, #00adb0 100%);
     border-radius: 50%;
     height: 40px;
     font-size: 24px;

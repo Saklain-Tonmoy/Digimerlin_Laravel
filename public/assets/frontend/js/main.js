@@ -119,15 +119,6 @@
 		}
 	}
 
-	
-    //window load
-//    $(window).on( 'load', function() {
-//         $("#loading").delay(1500).fadeOut(500);
-//         $("#loading-center").on( 'click', function() {
-//         $("#loading").fadeOut(500);
-//         })
-//     })
-
    //Testimonials Slider
     var sliderfor = $('.slider-for');
     if(sliderfor.length){

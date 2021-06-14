@@ -227,6 +227,7 @@ body.nav-expanded .offwrap {
 }
 .rs-call-us .image-part img {
     max-height: 585px;
+    -webkit-animation: shake 1s ease-in-out 1s infinite alternate;
 }
 a {
     color: #106eea;
@@ -1994,6 +1995,7 @@ header .header-nav .nav-container {
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: space-between;
+    height: 70px;
 }
 
 header .header-nav .nav-container .navbar-toggler {
@@ -2693,7 +2695,7 @@ header.header-three .header-nav::before {
     right: 30px;
     top: 30px;
     font-size: 28px;
-    color: #ff4a17;
+    color: rgb(39, 38, 38);
 }
 
 .offcanvas-wrapper .offcanvas-widget .widget {
@@ -5190,4 +5192,13 @@ header.header-three .header-nav::before {
     100% {
         left: 100%;
     }
+}
+@-webkit-keyframes shake {
+	from{
+		-webkit-transform: rotate(5deg);
+	}
+	to{
+		-webkit-transform: rotate(-5deg);
+		-webkit-transform-origin: center center;
+	}
 }

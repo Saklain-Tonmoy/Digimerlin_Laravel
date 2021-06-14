@@ -53,7 +53,7 @@
 <div class="offcanvas-wrapper">
     <div class="offcanvas-overly"></div>
     <div class="offcanvas-widget">
-        <a href="#" class="offcanvas-close"><i class="fal fa-times"></i></a>
+        <a href="#" class="offcanvas-close"><i class="fa fa-times"></i></a>
         <!-- About Widget -->
         <div class="widget about-widget">
             <div class="logo mb-30">

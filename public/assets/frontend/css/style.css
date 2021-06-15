@@ -2551,7 +2551,7 @@ header.header-three .header-nav::before {
     right: 30px;
     top: 30px;
     font-size: 28px;
-    color: rgb(39, 38, 38);
+    color: #fff;
 }
 
 .offcanvas-wrapper .offcanvas-widget .widget {
@@ -2981,7 +2981,7 @@ header.header-three .header-nav::before {
     opacity: 1;
 }
 .rs-contact .contact-box {
-    background-image: linear-gradient(95deg, #03305c 5%, #00adb0 100%);
+    background-image: linear-gradient(35deg, #01182f 10%, #00adb0 100%);
     padding: 80px 30px 80px 30px;
     border-radius: 5px 5px 5px 5px;
 }
@@ -3661,7 +3661,7 @@ header.header-three .header-nav::before {
 .rs-process.modify1 .rs-addon-number .number-text {
     margin: 0px 25px 0px 30px;
     padding: 0px 48px 11px 48px;
-    background-image: linear-gradient(0deg, #03305c 5%, #00adb0 100%);
+    background-image: linear-gradient(180deg, #00adb0 19%, #03305c 100%);
     border-radius: 10px 10px 50px 10px;
     position: relative;
     width: 65%;
@@ -3671,14 +3671,14 @@ header.header-three .header-nav::before {
     font-weight: 600;
     line-height: 62px;
     position: relative;
-    color: #ffffff;
+    color: #03305c;
     display: inline-block;
     width: 70px;
     height: 70px;
     left: -70px;
     top: -30px;
     text-align: center;
-    background: #06d3e5;
+    background: #fff;
     transition: all 0.3s ease 0s;
     border-radius: 50%;
 }
@@ -4475,7 +4475,7 @@ header.header-three .header-nav::before {
 ------------------------------------*/
 .rs-partner {
     /* background: url(../images/bg/partners-bg.jpg); */
-    background-image: linear-gradient(590deg, #01182f 1%, #01aeb1 100%);
+    background-image: linear-gradient(90deg, #01182f 10%, #01aeb1 100%);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -4588,13 +4588,14 @@ header.header-three .header-nav::before {
     border-radius: 30px;
     border: none;
     transition: all 0.3s ease;
-    background: #0b70e1;
+    background-image: linear-gradient(90deg, #01182f 10%, #01aeb1 100%);
     box-shadow: 0px 3px 8px 0px rgba(0, 0, 0, 0.25);
 }
 .rs-testimonial.main-home .owl-dots .owl-dot:hover,
 .rs-testimonial.main-home .owl-dots .owl-dot.active {
     width: 40px;
-    background: #0b70e1;
+    /* background: #0b70e1; */
+    background-image: linear-gradient(90deg, #03305c 0%, #00adb0 100%);
     opacity: 1;
 }
 .rs-testimonial.main-home .owl-stage-outer {
@@ -4696,7 +4697,7 @@ header.header-three .header-nav::before {
     top: 1px;
     right: 1px;
     bottom: 1px;
-    background-image: linear-gradient(90deg, #03228f 0%, #0e73e4 100%);
+    background-image: linear-gradient(90deg, #03305c 0%, #00adb0 100%);
     border-radius: 50%;
     padding: 15px 28px 15px;
     font-family: "Flaticon";
@@ -4780,7 +4781,7 @@ header.header-three .header-nav::before {
 
 .rs-footer.style2 {
     /* background: url(../images/bg/footer-bg2.jpg); */
-    background-image: linear-gradient(-290deg, #01182f 25.5%, #01aeb1 100%);
+    background-image: linear-gradient(90deg, #01182f 10%, #01aeb1 100%);
     background-color: #f5f6f9;
     background-size: cover;
     background-repeat: no-repeat;

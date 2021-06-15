@@ -381,7 +381,7 @@
                         <div class="col-md-6 mb-70">
                             <div class="rs-addon-number">
                                 <div class="number-text">
-                                    <div class="number-area green-bg">
+                                    <div class="number-area">
                                         2
                                     </div>
                                     <div class="number-title">
@@ -393,7 +393,7 @@
                         <div class="col-md-6 sm-mb-70">
                             <div class="rs-addon-number">
                                 <div class="number-text">
-                                    <div class="number-area plum-bg">
+                                    <div class="number-area">
                                         3
                                     </div>
                                     <div class="number-title">
@@ -405,7 +405,7 @@
                         <div class="col-md-6">
                             <div class="rs-addon-number">
                                 <div class="number-text">
-                                    <div class="number-area pink-bg">
+                                    <div class="number-area">
                                         4
                                     </div>
                                     <div class="number-title">

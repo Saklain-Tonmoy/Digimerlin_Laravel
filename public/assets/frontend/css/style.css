@@ -263,7 +263,7 @@ ul {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background-image: linear-gradient(140deg, #000c1c 62%, #032a44 100%);
+    background-image: linear-gradient(90deg, #01182f 30%, #01aeb1 100%);
 }
 .bg2 {
     background: url(../images/bg/counter-bg.png);
@@ -2347,7 +2347,8 @@ header.sticky-header.sticky-on .header-nav .nav-container .menu-items ul li a {
 }
 
 header.sticky-header.header-two.sticky-on .header-nav {
-    background: #000f21;
+    /* background: #000f21; */
+    background-image: linear-gradient(90deg, #01182f 10%, #01aeb1 100%);
 }
 
 @media (max-width: 767px) {
@@ -2534,7 +2535,8 @@ header.header-three .header-nav::before {
 }
 
 .offcanvas-wrapper .offcanvas-widget {
-    background-color: #fff;
+    /* background-color: #fff; */
+    background-image: linear-gradient(-170deg, #01182f 10%, #01aeb1 100%);
     width: 100%;
     height: 100vh;
     padding: 70px 40px;
@@ -2594,12 +2596,12 @@ header.header-three .header-nav::before {
     border-radius: 50%;
     font-size: 15px;
     padding: 10px 13px;
-    background-image: linear-gradient(250deg, #4e95ed 19%, #03228f 100%);
+    background-image: linear-gradient(90deg, #03305c 0%, #00adb0 100%);
     color: #fff;
 }
 
 .offcanvas-wrapper .offcanvas-widget .widget.social-link ul li a:hover {
-    background-image: linear-gradient(180deg, #03228f 19%, #4e95ed 100%);
+    background-image: linear-gradient(140deg, #03305c 0%, #00adb0 100%);
     color: #fff;
 }
 
@@ -2613,7 +2615,7 @@ header.header-three .header-nav::before {
 
 .offcanvas-wrapper .offcanvas-widget .widget.tweets-widget li i,
 .offcanvas-wrapper .offcanvas-widget .widget.contact-info-widget li i {
-    color: #106eea;
+    color: #fff;
     position: relative;
     top: 2px;
     margin-right: 10px;
@@ -2811,7 +2813,7 @@ header.header-three .header-nav::before {
 }
 .rs-slider.style1 .owl-nav .owl-next:hover,
 .rs-slider.style1 .owl-nav .owl-prev:hover {
-    background: #106eea;
+    background-image: linear-gradient(90deg, #03305c 0%, #00adb0 100%);
     color: #ffffff;
 }
 .rs-slider.style1 .owl-nav .owl-next {
@@ -3460,7 +3462,7 @@ header.header-three .header-nav::before {
     height: 7px;
     line-height: 7px;
     background-color: transparent;
-    background-image: linear-gradient(190deg, #105aad 0%, #4e95ed 100%);
+    background-image: linear-gradient(90deg, #03305c 0%, #00adb0 100%);
     background-size: 1rem 1rem;
 }
 .rs-skillbar.style1 .cl-skill-bar .skillbar .skill-bar-percent {
@@ -3653,7 +3655,7 @@ header.header-three .header-nav::before {
 09. Process Section CSS
 ---------------------------------------*/
 .rs-process.modify1 {
-    background-image: linear-gradient(140deg, #000c1c 62%, #032a44 100%);
+    background-image: linear-gradient(90deg, #01182f 10%, #01aeb1 100%);
     border-radius: 230px 0px 230px 0px;
 }
 .rs-process.modify1 .rs-addon-number .number-text {
@@ -4472,7 +4474,8 @@ header.header-three .header-nav::before {
 12. Partner Section CSS
 ------------------------------------*/
 .rs-partner {
-    background: url(../images/bg/partners-bg.jpg);
+    /* background: url(../images/bg/partners-bg.jpg); */
+    background-image: linear-gradient(590deg, #01182f 1%, #01aeb1 100%);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -4776,7 +4779,8 @@ header.header-three .header-nav::before {
 }
 
 .rs-footer.style2 {
-    background: url(../images/bg/footer-bg2.jpg);
+    /* background: url(../images/bg/footer-bg2.jpg); */
+    background-image: linear-gradient(-290deg, #01182f 25.5%, #01aeb1 100%);
     background-color: #f5f6f9;
     background-size: cover;
     background-repeat: no-repeat;
@@ -4841,8 +4845,8 @@ header.header-three .header-nav::before {
 }
 .rs-footer.style2 .footer-bottom {
     background: transparent;
-    border-color: rgba(80, 90, 100, 0.56) !important;
-    border-top: 1px solid;
+    /* border-color: rgba(80, 90, 100, 0.56) !important;
+    border-top: 1px solid; */
 }
 .rs-footer.style2 .footer-bottom .copyright p {
     color: #ffffff;

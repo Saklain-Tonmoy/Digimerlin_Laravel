@@ -60,7 +60,7 @@
                         </div>
                         <div class="services-desc">
                             <p>
-                                We are providing highly customized Website Development for your business. Our web development team are exceptionally focused and offer the best services.
+                            Living in the digital world, a website is crucial for any business. If you have a business and don’t have a website, you are losing out on opportunities for your business. Nowadays, people are busy and also smart. They search the internet to know about the product or service before purchasing. Remembering it, Digimerlin is providing the best professional Website for your business.
                             </p>
                         </div>
                     </div>
@@ -79,7 +79,7 @@
                         </div>
                         <div class="services-desc">
                             <p>
-                                We are providing you the best Mobile App Designs which will convert your next app idea into a productive app suitable for Android or iOS platforms.
+                            A mobile app can reach your customers in no time and endorse your business in plenty of ways. With the help of mobile applications, you can directly be in touch with your customers and interact with them by integrating push notifications and noticing customers regarding your special offers. Digimerlin can help you to achieve this goal by providing the best Mobile App for Android or iOS platforms.
                             </p>
                         </div>
                     </div>
@@ -98,7 +98,7 @@
                         </div>
                         <div class="services-desc">
                             <p>
-                                We are providing you the finest Digital Marketing Services which will take your business to the next level and establish your presence in Digital platforms.
+                            The Internet has brought a whole new market. Digital marketing became the norm for a successful business and can bring a lot of opportunities and growth to businesses. It can lead to exposure and more sales. After all, your goal as a business owner is to increase your profit. If you want to see improvements in your business or increase your sales, Digimerlin can help you to achieve your goal.
                             </p>
                         </div>
                     </div>
@@ -117,7 +117,7 @@
                         </div>
                         <div class="services-desc">
                             <p>
-                                We are providing the best SEO Services which will help your business by improving both visibility and ranking of you website worldwide.
+                            Nowadays, people trust Google Search Engines, and achieving a top spot in search engine rankings signals to searchers that your business is a credible source. The higher you rank in results pages, the more likely your business will generate more visitors which will help to increase your sales. Digimerlin is providing the finest SEO Services to help your business by improving both visibility and ranking of your website.
                             </p>
                         </div>
                     </div>
@@ -136,7 +136,7 @@
                         </div>
                         <div class="services-desc">
                             <p>
-                                We draw the path to practical and intuitive Brand Development Guidelines for SMEs and larger organizations to ensure consistent growth of your business.
+                            Branding is important because it makes a positive impression on consumers and allows your clients to know what to expect from your company. Many areas are used to develop a brand including advertising, social media influencers, etc. Digimerlin draws the path to practical and intuitive Brand Development Guidelines for SMEs and larger organizations to ensure consistent growth of your business.
                             </p>
                         </div>
                     </div>
@@ -155,7 +155,7 @@
                         </div>
                         <div class="services-desc">
                             <p>
-                                Ensure the best Graphic Design Services that brings forth your brand to an eccentric position and allows your customers to get familiar with your company in a jiffy.
+                            Graphic Designing helps to create a brand image for the consumers. Customers are more likely to buy products that come with a polished and eye-catchy look. So, use the best graphic design to increase the credibility of your business. Quality Graphic Desing helps to increase sales and gain trust. Digimerlin provides the best professional Graphic Design services (logo, brochures, posters, ads, etc.)
                             </p>
                         </div>
                     </div>

@@ -65,16 +65,18 @@
                     </ul>
                 </div>
                 <div class="col-lg-3 col-md-12 col-sm-12">
-                    <h3 class="widget-title">Newsletter</h3>
-                    <p class="widget-desc white-color">Subscribe Us to get latest news.</p>
-                    <form id="subscriberForm" method="POST">
+                    <h3 class="widget-title">Our Location</h3>
+                    <!-- <form id="subscriberForm" method="POST">
                         @csrf
                         <p>
                             <input type="email" id="subscriberEmail" name="subscriberEmail" placeholder="Your email address" required="">
                             <input type="submit" value="Sign up">
                             <i class="fa fa-paper-plane"></i>
                         </p>
-                    </form>
+                    </form> -->
+                    <div>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.900998038651!2d90.39969071498136!3d23.750909584589017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b89a9fa88a65%3A0x5c5f7456a5523ac3!2sGQ%20Building%2C%20Dhaka!5e0!3m2!1sen!2sbd!4v1623780247543!5m2!1sen!2sbd" width="auto" height="auto" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                    </div>
                 </div>
             </div>
         </div>

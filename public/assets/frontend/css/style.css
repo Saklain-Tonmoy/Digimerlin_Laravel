@@ -263,7 +263,7 @@ ul {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background-image: linear-gradient(90deg, #01182f 30%, #01aeb1 100%);
+    background-image: linear-gradient(120deg, #01182f 30%, #01aeb1 100%);
 }
 .bg2 {
     background: url(../images/bg/counter-bg.png);
@@ -740,12 +740,12 @@ blockquote cite:before {
 }
 .readon.learn-more.slider-btn {
     background: #ffffff;
-    color: #106eea;
+    color: #03305c;
     padding: 15px 37px;
     border-radius: 8px 8px 8px 8px !important;
 }
 .readon.learn-more.slider-btn:hover {
-    background-image: linear-gradient(250deg, #4e95ed 19%, #03228f 100%);
+    background-image: linear-gradient(180deg, #00adb0 19%, #03305c 100%);
     color: #ffffff;
 }
 .readon.started {
@@ -1130,7 +1130,7 @@ blockquote cite:before {
     left: 50%;
     transform: translate(-50%, -50%);
     color: #ffffff;
-    background: #106eea;
+    background-image: linear-gradient(180deg, #00adb0 19%, #03305c 100%);
     width: 70px;
     height: 70px;
     border-radius: 100%;
@@ -1172,7 +1172,7 @@ blockquote cite:before {
     line-height: 70px;
     border-radius: 100%;
     text-align: center;
-    background: #106eea;
+    background-image: linear-gradient(180deg, #00adb0 19%, #03305c 100%);
 }
 .slider-video .popup-videos i {
     text-align: center;
@@ -1199,7 +1199,7 @@ blockquote cite:before {
     height: 70px;
     border-radius: 50%;
     animation: pulse-border 3000ms ease-out infinite;
-    background: #106eea;
+    background: #03305c;
 }
 .address-item .address-icon {
     display: inline-block;
@@ -1421,8 +1421,8 @@ blockquote cite:before {
     line-height: 28px;
     font-size: 14px;
     letter-spacing: 1px;
-    font-weight: 400;
-    color: #03228f;
+    font-weight: 600;
+    color: #03305c;
     text-transform: uppercase;
     margin-bottom: 10px;
 }
@@ -1432,7 +1432,7 @@ blockquote cite:before {
     border: 0;
     height: 4px;
     width: 50px;
-    background-color: #03228f;
+    background-color: #03305c;
     z-index: 1;
     margin-left: 0;
     left: 24px;
@@ -1445,7 +1445,7 @@ blockquote cite:before {
     top: 12px;
     height: 4px;
     width: 12px;
-    background-color: #03228f;
+    background-color: #03305c;
 }
 .sec-title .sub-text.new {
     color: #ffffff;
@@ -1470,10 +1470,10 @@ blockquote cite:before {
     display: none;
 }
 .sec-title .sub-text.style2:after {
-    background-color: #106eea;
+    background-color: #03305c;
 }
 .sec-title .sub-text.style2:before {
-    background-color: #106eea;
+    background-color: #03305c;
 }
 .sec-title .sub-text.style-bg {
     background-color: #1273eb17;
@@ -2119,7 +2119,7 @@ header .header-nav .nav-container.breakpoint-on {
 }
 
 header .header-nav .nav-container.breakpoint-on .nav-menu {
-    background-color: #14212b;
+    background-image: linear-gradient(20deg, #01182f 1%, #01aeb1 100%);
     position: fixed;
     top: 0;
     left: -300px;
@@ -2349,7 +2349,7 @@ header.sticky-header.sticky-on .header-nav .nav-container .menu-items ul li a {
 
 header.sticky-header.header-two.sticky-on .header-nav {
     /* background: #000f21; */
-    background-image: linear-gradient(90deg, #01182f 10%, #01aeb1 100%);
+    background-image: linear-gradient(120deg, #01182f 1%, #01aeb1 100%);
 }
 
 @media (max-width: 767px) {
@@ -2442,7 +2442,7 @@ header.header-two
 }
 
 header.header-two .header-nav .nav-container .menu-items ul li a:hover {
-    color: #106eea;
+    color: #03228f;
 }
 header.header-two
     .header-nav
@@ -2576,7 +2576,7 @@ header.header-three .header-nav::before {
     bottom: 0;
     height: 2px;
     width: 10px;
-    background-color: #106eea;
+    background-color: #fff;
 }
 
 .offcanvas-wrapper .offcanvas-widget .widget .widget-title::after {
@@ -2597,8 +2597,9 @@ header.header-three .header-nav::before {
     border-radius: 50%;
     font-size: 15px;
     padding: 10px 13px;
-    background-image: linear-gradient(90deg, #03305c 0%, #00adb0 100%);
-    color: #fff;
+    /* background-image: linear-gradient(90deg, #03305c 0%, #00adb0 100%); */
+    background-color: #fff;
+    color: #03305c;
 }
 
 .offcanvas-wrapper .offcanvas-widget .widget.social-link ul li a:hover {
@@ -2778,7 +2779,7 @@ header.header-three .header-nav::before {
 }
 .rs-slider.style1 .slider-content.slide1 {
     /* background: url(../images/Digimerlin-1.png); */
-    background-image: linear-gradient(90deg, #01182f 30%, #01aeb1 100%);
+    background-image: linear-gradient(120deg, #01182f 1%, #01aeb1 100%);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -2787,7 +2788,7 @@ header.header-three .header-nav::before {
 }
 .rs-slider.style1 .slider-content.slide2 {
     /* background: url(../images/Digimerlin-2.png); */
-    background-image: linear-gradient(90deg, #01182f 30%, #01aeb1 100%);
+    background-image: linear-gradient(120deg, #01182f 1%, #01aeb1 100%);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -2986,7 +2987,7 @@ header.header-three .header-nav::before {
     opacity: 1;
 }
 .rs-contact .contact-box {
-    background-image: linear-gradient(20deg, #01182f 1%, #00adb0 100%);
+    background-image: linear-gradient(0deg, #01182f 0%, #00adb0 100%);
     padding: 80px 30px 80px 30px;
     border-radius: 5px 5px 5px 5px;
 }
@@ -3145,7 +3146,7 @@ header.header-three .header-nav::before {
     .counter-text
     .count-number
     .rs-count {
-    color: #03228f;
+    color: #03305c;
     font-size: 48px;
     font-weight: 900;
     position: relative;
@@ -3661,7 +3662,7 @@ header.header-three .header-nav::before {
 09. Process Section CSS
 ---------------------------------------*/
 .rs-process.modify1 {
-    background-image: linear-gradient(90deg, #01182f 10%, #01aeb1 100%);
+    background-image: linear-gradient(120deg, #01182f 10%, #01aeb1 100%);
     border-radius: 230px 0px 230px 0px;
 }
 .rs-process.modify1 .rs-addon-number .number-text {
@@ -4481,7 +4482,7 @@ header.header-three .header-nav::before {
 ------------------------------------*/
 .rs-partner {
     /* background: url(../images/bg/partners-bg.jpg); */
-    background-image: linear-gradient(90deg, #01182f 10%, #01aeb1 100%);
+    background-image: linear-gradient(120deg, #01182f 10%, #01aeb1 100%);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -4787,7 +4788,7 @@ header.header-three .header-nav::before {
 
 .rs-footer.style2 {
     /* background: url(../images/bg/footer-bg2.jpg); */
-    background-image: linear-gradient(90deg, #01182f 10%, #01aeb1 100%);
+    background-image: linear-gradient(120deg, #01182f 1%, #01aeb1 100%);
     background-color: #f5f6f9;
     background-size: cover;
     background-repeat: no-repeat;

@@ -2777,17 +2777,21 @@ header.header-three .header-nav::before {
     margin-right: 0;
 }
 .rs-slider.style1 .slider-content.slide1 {
-    background: url(../images/Digimerlin-1.png);
+    /* background: url(../images/Digimerlin-1.png); */
+    background-image: linear-gradient(90deg, #01182f 30%, #01aeb1 100%);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     padding: 260px 0 270px;
+    border-radius: 0px 0px 999px 0px;
 }
 .rs-slider.style1 .slider-content.slide2 {
-    background: url(../images/Digimerlin-2.png);
+    /* background: url(../images/Digimerlin-2.png); */
+    background-image: linear-gradient(90deg, #01182f 30%, #01aeb1 100%);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    border-radius: 0px 0px 999px 0px;
 }
 .rs-slider.style1 .owl-nav .owl-next,
 .rs-slider.style1 .owl-nav .owl-prev {

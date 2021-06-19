@@ -4569,7 +4569,6 @@ header.header-three .header-nav::before {
 .rs-testimonial.main-home .testi-item .author-desc .author-img img {
     width: 90px;
     height: 90px;
-    border-radius: 50%;
 }
 .rs-testimonial.main-home .testi-item .author-part {
     text-align: center;

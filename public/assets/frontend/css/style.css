@@ -1422,7 +1422,7 @@ blockquote cite:before {
     font-size: 14px;
     letter-spacing: 1px;
     font-weight: 600;
-    color: #03305c;
+    color: #01aeb1;
     text-transform: uppercase;
     margin-bottom: 10px;
 }
@@ -1470,10 +1470,10 @@ blockquote cite:before {
     display: none;
 }
 .sec-title .sub-text.style2:after {
-    background-color: #03305c;
+    background-color: #01aeb1;
 }
 .sec-title .sub-text.style2:before {
-    background-color: #03305c;
+    background-color: #01aeb1;
 }
 .sec-title .sub-text.style-bg {
     background-color: #1273eb17;

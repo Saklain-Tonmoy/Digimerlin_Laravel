@@ -230,7 +230,7 @@ body.nav-expanded .offwrap {
     /* -webkit-animation: shake 1s ease-in-out 1s infinite alternate; */
 }
 a {
-    color: #106eea;
+    color: #03305c;
     transition: all 0.3s ease;
     text-decoration: none !important;
     outline: none !important;
@@ -239,7 +239,7 @@ a:active,
 a:hover {
     text-decoration: none;
     outline: 0 none;
-    color: #106eea;
+    color: #03305c;
 }
 ul {
     list-style: outside none none;
@@ -2536,7 +2536,6 @@ header.header-three .header-nav::before {
 }
 
 .offcanvas-wrapper .offcanvas-widget {
-    /* background-color: #fff; */
     background-image: linear-gradient(-170deg, #01182f 10%, #01aeb1 100%);
     width: 100%;
     height: 100vh;
@@ -2597,7 +2596,6 @@ header.header-three .header-nav::before {
     border-radius: 50%;
     font-size: 15px;
     padding: 10px 13px;
-    /* background-image: linear-gradient(90deg, #03305c 0%, #00adb0 100%); */
     background-color: #fff;
     color: #03305c;
 }
@@ -2716,8 +2714,8 @@ header.header-three .header-nav::before {
 }
 .rs-about.style3 .rs-animation-image .middle-img {
     position: absolute;
-    left: 0px;
-    top: 12px;
+    left: 90px;
+    top: -20px;
 }
 .rs-about.style4 .about-content .logo-img {
     margin-bottom: 15px;
@@ -4786,7 +4784,6 @@ header.header-three .header-nav::before {
 }
 
 .rs-footer.style2 {
-    /* background: url(../images/bg/footer-bg2.jpg); */
     background-image: linear-gradient(120deg, #01182f 1%, #01aeb1 100%);
     background-color: #f5f6f9;
     background-size: cover;

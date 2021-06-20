@@ -46,6 +46,8 @@
         let subject = $('#subject').val();
         let content = $('#content').val();
 
+        clearForm();
+
         $.ajax({
             type: "POST",
             url: "{{route('contact')}}",
@@ -58,7 +60,6 @@
             },
             success: function(response) {
                 console.log('success');
-                clearForm();
                 toastr.options = {
                     "closeButton": true,
                     "progressBar": true,
@@ -67,47 +68,6 @@
             },
             error: function(error) {
                 console.error();
-                toastr.options = {
-                    "closeButton": true,
-                    "progressBar": true,
-                };
-                toastr.error('DIGIMERLIN', 'Something went wrong! Please try again.')
-            }
-        });
-    });
-</script>
-
-<script>
-    function clearSubscriberForm() {
-        $('#subscriberEmail').val('');
-    };
-
-    $('#subscriberForm').submit(function(e) {
-        e.preventDefault();
-        $.ajaxSetup({
-            headers: {
-                'X-CSRF-TOKEN': $('meta[name="_token"]').attr('content')
-            }
-        });
-
-        let email = $('#subscriberEmail').val();
-
-        $.ajax({
-            type: "POST",
-            url: "{{route('subscribe')}}",
-            data: {
-                email: email
-            },
-            success: function(response) {
-                console.log('success');
-                clearSubscriberForm();
-                toastr.options = {
-                    "closeButton": true,
-                    "progressBar": true,
-                };
-                toastr.success('DIGIMERLIN', 'Successfully subscribed.');
-            },
-            error: function(error) {
                 toastr.options = {
                     "closeButton": true,
                     "progressBar": true,

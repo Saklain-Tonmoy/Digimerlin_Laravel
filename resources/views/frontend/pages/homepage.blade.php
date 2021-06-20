@@ -184,11 +184,13 @@
                             Since its beginning, Digimerlin has participated in different types of ICT work such as Website development & maintenance, Mobile Apps Design & Development, Software development, Network design and installation, Graphics design, SEO, Digital Marketing, Social Media Management, and Brand Launching.
                         </div>
                     </div>
-
                 </div>
             </div>
             <div class="col-lg-6 pl-60 md-pl-15">
                 <div class="contact-wrap">
+                    <div class="sec-title mb-30">
+                        <div class="sub-text style2">Success Rate</div>
+                    </div>
                     <!-- Skillbar Section Start -->
                     <div class="row">
                         <div class="col-lg-10">
@@ -237,8 +239,6 @@
                     <!-- Skillbar Section End -->
                 </div>
             </div>
-
-
         </div>
     </div>
 </div>
@@ -434,9 +434,9 @@
         <div class="rs-carousel owl-carousel" data-loop="true" data-items="3" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="true" data-nav="false" data-nav-speed="false" data-md-device="3" data-md-device-nav="false" data-md-device-dots="true" data-center-mode="false" data-ipad-device2="1" data-ipad-device-nav2="false" data-ipad-device-dots2="true" data-ipad-device="2" data-ipad-device-nav="false" data-ipad-device-dots="true" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false">
             <div class="testi-item">
                 <div class="author-desc">
-                    <div class="desc"><img class="quote" src="{{asset('assets/frontend/images/testimonial/main-home/quote2.png')}}" alt="">I am very happy with my new business website! It looks professional and very easy to navigate. Our experience with the customer service at Digimerlin has been great. They handle things very efficiently and are available for any questions we have. They also keep us updated on monthly reports so we know how our site is doing. I would recommend Digimerlin to anyone looking for website design or SEO work!</div>
+                    <div class="desc"><img class="quote" src="{{asset('assets/frontend/images/testimonial/quote2.png')}}" alt="">I am very happy with my new business website! It looks professional and very easy to navigate. Our experience with the customer service at Digimerlin has been great. They handle things very efficiently and are available for any questions we have. They also keep us updated on monthly reports so we know how our site is doing. I would recommend Digimerlin to anyone looking for website design or SEO work!</div>
                     <div class="author-img">
-                        <img src="{{asset('assets/frontend/images/testimonial/digimerlin-king-security.png')}}" alt="">
+                        <img src="{{asset('assets/frontend/images/partner/digimerlin-king-security.png')}}" alt="">
                     </div>
                 </div>
                 <div class="author-part">
@@ -446,9 +446,9 @@
             </div>
             <div class="testi-item">
                 <div class="author-desc">
-                    <div class="desc"><img class="quote" src="{{asset('assets/frontend/images/testimonial/main-home/quote2.png')}}" alt="">This was the first time I developed a website so I couldn’t have asked for a better or easier group to work with. The entire process from sales through development and launch was timely and extremely efficient. A fantastic experience all around!</div>
+                    <div class="desc"><img class="quote" src="{{asset('assets/frontend/images/testimonial/quote2.png')}}" alt="">This was the first time I developed a website so I couldn’t have asked for a better or easier group to work with. The entire process from sales through development and launch was timely and extremely efficient. A fantastic experience all around!</div>
                     <div class="author-img">
-                        <img src="{{asset('assets/frontend/images/testimonial/digimerlin-shop-capetown.png')}}" alt="">
+                        <img src="{{asset('assets/frontend/images/partner/digimerlin-shop-capetown.png')}}" alt="">
                     </div>
                 </div>
                 <div class="author-part">
@@ -458,9 +458,9 @@
             </div>
             <div class="testi-item">
                 <div class="author-desc">
-                    <div class="desc"><img class="quote" src="{{asset('assets/frontend/images/testimonial/main-home/quote2.png')}}" alt="">Digimerlin is very responsive and they perfectly lead me. We are amazed from where traffic to our site comes; we are a moderate-sized nonprofit and now we are having global visitors.</div>
+                    <div class="desc"><img class="quote" src="{{asset('assets/frontend/images/testimonial/quote2.png')}}" alt="">Digimerlin is very responsive and they perfectly lead me. We are amazed from where traffic to our site comes; we are a moderate-sized nonprofit and now we are having global visitors.</div>
                     <div class="author-img">
-                        <img src="{{asset('assets/frontend/images/testimonial/digimerlin-lamaison.png')}}" alt="">
+                        <img src="{{asset('assets/frontend/images/partner/digimerlin-lamaison.png')}}" alt="">
                     </div>
                 </div>
                 <div class="author-part">
@@ -470,9 +470,9 @@
             </div>
             <div class="testi-item">
                 <div class="author-desc">
-                    <div class="desc"><img class="quote" src="{{asset('assets/frontend/images/testimonial/main-home/quote2.png')}}" alt="">My new site created by Digimerlin just launched. They’ve done a great job of creating exactly what I wanted. Easy to work with and very responsive. They met all of my expectations and had a lot of insight regarding marketing tools I didn’t know existed.</div>
+                    <div class="desc"><img class="quote" src="{{asset('assets/frontend/images/testimonial/quote2.png')}}" alt="">My new site created by Digimerlin just launched. They’ve done a great job of creating exactly what I wanted. Easy to work with and very responsive. They met all of my expectations and had a lot of insight regarding marketing tools I didn’t know existed.</div>
                     <div class="author-img">
-                        <img src="{{asset('assets/frontend/images/testimonial/digimerlin-hiend.png')}}" alt="">
+                        <img src="{{asset('assets/frontend/images/partner/digimerlin-hiend.png')}}" alt="">
                     </div>
                 </div>
                 <div class="author-part">
@@ -482,9 +482,9 @@
             </div>
             <div class="testi-item">
                 <div class="author-desc">
-                    <div class="desc"><img class="quote" src="{{asset('assets/frontend/images/testimonial/main-home/quote2.png')}}" alt="">We hired Digimerlin to redesign our website after a bad experience working with our previous web designer. The Digimerlin team exceeded our every expectation; their work was completed on time and within budget. In the end, they delivered a beautifully designed website that has the look and function our company was hoping to achieve.</div>
+                    <div class="desc"><img class="quote" src="{{asset('assets/frontend/images/testimonial/quote2.png')}}" alt="">We hired Digimerlin to redesign our website after a bad experience working with our previous web designer. The Digimerlin team exceeded our every expectation; their work was completed on time and within budget. In the end, they delivered a beautifully designed website that has the look and function our company was hoping to achieve.</div>
                     <div class="author-img">
-                        <img src="{{asset('assets/frontend/images/testimonial/digimerlin-gq.png')}}" alt="">
+                        <img src="{{asset('assets/frontend/images/partner/digimerlin-gq.png')}}" alt="">
                     </div>
                 </div>
                 <div class="author-part">
@@ -494,11 +494,11 @@
             </div>
             <div class="testi-item">
                 <div class="author-desc">
-                    <div class="desc"><img class="quote" src="{{asset('assets/frontend/images/testimonial/main-home/quote2.png')}}" alt="">
+                    <div class="desc"><img class="quote" src="{{asset('assets/frontend/images/testimonial/quote2.png')}}" alt="">
                     With Digimerlin’s help, we were able to increase the functionality of our website dramatically while cutting our costs. Our website is much easier to use, has tons of more features than before, and is incredibly easy to maintain. We could not be happier with our new website! Thanks to Digimerlin!
                     </div>
                     <div class="author-img">
-                        <img src="{{asset('assets/frontend/images/testimonial/digimerlin-tis.png')}}" alt="">
+                        <img src="{{asset('assets/frontend/images/partner/digimerlin-tis.png')}}" alt="">
                     </div>
                 </div>
                 <div class="author-part">

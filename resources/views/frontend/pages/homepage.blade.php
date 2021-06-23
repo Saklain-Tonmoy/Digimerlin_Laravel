@@ -7,13 +7,13 @@
         <div class="slider-content slide1">
             <div class="container">
                 <div class="content-part">
-                    <div class="sl-sub-title wow" data-wow-delay="300ms" data-wow-duration="2000ms">Top-North Software</div>
+                    <div class="sl-sub-title wow" data-wow-delay="300ms" data-wow-duration="2000ms">Top-Notch Software</div>
                     <h1 class="sl-title mb-mb-10 wow" data-wow-delay="600ms" data-wow-duration="2000ms">Development</h1>
                     <div class="sl-desc wow" data-wow-delay="900ms" data-wow-duration="2000ms">
-                        Using modern technogoly & modern frameworks
+                        Using modern technogoly & frameworks
                     </div>
                     <div class="sl-btn wow" data-wow-delay="200ms" data-wow-duration="3000ms">
-                        <a class="readon learn-more slider-btn" href="#contact">Get in touch</a>
+                        <a class="readon learn-more slider-btn" href="tel:+(880)1708–159827">Free Consultation</a>
                     </div>
                 </div>
             </div>
@@ -27,7 +27,7 @@
                         Using modern technogoly and IT Services
                     </div>
                     <ul class="slider-btn wow " data-wow-delay="200ms" data-wow-duration="3000ms">
-                        <li><a class="readon learn-more slider-btn" href="#contact">Free Consultation</a></li>
+                        <li><a class="readon learn-more slider-btn" href="tel:+(880)1708–159827">Free Consultation</a></li>
                         <li>
                             <div class="slider-video">
                                 <a class="popup-videos" href="https://www.youtube.com/watch?v=atMUy_bPoQI">
@@ -48,7 +48,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-4 col-md-6 mb-30">
-                <div id="web" class="services-item">
+                <div class="services-item">
                     <div class="services-icon">
                         <div class="image-part">
                             <img src="{{asset('assets/frontend/images/digimerlin-web-development.png')}}" alt="">
@@ -60,14 +60,14 @@
                         </div>
                         <div class="services-desc">
                             <p>
-                            Living in the digital world, a website is crucial for any business. If you have a business and don’t have a website, you are losing out on opportunities for your business. Nowadays, people are busy and also smart. They search the internet to know about the product or service before purchasing. Remembering it, Digimerlin is providing the best professional Website for your business.
+                            With millions of websites on the web you would like to ensure that your website certainly stands out, represents you well, and most significantly, helps your business grow. Digimelrin follows the modern web development trend to provide best user experience.
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 mb-30">
-                <div id="app" class="services-item">
+                <div class="services-item">
                     <div class="services-icon">
                         <div class="image-part">
                             <img src="{{asset('assets/frontend/images/digimerlin-app-development.png')}}" alt="">
@@ -79,14 +79,14 @@
                         </div>
                         <div class="services-desc">
                             <p>
-                            A mobile app can reach your customers in no time and endorse your business in plenty of ways. With the help of mobile applications, you can directly be in touch with your customers and interact with them by integrating push notifications and noticing customers regarding your special offers. Digimerlin can help you to achieve this goal by providing the best Mobile App for Android or iOS platforms.
+                            Digimerlin offers a complete solution for custom apps development services to meet your business demands. We offer complex app and software development challenges to meet your business demands. Backend, front-end, database and server solutions for web applications, mobile apps and desktop.
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 mb-30">
-                <div id="digital-marketing" class="services-item">
+                <div class="services-item">
                     <div class="services-icon">
                         <div class="image-part">
                             <img src="{{asset('assets/frontend/images/digimerlin-digital-marketing.png')}}" alt="">
@@ -98,14 +98,14 @@
                         </div>
                         <div class="services-desc">
                             <p>
-                            The Internet has brought a whole new market. Digital marketing became the norm for a successful business and can bring a lot of opportunities and growth to businesses. It can lead to exposure and more sales. After all, your goal as a business owner is to increase your profit. If you want to see improvements in your business or increase your sales, Digimerlin can help you to achieve your goal.
+                            Digital marketing is a critical element in staying connected with your audience through social media. It brings a lot of opportunities and growth to businesses. Working side-by-side with you or independently, we help keep you engaged in all trending social media platforms.
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 mb-30">
-                <div id="seo" class="services-item">
+                <div class="services-item">
                     <div class="services-icon">
                         <div class="image-part">
                             <img src="{{asset('assets/frontend/images/digimerlin-seo.png')}}" alt="">
@@ -117,14 +117,14 @@
                         </div>
                         <div class="services-desc">
                             <p>
-                            Nowadays, people trust Google Search Engines, and achieving a top spot in search engine rankings signals to searchers that your business is a credible source. The higher you rank in results pages, the more likely your business will generate more visitors which will help to increase your sales. Digimerlin is providing the finest SEO Services to help your business by improving both visibility and ranking of your website.
+                            Achieving a top spot in search engine rankings signals to searchers that your business is a credible source. Through meticulous keyword research and white hat criteria, we will create a path for your business to achieve high rankings within the major search engines.
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 mb-30">
-                <div id="brand" class="services-item">
+                <div class="services-item">
                     <div class="services-icon">
                         <div class="image-part">
                             <img src="{{asset('assets/frontend/images/digimerlin-brand-development.png')}}" alt="">
@@ -136,14 +136,14 @@
                         </div>
                         <div class="services-desc">
                             <p>
-                            Branding is important because it makes a positive impression on consumers and allows your clients to know what to expect from your company. Many areas are used to develop a brand including advertising, social media influencers, etc. Digimerlin draws the path to practical and intuitive Brand Development Guidelines for SMEs and larger organizations to ensure consistent growth of your business.
+                            Your brand reputation is everything. It creates a positive impression on consumers and allows your clients to know what to expect from your company. Our team of experts can help protect and enhance your branding online for tangible, long-term results.
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 mb-30">
-                <div id="graphic" class="services-item">
+                <div class="services-item">
                     <div class="services-icon">
                         <div class="image-part">
                             <img src="{{asset('assets/frontend/images/digimerlin-graphic-design.png')}}" alt="">
@@ -155,7 +155,7 @@
                         </div>
                         <div class="services-desc">
                             <p>
-                            Graphic Designing helps to create a brand image for the consumers. Customers are more likely to buy products that come with a polished and eye-catchy look. So, use the best graphic design to increase the credibility of your business. Quality Graphic Desing helps to increase sales and gain trust. Digimerlin provides the best professional Graphic Design services (logo, brochures, posters, ads, etc.)
+                            The most powerful way to get your message across is through Graphical presentation. Engage your audience for business by telling your story and sharing your mission. Digimerlin provides the best professional Graphic Design services (logo design, brochures, posters, ads, etc.)
                             </p>
                         </div>
                     </div>
@@ -178,10 +178,10 @@
                             We Are Increasing Business Success With Technology
                         </h2>
                         <div class="desc pb-35">
-                            Digimerlin has a reputation of service trade involvement with Canadian International Company This Is She, King Security Limited, Hi-End Security, La-Maison Furniture, etc. Its involvement with independent businesses and private organizations has led Digimerlin to serve a variety of clients. The company’s core objective is to help business owners and organizations to grow up their business.
+                        We are a team of professionals that apply our passion for technology to create successful digital solutions for our client. Our passion for technology drives us to be creative, innovative and keeps us motivated to learn something new everyday. We believe in empowering our clients with smart and easy life that technology can provide.
                         </div>
                         <div class="desc pb-35">
-                            Since its beginning, Digimerlin has participated in different types of ICT work such as Website development & maintenance, Mobile Apps Design & Development, Software development, Network design and installation, Graphics design, SEO, Digital Marketing, Social Media Management, and Brand Launching.
+                        Our vision is to establish ourselves as a reputed technology solution and consulting company, which stands out on the basis of a strong team. A team of passionate and skilled software developers with a large and successful portfolio full of projects and clients across the globe. We believe a company led by self-motivated, enthusiastic and proactive people doing what they enjoy!
                         </div>
                     </div>
                 </div>
@@ -325,7 +325,7 @@
                         We Provide Result-Oriented Dynamic Solutions
                     </h2>
                     <div class="desc desc2">
-                        Digimerlin feeling pleased to present itself as one of the expert IT Solution companies in the online commercial world. We provide our customers the best IT Services they have ever experienced. We strongly consider our consumer loyalty.
+                    As a team of technology geeks, we strive to create something innovative. We are keen to ensure that each and every project from Digimerlin stands out in the market and delivers exceptional solutions. We aim to provide inspiring solutions and produce original and visionary results.
                     </div>
                 </div>
             </div>
@@ -423,7 +423,7 @@
 <!-- Process Section End -->
 
 <!-- Testimonial Section Start -->
-<div class="rs-testimonial main-home gray-color pt-120 pb-120 md-pt-80 md-pb-80">
+<div id="client-testimonial" class="rs-testimonial main-home gray-color pt-120 pb-120 md-pt-80 md-pb-80">
     <div class="container">
         <div class="sec-title2 text-center mb-45">
             <h2 class="title testi-title">

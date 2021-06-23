@@ -2124,7 +2124,7 @@ header .header-nav .nav-container.breakpoint-on .nav-menu {
     top: 0;
     left: -300px;
     z-index: 9999;
-    width: 300px;
+    width: 200px;
     height: 100%;
     -webkit-transition-duration: 500ms;
     transition-duration: 500ms;

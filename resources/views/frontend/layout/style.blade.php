@@ -14,7 +14,7 @@
 <!-- magnific popup css -->
 <link rel="stylesheet" type="text/css" href="{{asset('assets/frontend/css/magnific-popup.css')}}">
 <!-- spacing css -->
-<link rel="stylesheet" type="text/css" href="{{asset('assets/frontend/css/rs-spacing.css')}}">
+<link rel="stylesheet" type="text/css" href="{{asset('assets/frontend/css/spacing.css')}}">
 <!-- style css -->
 <link rel="stylesheet" type="text/css" href="{{asset('assets/frontend/css/style.css')}}">
 <!-- responsive css -->

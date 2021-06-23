@@ -24,6 +24,7 @@
                             <li><a href="#services">Services</a></li>
                             <li><a href="#about">About</a></li>
                             <li><a href="#why-choose-us">Why Choose Us</a></li>
+                            <li><a href="#client-testimonial">Client Testimonial</a></li>
                             <li><a href="#client">Client</a></li>
                             <li><a href="#contact">Contact</a></li>
                         </ul>
@@ -89,10 +90,10 @@
         <div class="widget social-link">
             <h5 class="widget-title white-color">Follow us</h5>
             <ul>
-                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                <li><a href="#"><i class="fa fa-google"></i></a></li>
+                <li><a href="https://www.facebook.com/digimerlin/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                <li><a href="https://www.instagram.com/digimerlin/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                <li><a href="https://www.linkedin.com/in/digi-merlin-4240551b0/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                <li><a href="mailto:digimerlin2021@gmail.com"><i class="fa fa-google"></i></a></li>
             </ul>
         </div>
     </div>

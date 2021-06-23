@@ -12,16 +12,16 @@
                     </div>
                     <ul class="footer-social md-mb-30">
                         <li>
-                            <a href="#" target="_blank"><span><i class="fa fa-facebook"></i></span></a>
+                            <a href="https://www.facebook.com/digimerlin/" target="_blank"><span><i class="fa fa-facebook"></i></span></a>
                         </li>
                         <li>
-                            <a href="# " target="_blank"><span><i class="fa fa-instagram"></i></span></a>
+                            <a href="https://www.instagram.com/digimerlin/" target="_blank"><span><i class="fa fa-instagram"></i></span></a>
                         </li>
                         <li>
-                            <a href="#" target="_blank"><span><i class="fa fa-google"></i></span></a>
+                            <a href="mailto:digimerlin2021@gmail.com"><span><i class="fa fa-google"></i></span></a>
                         </li>
                         <li>
-                            <a href="# " target="_blank"><span><i class="fa fa-linkedin"></i></span></a>
+                            <a href="https://www.linkedin.com/in/digi-merlin-4240551b0/" target="_blank"><span><i class="fa fa-linkedin"></i></span></a>
                         </li>
 
                     </ul>
@@ -29,12 +29,12 @@
                 <div class="col-lg-3 col-md-12 col-sm-12 pl-45 md-pl-15 md-mb-30">
                     <h3 class="widget-title">Services</h3>
                     <ul class="site-map white-color">
-                        <li><a href="#web">Web Development</a></li>
-                        <li><a href="#app">App Development</a></li>
-                        <li><a href="#digital-marketing">Digital Marketing</a></li>
-                        <li><a href="#seo">SEO</a></li>
-                        <li><a href="#brand">Brand Development</a></li>
-                        <li><a href="#graphic">Graphic Design</a></li>
+                        <li><span>Web Development</span></li>
+                        <li><span>App Development</span></li>
+                        <li><span>Digital Marketing</span></li>
+                        <li><span>SEO</span></li>
+                        <li><span>Brand Development</span></li>
+                        <li><span>Graphic Design</span></li>
                     </ul>
                 </div>
                 <div class="col-lg-3 col-md-12 col-sm-12 md-mb-30">
@@ -66,14 +66,6 @@
                 </div>
                 <div class="col-lg-3 col-md-12 col-sm-12">
                     <h3 class="widget-title">Our Location</h3>
-                    <!-- <form id="subscriberForm" method="POST">
-                        @csrf
-                        <p>
-                            <input type="email" id="subscriberEmail" name="subscriberEmail" placeholder="Your email address" required="">
-                            <input type="submit" value="Sign up">
-                            <i class="fa fa-paper-plane"></i>
-                        </p>
-                    </form> -->
                     <div>
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.900998038651!2d90.39969071498136!3d23.750909584589017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b89a9fa88a65%3A0x5c5f7456a5523ac3!2sGQ%20Building%2C%20Dhaka!5e0!3m2!1sen!2sbd!4v1623780247543!5m2!1sen!2sbd" width="auto" height="auto" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                     </div>
